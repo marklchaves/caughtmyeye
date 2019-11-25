@@ -1,4 +1,4 @@
-# creating
+# c a u g ht my e y e
 [c a u g ht my e y e](https://caughtmyeye.dev) portfolio website for mark l chaves on CloudCannon
 
 ---
