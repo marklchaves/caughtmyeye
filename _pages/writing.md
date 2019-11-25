@@ -16,7 +16,7 @@ feature_row1:
     alt: "mark’s interview with photographer Idan Golko published on Grryo.com by freelance writer mark l chaves"
     title: "interview with Idan Golko published on Grryo.com"
 feature_row2:
-  - url: /assets/docs/editorr-blog-complete-sentence-marklchaves.pdf
+  - url: https://blog.editorr.com/writing/what-makes-a-sentence-complete
     image_path: /assets/images/writing/editorr-blog-complete-sentence-1280w.jpg
     alt: "what makes a sentence complete on editorr.com by freelance writer mark l chaves"
     title: "what makes a sentence complete on editorr.com"
