@@ -1,0 +1,69 @@
+---
+title: people
+excerpt: i've just seen a face<br>~Paul McCartney, John Lennon 
+collection: photography
+date: 2019-11-16 07:00:00 +0800
+layout: splash
+header:
+  teaser: /assets/images/people/bhutan-portrait-keza-ed-300w.jpg
+  overlay_image: /assets/images/people/bhutan-portrait-keza-ed-1280w.jpg
+  overlay_image_mob: /assets/images/people/bhutan-portrait-keza-ed-720w.jpg
+  overlay_filter: 0.3
+  caption: "portrait of keza near paro bhutan 2014"
+gallery1:
+  - url: /assets/images/people/bali-mas-iman-portrait-potong-rambut-1280w.jpg
+    image_path: /assets/images/people/bali-mas-iman-portrait-potong-rambut-1280w.jpg
+    alt: "portrait of iman near ubud bali by freelance photographer mark l chaves"
+    title: "portrait of iman near ubud bali"
+gallery2:
+  - url: /assets/images/people/bali-campuhan-meysa-1-ed-800w.jpg
+    image_path: /assets/images/people/bali-campuhan-meysa-1-ed-562w.jpg
+    alt: "portrait of meysa in campuhan bali by freelance photographer mark l chaves"
+    title: "film portrait of meysa in campuhan"
+  - url: /assets/images/people/bali-penestanan-annette-doorway-3-ed-562w.jpg
+    image_path: /assets/images/people/bali-penestanan-annette-doorway-3-ed-562w.jpg
+    alt: "film portrait of artist/fashion designer annette natocho by freelance photographer mark l chaves"
+    title: "film portrait of artist/designer annette natocho"
+gallery3:
+  - url: /assets/images/people/ohio-akron-ian-wall-brick-1280w.jpg
+    image_path: /assets/images/people/ohio-akron-ian-wall-brick-1280w.jpg
+    alt: "portrait of ian in akron ohio on portra 160 by freelance photographer mark l chaves"
+    title: "portrait of ian in akron ohio on portra 160"
+gallery4:
+  - url: /assets/images/people/1-california-san-francisco-mission-guitar-jorge-castro-1-1240w.jpg
+    image_path: /assets/images/people/1-california-san-francisco-mission-guitar-jorge-castro-1-1240w.jpg
+    alt: "portrait of jorge in san francisco (mission) on ilford hp5 plus 400 by freelance photographer mark l chaves"
+    title: "portrait of jorge in san francisco (mission) on ilford hp5 plus 400"
+gallery5:
+  - url: /assets/images/people/bhutan-portrait-keza-ed-1280w.jpg
+    image_path: /assets/images/people/bhutan-portrait-keza-ed-1280w.jpg
+    alt: "portrait of keza near paro bhutan by freelance photographer mark l chaves"
+    title: "portrait of keza near paro bhutan"
+gallery6:
+  - url: /assets/images/people/bali-penestanan-bruce-portrait-bw-562w.jpg
+    image_path: /assets/images/people/bali-penestanan-bruce-portrait-bw-562w.jpg
+    alt: "portrait of an artist in penestanan bali by freelance photographer mark l chaves"
+    title: "portrait of an artist in penestanan bali "
+  - url: /assets/images/people/bali-rendang-posko-beras-farmer-portret-562w.jpg
+    image_path: /assets/images/people/bali-rendang-posko-beras-farmer-portret-562w.jpg
+    alt: "portrait of a balinese rice farmer near mount agung by freelance photographer mark l chaves"
+    title: "portrait of a balinese rice farmer near mount agung"
+gallery7:
+  - url: /assets/images/people/boston-tstation-adam-demeusy-film-1982-1280w.jpg
+    image_path: /assets/images/people/boston-tstation-adam-demeusy-film-1982-1280w.jpg
+    alt: "portrait of adam boston ma c. 1982 by freelance photographer mark l chaves"
+    title: "portrait of adam boston ma c. 1982 "
+---
+{% include gallery id="gallery1" %}
+
+{% include gallery id="gallery2" layout="half" %}
+
+{% include gallery id="gallery3" %}
+
+{% include gallery id="gallery4" %}
+
+{% include gallery id="gallery5" %}
+
+{% include gallery id="gallery6" layout="half" %}
+
+{% include gallery id="gallery7" %}
