@@ -1,0 +1,28 @@
+/**
+ * For full screen hero image.
+ */
+ 
+.masthead {
+  border-bottom: none;
+  background-color: transparent;
+}
+
+.masthead__inner-wrap {
+  background-color: transparent;
+}
+
+.masthead__inner-wrap {
+  background-color: transparent;
+}
+.masthead__inner-wrap nav {
+  z-index: 10;
+  background-color: transparent;
+}
+
+.page__hero--overlay {
+  margin-top: -89px;
+}
+
+.page__hero--overlay .wrapper {
+  margin-top: 89px;
+}

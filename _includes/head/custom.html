@@ -1,0 +1,35 @@
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- For iPhone -->
+<link rel="apple-touch-icon" href="/assets/icons/icon-72x72.png" />
+<!-- For iPhone Retina display -->
+<link
+  rel="apple-touch-icon"
+  sizes="128x128"
+  href="/assets/icons/icon-128x128.png"
+/>
+<!-- For iPad -->
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/icon-72x72.png" />
+<!-- For iPad Retina display -->
+<link
+  rel="apple-touch-icon"
+  sizes="144x144"
+  href="/assets/icons/icon-144x144.png"
+/>
+
+<!-- end custom head snippets -->
+
+<!-- Masonry -->
+{% if page.masonry %}
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+  <script type="text/javascript" src="/assets/js/portfolio-masonry.js"></script>
+  <link rel="stylesheet" type="text/css" href="/assets/css/my-masonry-grid.css">
+{% endif %}
+
+{% if page.layout == "splash" %}
+  <link rel="stylesheet" type="text/css" href="/assets/css/my-splash.css">
+{% endif %}
