@@ -2,7 +2,7 @@
 title: bhutan
 excerpt: the last shangri-la
 collection: photography
-date: 2019-11-07 18:30:00 +0800
+date: 2019-12-07 18:30:00 +0800
 layout: splash
 header:
   teaser: /assets/images/bhutan/bhutan-paro-woman-baby-strideby-ed-cr-300w.jpg
@@ -77,6 +77,11 @@ gallery11:
     image_path: /assets/images/bhutan/bhutan-paro-pasar-cewek-bayar-1280w.jpg
     alt: "bhutan photography portfolio for freelance photographer mark l chaves"
     title: "paro"
+gallery12:
+  - url: /assets/images/bhutan/bhutan-paro-woman-baby-strideby-1280w.jpg
+    image_path: /assets/images/bhutan/bhutan-paro-woman-baby-strideby-1280w.jpg
+    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    title: "the back streets of paro"
 ---
 <p class="p-wrapper">
     <span class="dropcap clearfix">b</span>hutan has been romanticised as the last shangri-la. most often, typical pictures brought back from bhutan are of breathtaking mountain landscapes, monasteries hanging off sheer cliff walls; jubilant and colourful festival dancers; or solemn monks draped in maroon robes. i saw bhutan mostly in black &amp; white.
@@ -103,3 +108,5 @@ gallery11:
 {% include gallery id="gallery10" %}
 
 {% include gallery id="gallery11" %}
+
+{% include gallery id="gallery12" %}
