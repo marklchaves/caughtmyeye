@@ -5,7 +5,7 @@
 /* Colors */
 $background-color: #212326 !default;
 $text-color: #eaeaea !default;
-$primary-color: #F05E35 !default; /* red orange */
+$primary-color: #f05e35 !default; /* red orange */
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
@@ -54,5 +54,30 @@ h1 {
   }
   to {
     opacity: 1;
+  }
+}
+
+.dropcap {
+  font-size: 3rem;
+  line-height: 1;
+  float: left;
+  padding-right: 0.1em;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Multi-column */
+.p-wrapper {
+  column-count: 2;
+}
+
+.p-wrapper {
+  p {
+    /* Avoids any break from being inserted within the principal box. ~MDN */
+    break-inside: avoid;
   }
 }

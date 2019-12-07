@@ -67,7 +67,11 @@ gallery8:
     alt: "surabaya photography portfolio for freelance photographer mark l chaves"
     title: "traditional ice cream vendor on 35mm film old town Surabaya"
 ---
-they say home is where the heart is. i _used_ to believe that. now, i feel more like a nomad. home is anywhere. home is everywhere. youngstown will always be my _first_ home. surabaya is my _second_ home.
+<p class="p-wrapper">
+  <span class="dropcap clearfix">t</span>hey say home is where the heart is. i <em>used</em> to believe that. now, i feel more like a nomad. home is anywhere. home is everywhere. youngstown will always be my <em>first</em> home. surabaya is my <em>second</em> home.
+</p>
+
+---
 
 > In the 18th and 19th centuries, Surabaya was the largest city in the Dutch East Indies. ~Wikipedia
 
