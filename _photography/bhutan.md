@@ -83,9 +83,9 @@ gallery12:
     alt: "bhutan photography portfolio for freelance photographer mark l chaves"
     title: "the back streets of paro"
 ---
-<p class="p-wrapper">
-    <span class="dropcap clearfix">b</span>hutan has been romanticised as the last shangri-la. most often, typical pictures brought back from bhutan are of breathtaking mountain landscapes, monasteries hanging off sheer cliff walls; jubilant and colourful festival dancers; or solemn monks draped in maroon robes. i saw bhutan mostly in black &amp; white.
-</p>
+
+<span class="dropcap clearfix">b</span>hutan has been romanticised as the last shangri-la. most often, typical pictures brought back from bhutan are of breathtaking mountain landscapes, monasteries hanging off sheer cliff walls, jubilant and colourful festival dancers, or solemn monks draped in maroon robes. i saw bhutan mostly in black & white.
+{: .p-wrapper}
 
 {% include gallery id="gallery1" %}
 
