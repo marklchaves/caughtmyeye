@@ -13,15 +13,17 @@ I'm migrating my main portfolio on [marklchaves.com](https://marklchaves.com) ov
 
 marklchaves.com is a WordPress site running on SiteGround. I hope to have that shut down by the end of 2019.
 
-CaughtMyEye.dev's first gallery showcases my photos of **surabaya**--Indonesia's second largest city. For this collection, I added some custom code to support _art direction_ responsive web design. This means now I can supply a mobile friendly (portrait) hero that will display by default (mobile first), but will be overridden by it's _landscape_ version on screens `768px` and larger. Get on the [live demo on my surabaya gallery](https://caughtmyeye.dev/photography/surabaya/). Switch from desktop to mobile. notice how the _becak_ driver stays (partially) in the frame on small devices. Without this code, he would be completely hacked out of the screen.
+CaughtMyEye.dev's first gallery showcases my photos of **surabaya**--Indonesia's second largest city. For this collection, I added some custom code to support _art direction_ responsive web design. This means now I can supply a mobile friendly (portrait) hero that will display by default (mobile first), but will be overridden by it's _landscape_ version on screens `768px` and larger. Get on the [live demo on my surabaya gallery](https://caughtmyeye.dev/photography/surabaya/). Switch from desktop to mobile. Notice how the _becak_ driver stays (partially) in the frame on small devices. Without this code, he would be completely "hacked" out of the screen.
 
 [see the gist, if you are interested.](https://gist.github.com/marklchaves/589cf392b5076d46b5fc0037bff7e74e)
 
 > I'll try to do a more complete write-up. Maybe even try my first pull request.
 
+**New update.**
+
 ### pull request to minimal mistakes 25 November 2019
 
-I submitted a pull request for my _art direction_ hero code. No movement yet. Judging from what kinds of things get into the theme (and what gets rejected), I'm not holding my breath. But, I did a nice write-up. Here's the [pull request](https://github.com/mmistakes/minimal-mistakes/pull/2331}. Give it a _thumbs up_ if you like it.
+I submitted a pull request for my _art direction_ hero code. No movement yet. Judging from what kinds of things get into the theme (and what gets rejected), I'm not holding my breath. But, I did a nice write-up. Here's the [pull request](https://github.com/mmistakes/minimal-mistakes/pull/2331). Give it a _thumbs up_ if you like it.
 
 ---
 
