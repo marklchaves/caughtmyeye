@@ -31,6 +31,15 @@ gallery3:
     image_path: /assets/images/interior/airbnb-9549061-ross-overview-kitchen-1280w.jpg
     alt: "Private Villa for Airbnb Plus. Interior Photography - mark l chaves freelance photographer Bali"
     title: "Private Villa for Airbnb Plus"
+gallery4:
+  - url: /assets/images/interior/bali-villa-architecture-design-exterior-pool-562w.jpg
+    image_path: /assets/images/interior/bali-villa-architecture-design-exterior-pool-562w.jpg
+    alt: "Private Villa for Airbnb Plus. Interior Photography - mark l chaves freelance photographer Bali"
+    title: "Private Villa for Airbnb Plus"
+  - url: /assets/images/interior/surabaya-interior-mr-fox-marklchaves-562w.jpg
+    image_path: /assets/images/interior/surabaya-interior-mr-fox-marklchaves-562w.jpg
+    alt: "Mr. Fox Surabaya - Interior Photography - mark l chaves freelance photographer Bali"
+    title: "Mr. Fox Surabaya"
 ---
 {% include gallery id="gallery1" %}
 
@@ -39,5 +48,7 @@ gallery3:
 {% include gallery id="gallery2" %}
 
 {% include gallery id="gallery3" %}
+
+{% include gallery id="gallery4" layout="half" %}
 
 more coming soon
