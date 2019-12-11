@@ -77,7 +77,7 @@ gallery9:
     title: "portrait of robert downtown surabaya"
 ---
 <p class="p-wrapper">
-  <span class="dropcap clearfix">t</span>hey say home is where the heart is. i <em>used</em> to believe that. now, i feel more like a nomad. home is anywhere. home is everywhere. youngstown will always be my <em>first</em> home. surabaya is my <em>second</em> home.
+  <span class="dropcap clearfix">t</span>hey say home is where the heart is. i <em>used</em> to believe that. now, i feel more like a nomad. home is anywhere. home is everywhere. <a href="/stories/youngstown-syro-steel/">youngstown</a> will always be my <em>first</em> home. even though i live in bali, i consider surabaya as my <em>second</em> home. surabaya is indonesia's second largest city. the name surabaya is derived from two javanese words--suro (shark) and boyo (crocodile).
 </p>
 
 ---
