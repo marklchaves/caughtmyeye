@@ -69,6 +69,15 @@ gallery9:
     image_path: /assets/images/interior/airbnb-leon-23983181-overview-exterior-1280w.jpg
     alt: "This is Bali - Interior photography by mark l chaves"
     title: "This is Bali - Interior photography by mark l chaves"
+gallery10:
+  - url: /assets/images/interior/bali-ubud-villa-outdoor-dining-kitchen-1280w.jpg
+    image_path: /assets/images/interior/bali-ubud-villa-outdoor-dining-kitchen-562w.jpg
+    alt: "Private Villa for Airbnb Plus. Interior Photography - mark l chaves freelance photographer Bali"
+    title: "Private Villa for Airbnb Plus"
+  - url: /assets/images/interior/airbnb-villa-mar-20045667-overview-common-1280w.jpg
+    image_path: /assets/images/interior/airbnb-villa-mar-20045667-overview-common-562w.jpg
+    alt: "Private Villa for Airbnb Plus. Interior Photography - mark l chaves freelance photographer Bali"
+    title: "Private Villa for Airbnb Plus"
 ---
 {% include gallery id="gallery1" %}
 
@@ -89,5 +98,7 @@ gallery9:
 {% include gallery id="gallery8" %}
 
 {% include gallery id="gallery9" %}
+
+{% include gallery id="gallery10" %}
 
 more coming soon
