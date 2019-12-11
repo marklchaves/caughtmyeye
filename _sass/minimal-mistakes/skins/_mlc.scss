@@ -81,3 +81,25 @@ h1 {
     break-inside: avoid;
   }
 }
+
+/* Vertical Text */
+
+/* Top to bottom. */
+.vert-me {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+  letter-spacing: .35rem;
+}
+
+/* Bottom to top. */
+.bottoms-up {
+  writing-mode: tb-rl;
+  transform: rotate(-180deg);
+  letter-spacing: .35rem;
+}
+
+@media all and (max-width: 767.990px) {
+  .vert-me, .bottoms-up {
+    display: none;
+  }
+}

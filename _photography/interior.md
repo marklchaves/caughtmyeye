@@ -78,6 +78,9 @@ gallery10:
     image_path: /assets/images/interior/airbnb-villa-mar-20045667-overview-common-562w.jpg
     alt: "Private Villa for Airbnb Plus. Interior Photography - mark l chaves freelance photographer Bali"
     title: "Private Villa for Airbnb Plus"
+feature_row2:
+  - image_path: /assets/images/interior/pascale-seaside-villa-overview-exterior-ZB5gnhz-800w.jpg
+    alt: "Interior photography by freelance writer mark l chaves"
 ---
 {% include gallery id="gallery1" %}
 
@@ -100,5 +103,9 @@ gallery10:
 {% include gallery id="gallery9" %}
 
 {% include gallery id="gallery10" %}
+
+<span class="bottoms-up">only a surfer knows the feeling</span>
+<img src="/assets/images/interior/pascale-seaside-villa-overview-exterior-ZB5gnhz-800w.jpg" style="vertical-align:top;">
+<span class="vert-me">only a surfer knows the feeling</span>
 
 more coming soon
