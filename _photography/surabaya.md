@@ -65,7 +65,16 @@ gallery8:
   - url: /assets/images/surabaya/bapak-sama-thermos-surabaya-ed-800w.jpg
     image_path: /assets/images/surabaya/bapak-sama-thermos-surabaya-ed-517w.jpg
     alt: "surabaya photography portfolio for freelance photographer mark l chaves"
-    title: "traditional ice cream vendor on 35mm film old town Surabaya"
+    title: "traditional ice cream vendor on 35mm film old town surabaya"
+gallery9:
+  - url: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-2-800w.jpg
+    image_path: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-2-800w.jpg
+    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    title: "portrait of robert downtown surabaya"
+  - url: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-534w.jpg
+    image_path: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-375w.jpg
+    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    title: "portrait of robert downtown surabaya"
 ---
 <p class="p-wrapper">
   <span class="dropcap clearfix">t</span>hey say home is where the heart is. i <em>used</em> to believe that. now, i feel more like a nomad. home is anywhere. home is everywhere. youngstown will always be my <em>first</em> home. surabaya is my <em>second</em> home.
@@ -91,3 +100,5 @@ gallery8:
 {% include gallery id="gallery7" %}
 
 {% include gallery id="gallery8" layout="half" %}
+
+{% include gallery id="gallery9" layout="half" %}
