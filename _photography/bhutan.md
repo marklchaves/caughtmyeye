@@ -82,6 +82,11 @@ gallery12:
     image_path: /assets/images/bhutan/bhutan-paro-woman-baby-strideby-1280w.jpg
     alt: "bhutan photography portfolio for freelance photographer mark l chaves"
     title: "the back streets of paro"
+gallery13:
+  - url: /assets/images/bhutan/bhutan-paro-uma-spa-attendant-portrait-1280w.jpg
+    image_path: /assets/images/bhutan/bhutan-paro-uma-spa-attendant-portrait-1280w.jpg
+    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    title: "the black & white of bhutan"
 ---
 
 <span class="dropcap clearfix">b</span>hutan has been romanticised as the last shangri-la. most often, typical pictures brought back from bhutan are of breathtaking mountain landscapes, monasteries hanging off sheer cliff walls, jubilant and colourful festival dancers, or solemn monks draped in maroon robes. i saw bhutan mostly in black & white.
@@ -110,3 +115,5 @@ gallery12:
 {% include gallery id="gallery11" %}
 
 {% include gallery id="gallery12" %}
+
+{% include gallery id="gallery13" %}
