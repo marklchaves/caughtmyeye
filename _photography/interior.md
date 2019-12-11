@@ -81,6 +81,11 @@ gallery10:
 feature_row2:
   - image_path: /assets/images/interior/pascale-seaside-villa-overview-exterior-ZB5gnhz-800w.jpg
     alt: "Interior photography by freelance writer mark l chaves"
+gallery11:
+  - url: /assets/images/interior/rainy-house-of-gold-overview-br-2-1280w.jpg
+    image_path: /assets/images/interior/rainy-house-of-gold-overview-br-2-1280w.jpg
+    alt: "House of Gold - Interior photography by mark l chaves"
+    title: "House of Gold"
 ---
 {% include gallery id="gallery1" %}
 
@@ -104,8 +109,10 @@ feature_row2:
 
 {% include gallery id="gallery10" %}
 
-<span class="bottoms-up">only a surfer knows the feeling</span>
-<img src="/assets/images/interior/pascale-seaside-villa-overview-exterior-ZB5gnhz-800w.jpg" style="vertical-align:top;">
-<span class="vert-me">only a surfer knows the feeling</span>
+<div style="text-align: center;">
+  <span class="bottoms-up">only a surfer knows the feeling</span>
+  <img src="/assets/images/interior/pascale-seaside-villa-overview-exterior-ZB5gnhz-800w.jpg" style="vertical-align:top;">
+  <span class="vert-me">only a surfer knows the feeling</span>
+</div>
 
-more coming soon
+{% include gallery id="gallery11" %}

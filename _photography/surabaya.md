@@ -93,7 +93,7 @@ gallery9:
 {% include gallery id="gallery4" layout="half" %}
 
 {% include gallery id="gallery5" %}
-[read the story](/portfolio/surabaya-becak-driver-1) behind the above portrait of an ampel becak driver.
+[read the story](/stories/surabaya-becak-driver-1) behind the above portrait of an ampel becak driver.
 
 {% include gallery id="gallery6" layout="half" %}
 
