@@ -64,6 +64,11 @@ gallery8:
     image_path: /assets/images/interior/rainy-overview-living-1280w.jpg
     alt: "Writer's Cottage - Interior photography by mark l chaves"
     title: "Writer's Cottage - Interior photography by mark l chaves"
+gallery9:
+  - url: /assets/images/interior/airbnb-leon-23983181-overview-exterior-1280w.jpg
+    image_path: /assets/images/interior/airbnb-leon-23983181-overview-exterior-1280w.jpg
+    alt: "This is Bali - Interior photography by mark l chaves"
+    title: "This is Bali - Interior photography by mark l chaves"
 ---
 {% include gallery id="gallery1" %}
 
@@ -82,5 +87,7 @@ gallery8:
 {% include gallery id="gallery7" layout="half" %}
 
 {% include gallery id="gallery8" %}
+
+{% include gallery id="gallery9" %}
 
 more coming soon

@@ -134,9 +134,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marklchaves"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "DEV"
+      icon: "fab fa-fw fa-dev"
+      url: "https://dev.to/marklchaves"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marklchaves"
