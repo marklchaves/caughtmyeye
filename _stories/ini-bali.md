@@ -5,9 +5,8 @@ collection: stories
 date: 2019-07-06
 header:
   teaser: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-300w.jpg
+  image: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.jpg
 ---
-
-{% include figure image_path="/assets/images/bali/bali-payogan-pura-bapak-pager-ed-mob.jpg" alt="ini bali on 35mm film" %}
 
 ## smoke, steps, &amp; and a balinese man
 
