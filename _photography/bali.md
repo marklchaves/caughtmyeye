@@ -28,6 +28,10 @@ gallery3:
     image_path: /assets/images/bali/rina-jendela-warung-sepeda-motor-1-ed-1280w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
     title: "tara at the warung - displayed at contrasto gallery in milan italy"
+  - url: /assets/images/bali/bali-sayan-pasar-ibu-masks-jual-1280w.jpg
+    image_path: /assets/images/bali/bali-sayan-pasar-ibu-masks-jual-1280w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "ini bali // this is bali"
 ---
 
 <p class="p-wrapper">
