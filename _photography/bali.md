@@ -10,10 +10,18 @@ header:
   overlay_filter: 0.3
   caption: "gardening at night - kuta beach bali"
 gallery1:
+  - url: /assets/images/bali/balinality-offerings-wedding-sukma-1280w.jpg
+    image_path: /assets/images/bali/balinality-offerings-wedding-sukma-1280w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "balinality - what one sees at a balinese wedding 35mm film"
   - url: /assets/images/bali/bali-cewek-oakland-ibu-toku-1280w.jpg
     image_path: /assets/images/bali/bali-cewek-oakland-ibu-toku-1280w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
     title: "oakland in bali"
+  - url: /assets/images/bali/bali-naughty-nuris-bapak-jual-sepeda-1280w.jpg
+    image_path: /assets/images/bali/bali-naughty-nuris-bapak-jual-sepeda-1280w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "the dichotomy of bali - naughty nuri's outside of ubud"
 gallery2:
   - url: /assets/images/bali/bali-campuhan-pura-gunung-lembah-ed-562w.jpg
     image_path: /assets/images/bali/bali-campuhan-pura-gunung-lembah-ed-562w.jpg
@@ -35,7 +43,7 @@ gallery3:
 ---
 
 <p class="p-wrapper">
-    <span class="dropcap clearfix">Y</span>ou caught me. i'm in the process of moving my portfolio over from <a href="https://marklchaves.com/bali">marklchaves.com</a>. please stay tuned.
+    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from <a href="https://marklchaves.com/bali">marklchaves.com</a>. here's what i have so far.<br><br>there's a lot more to come.
 </p>
 
 {% include gallery id="gallery1" %}
