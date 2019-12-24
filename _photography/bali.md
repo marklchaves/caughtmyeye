@@ -14,6 +14,14 @@ gallery1:
     image_path: /assets/images/bali/balinality-offerings-wedding-sukma-1280w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
     title: "balinality - what one sees at a balinese wedding 35mm film"
+  - url: /assets/images/bali/bali-sanggingan-ibu-pak-agung-1-bw-ed-1280w.jpg
+    image_path: /assets/images/bali/bali-sanggingan-ibu-pak-agung-1-bw-ed-1280w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "ini bali - this is bali"
+  - url: /assets/images/bali/anak-dancers-di-wedding-canggu-ed-1280w.jpg
+    image_path: /assets/images/bali/anak-dancers-di-wedding-canggu-ed-1280w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "ini bali - this is bali on 35mm film"
   - url: /assets/images/bali/bali-cewek-oakland-ibu-toku-1280w.jpg
     image_path: /assets/images/bali/bali-cewek-oakland-ibu-toku-1280w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
