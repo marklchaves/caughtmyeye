@@ -10,9 +10,9 @@ sidebar:
   - title: "freelance web developer"
     text: "i slung code for fortune 500 companies in a previous life"
   - title: "<hr>"
-    text: "now moving from"
+    text: "migrating from"
   - title: ""
-    text: "marklchaves.com to here"
+    text: "marklchaves.com"
 sort_by: date
 sort_order: reverse
 masonry: false
