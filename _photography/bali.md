@@ -1,6 +1,6 @@
 ---
 title: bali
-excerpt: ini bali / this is bali
+excerpt: ini bali // this is bali
 collection: photography
 date: 2019-12-14 17:45:00 +0800
 layout: splash
