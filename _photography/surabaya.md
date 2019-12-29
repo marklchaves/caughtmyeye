@@ -57,6 +57,10 @@ gallery7:
     image_path: /assets/images/surabaya/surabaya-ruang-tunggu-rumah-sakit-1280w.jpg
     alt: "surabaya photography portfolio for freelance photographer mark l chaves"
     title: "ruang tunggu di rumah sakit 35mm film"
+  - url: /assets/images/surabaya/surabaya-film-dua-kaki-lima-di-jalan-bw-1280w.jpg
+    image_path: /assets/images/surabaya/surabaya-film-dua-kaki-lima-di-jalan-bw-1280w.jpg
+    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    title: "kaki limas - five legs"
 gallery8:
   - url: /assets/images/surabaya/surabaya-kota-jalan-besar-800w.jpg
     image_path: /assets/images/surabaya/surabaya-kota-jalan-besar-517w.jpg

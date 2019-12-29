@@ -23,7 +23,7 @@ gallery2:
   - url: /assets/images/film/bali-ubud-palace-ibu-bus-jendela-562w.jpg
     image_path: /assets/images/film/bali-ubud-palace-ibu-bus-jendela-562w.jpg
     alt: "35mm film photography portfolio for freelance photographer mark l chaves"
-    title: "looking for saul // ubud bali"
+    title: "looking for saul in ubud bali"
 gallery3:
   - url: /assets/images/film/bali-ubud-pasar-bemo-bapak-film-1280w.jpg
     image_path: /assets/images/film/bali-ubud-pasar-bemo-bapak-film-1280w.jpg
