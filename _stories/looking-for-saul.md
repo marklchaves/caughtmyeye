@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/bali/bali-ubud-palace-ibu-bus-jendela-300w.jpg
 ---
 
-{% include figure image_path="/assets/images/bali/bali-ubud-palace-ibu-bus-jendela-720w.jpg" alt="looking for saul on 35mm film"%}
+{% include figure image_path="/assets/images/bali/bali-ubud-palace-ibu-bus-jendela-720w.jpg" alt="looking for saul on 35mm film" %}
 
 ## saul leiter
 

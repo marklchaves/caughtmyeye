@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/barcelona/barcelona-ally-emily-film-ed-300w.jpg
 ---
 
-{% include figure image_path="/assets/images/barcelona/barcelona-ally-emily-film-ed-wb.jpg" alt="emily in barcelona a long time ago"%}
+{% include figure image_path="/assets/images/barcelona/barcelona-ally-emily-film-ed-wb.jpg" alt="emily in barcelona a long time ago" %}
 
 ## emily in barcelona
 
