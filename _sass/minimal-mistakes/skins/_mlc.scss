@@ -44,6 +44,10 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
   border: gray !important;
 }
 
+/* || Custom Styles */
+
+/* H1 Fading */
+
 h1 {
   animation: 3s 1 fadein;
 }
@@ -57,12 +61,16 @@ h1 {
   }
 }
 
+/* Dropcap */
+
 .dropcap {
   font-size: 3rem;
   line-height: 1;
   float: left;
   padding-right: 0.1em;
 }
+
+/* Standard Clearfix */
 
 .clearfix:after {
   content: "";
@@ -101,5 +109,29 @@ h1 {
 @media all and (max-width: 1023.998px) {
   .vert-me, .bottoms-up {
     display: none;
+  }
+}
+
+/* To Top Button */
+
+#totop {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  border: none;
+  outline: none;
+  background-color: rgba(0,0,0,0.5);
+  color: gray;
+  border-radius: 4px;
+  font-size: 1.4em;
+  line-height: 0.6em;
+  padding-top: 0.4em;
+  font-family: 'Courier New', Courier, monospace;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: none;
+  
+  &:hover {
+    background-color: #333;
   }
 }
