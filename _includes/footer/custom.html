@@ -1,3 +1,25 @@
 <!-- start custom footer snippets -->
 
+<button onclick="scrollUp()" id="totop" title="go to the top">^</button>
+
+<script>
+//Tell the function scrollTop to run when the user scrolls
+window.onscroll = scrollTop;
+
+//scrollTop pops totop in and out after scrolling 50px
+function scrollTop() {
+  if (document.body.scrollTop >= 50 || document.documentElement.scrollTop >= 50) {
+  document.getElementById('totop').style.display = 'block';
+  } else {
+  document.getElementById('totop').style.display = 'none';
+  }
+}
+
+//scroll to top of page when onclick scrollUp triggered
+function scrollUp() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0; // IE and Firefox
+}
+</script>
+
 <!-- end custom footer snippets -->
