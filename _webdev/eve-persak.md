@@ -1,6 +1,6 @@
 ---
 title: eve persak
-excerpt: wordpress design/development<br> for evepersak.com
+excerpt: wordpress design/development <br>for evepersak.com
 collection: webdev
 date: 2019-11-23 09:00:00 +0800
 layout: splash

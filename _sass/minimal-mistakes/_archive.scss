@@ -20,6 +20,7 @@
 
 .archive__item {
   position: relative;
+  min-width: 300px;
 }
 
 .archive__subtitle {
@@ -126,6 +127,11 @@
    Grid view
    ========================================================================== */
 
+.entries-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 .archive {
   .grid__wrapper {
     /* extend grid elements to the right */
@@ -141,9 +147,9 @@
 }
 
 .grid__item {
-  margin-bottom: 1.5em;
+  /* margin-bottom: 1.5em; Removing this for now b/c margin-right no longer working. ~mlc */
   right: 0% !important; /* Seems to help center grid items on small devices. ~mlc */
-  margin-right: 1%;
+  margin-right: 1%; /* Fixing photography grid (display: grid) broke this on homepage. ~mlc */
   -webkit-transition: $hover-transition; /* Safari 3.1 to 6.0 */
   transition: $hover-transition;
 
@@ -186,19 +192,12 @@
     font-size: 0.6em;
   }
 
-  /* 
-   * Don't want to display for masonry grid.
-   * If display: none, then hyperlinks don't work. 
-   * So, make it have a 0 size. ~mlc
-   */
   .archive__item-title {
     margin-top: 0.15em;
     font-size: $type-size-5;
   }
 
   .archive__item-excerpt {
-    /* display: none; Let's not display grid titles for masonry. ~mlc */
-
     @include breakpoint($medium) {
       display: block;
       font-size: $type-size-6;

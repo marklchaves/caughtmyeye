@@ -1,6 +1,6 @@
 ---
 title: scaling student success
-excerpt: wordpress design/development<br> for scalingstudentsuccess.org
+excerpt: wordpress design/development <br>for scalingstudentsuccess.org
 collection: webdev
 date: 2019-11-14 05:00:00 +0800
 layout: splash
