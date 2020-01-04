@@ -1,6 +1,6 @@
 ---
 title: people
-excerpt: i've just seen a face<br> ~Paul McCartney, John Lennon 
+excerpt: i've just seen a face <br>~Paul McCartney, John Lennon 
 collection: photography
 date: 2019-11-16 07:00:00 +0800
 layout: splash

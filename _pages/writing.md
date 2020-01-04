@@ -46,4 +46,4 @@ feature_row4:
 ## Print
 {% include feature_row id="feature_row4" %}
 
-More on [Medium.com](https://medium.com/@marklchaves), [diaforlife](http://diaforlife.com/authors/123), [inBali.org](http://www.inbali.org/author/mark_chaves/), [Balipedia](https://balipedia.com/profile/marklchaves), & [DEV](https://dev.to/marklchaves).
+More on [Medium](https://medium.com/@marklchaves), [diaforlife](http://diaforlife.com/authors/123), [inBali.org](http://www.inbali.org/author/mark_chaves/), [Balipedia](https://balipedia.com/profile/marklchaves), & [DEV](https://dev.to/marklchaves).

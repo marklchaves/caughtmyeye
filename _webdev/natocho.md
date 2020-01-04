@@ -1,6 +1,6 @@
 ---
 title: natocho art & design
-excerpt: photography and<br> wordpress design/development<br> for natocho.com
+excerpt: photography and<br> wordpress design/development <br>for natocho.com
 collection: webdev
 date: 2019-11-21 12:40:00 +0800
 layout: splash

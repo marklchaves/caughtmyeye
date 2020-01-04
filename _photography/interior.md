@@ -1,6 +1,6 @@
 ---
 title: interior
-excerpt: interior photography<br> by freelance photographer mark l chaves
+excerpt: interior photography <br>by freelance photographer mark l chaves
 collection: photography
 date: 2019-11-23 21:50:00 +0800
 layout: splash
