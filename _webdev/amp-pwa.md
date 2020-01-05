@@ -18,6 +18,7 @@ gallery1:
     image_path: /assets/images/webdev/inibali-amp-pwa-screen-capture-800w.jpg
     alt: "amp on pwa by freelance web developer mark l chaves"
     title: "ini bali amp story running as a pwa"
+gallery 2:
   - url: /assets/images/webdev/amp-pwa-hope-before-562w.jpg
     image_path: /assets/images/webdev/amp-pwa-hope-before-562w.jpg
     alt: "amp on pwa by freelance web developer mark l chaves"
@@ -26,7 +27,7 @@ gallery1:
     image_path: /assets/images/webdev/amp-pwa-hope-after-562w.jpg
     alt: "amp on pwa by freelance web developer mark l chaves"
     title: "hope's transfurmation story for missionpawsible.org"
-gallery2:
+gallery3:
   - url: /assets/images/webdev/pwa-amp-hope-collage-1280w.jpg
     image_path: /assets/images/webdev/pwa-amp-hope-collage-1280w.jpg
     alt: "amp on pwa by freelance web developer mark l chaves"
@@ -37,6 +38,26 @@ gallery2:
     title: "hope's transfurmation story for missionpawsible.org"
 ---
 
+<p class="p-wrapper">
+  "Ini Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching, an <strong>installable</strong> app, and can run <em>offline</em> if needed. <br><br>
+  I feel that AMP Stories are a sweet match for showing off portfolios, products, and (yes) sharing your stories. The bonuses are that these apps are fast (Google PageSpeed loves them) and they can run <strong>without</strong> an internet connection once they're installed on your device. Now that's wicked cool. <br><br>
+  And, don't worry. We've all been <em>brainwashed</em> to think that you have to get apps from an app store. This is a myth. Both of these apps are proudly hosted on Netlify.
+</p>
+<hr>
+[Learn more and download the ini bali app.](https://github.com/marklchaves/ini-bali/blob/master/README.md)
+
 {% include gallery id="gallery1" layout="half" %}
 
-{% include gallery id="gallery2" %}
+[ini bali](https://inibali.caughtmyeye.cc) [![Netlify Status](https://api.netlify.com/api/v1/badges/60cb91f6-a638-4728-869a-796f7398f995/deploy-status)](https://app.netlify.com/sites/inibali/deploys)
+
+<hr>
+
+<p class="p-wrapper">
+  <span class="dropcap clearfix">W</span>here do I begin to tell you about our <em>precious</em> Hope. Maybe I should just let <a href="https://hope.caughtmyeye.cc">her pictures</a> do the talking. I've also wrote about Hope on my <a href="https://balistreetphotographer.com/2018/08/15/hope-fo-a-bali-dog-rescue/">Bali Street Photographer</a> blog. And, you can read her <a href="https://missionpawsible.org/project/hope/">True Story on MissionPawsible.org</a>.
+</p>
+
+{% include gallery id="gallery2" layout="half" %}
+
+{% include gallery id="gallery3" %}
+
+[Hope's Transfurmation Story](https://hope.caughtmyeye.cc) [![Netlify Status](https://api.netlify.com/api/v1/badges/67fc9ef7-1712-4802-932e-9f2b7692fef4/deploy-status)](https://app.netlify.com/sites/transfurmation/deploys)
