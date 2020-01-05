@@ -14,12 +14,11 @@ gallery1:
     image_path: /assets/images/webdev/evepersak-com-homepage-1280w.jpg
     alt: "eve persak website by freelance web developer mark l chaves"
     title: "eve persak homepage"
-gallery2:
   - url: /assets/images/webdev/evepersak-homepage-about-panel-1280w.jpg
     image_path: /assets/images/webdev/evepersak-homepage-about-panel-1280w.jpg
     alt: "eve persak website by freelance web developer mark l chaves"
     title: "eve persak about"
-gallery3:
+gallery2:
   - url: /assets/images/webdev/evepersak-offerings-workshops-retreats-1080w.jpg
     image_path: /assets/images/webdev/evepersak-offerings-workshops-retreats-510w.jpg
     alt: "eve persak website by freelance web developer mark l chaves"
@@ -37,8 +36,6 @@ gallery3:
 
 {% include gallery id="gallery1" %}
 
-{% include gallery id="gallery2" %}
+{% include gallery id="gallery2" layout="half" %}
 
-{% include gallery id="gallery3" layout="half" %}
-
-{% include gallery id="gallery4" %}
+{% include gallery id="gallery3" %}
