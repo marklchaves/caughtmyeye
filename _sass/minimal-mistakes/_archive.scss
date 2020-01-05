@@ -127,9 +127,11 @@
    Grid view
    ========================================================================== */
 
-.entries-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+@media all and (min-width: 667px) {
+    .entries-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }
 
 .archive {
