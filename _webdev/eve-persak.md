@@ -28,6 +28,11 @@ gallery3:
     image_path: /assets/images/webdev/evepersak-offerings-industries-popup-510w.jpg
     alt: "eve persak website by freelance web developer mark l chaves"
     title: "eve persak popup modal design"
+gallery3:
+  - url: /assets/images/webdev/evepersak-brands-industries-modal.gif
+    image_path: /assets/images/webdev/evepersak-brands-industries-modal.gif
+    alt: "eve persak website by freelance web developer mark l chaves"
+    title: "eve persak staggered design"
 ---
 
 {% include gallery id="gallery1" %}
@@ -36,4 +41,4 @@ gallery3:
 
 {% include gallery id="gallery3" layout="half" %}
 
-{% include video id="jhGLE8-Ia0I" provider="youtube" %}
+{% include gallery id="gallery4" %}
