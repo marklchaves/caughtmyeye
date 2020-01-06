@@ -48,6 +48,18 @@ gallery3:
     image_path: /assets/images/bali/bali-sayan-pasar-ibu-masks-jual-1280w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
     title: "ini bali // this is bali"
+  - url: /assets/images/bali/bali-gianyar-ibu-pasar-umum-1280w.jpg
+    image_path: /assets/images/bali/bali-gianyar-ibu-pasar-umum-1280w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "gianyar pasar umum"
+  - url: /assets/images/bali/silhouette-rice-farmer-bapak-jalan2-sawah-1280w.jpg
+    image_path: /assets/images/bali/silhouette-rice-farmer-bapak-jalan2-sawah-1280w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "ini bali on 35mm film"
+  - url: /assets/images/bali/balispirit-bapak-rooster-1-562w.jpg
+    image_path: /assets/images/bali/balispirit-bapak-rooster-1-562w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "bali spirit"
 ---
 
 <p class="p-wrapper">
