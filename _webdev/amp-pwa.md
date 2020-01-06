@@ -39,7 +39,7 @@ gallery3:
 ---
 
 <p class="p-wrapper">
-  "Ini Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching, an <strong>installable</strong> app, and can run <em>offline</em> if needed. <br><br>
+  <span class="dropcap clearfix">"I</span>ni Bali" means "this is Bali". AMP means mobile first. AMP Story means Snapchat/IG style story. PWA means more control over browser caching, an <strong>installable</strong> app, and can run <em>offline</em> if needed. <br><br>
   I feel that AMP Stories are a sweet match for showing off portfolios, products, and (yes) sharing your stories. The bonuses are that these apps are fast (Google PageSpeed loves them) and they can run <strong>without</strong> an internet connection once they're installed on your device. Now that's wicked cool. <br><br>
   And, don't worry. We've all been <em>brainwashed</em> to think that you have to get apps from an app store. This is a myth. Both of these apps are proudly hosted on Netlify.
 </p>
