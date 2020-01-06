@@ -56,10 +56,19 @@ gallery3:
     image_path: /assets/images/bali/silhouette-rice-farmer-bapak-jalan2-sawah-1280w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
     title: "ini bali on 35mm film"
+  - url: /assets/images/bali/bali-campuhan-ridge-bapak-farmer-1-bw-1280.jpg
+    image_path: /assets/images/bali/bali-campuhan-ridge-bapak-farmer-1-bw-1280.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "campuhan ridge near ubud"
+gallery4:
   - url: /assets/images/bali/balispirit-bapak-rooster-1-562w.jpg
     image_path: /assets/images/bali/balispirit-bapak-rooster-1-562w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
     title: "bali spirit"
+  - url: /assets/images/bali/bali-pengerupukan-ogoh2-bapak-silhouette-1-bw-562w.jpg
+    image_path: /assets/images/bali/bali-pengerupukan-ogoh2-bapak-silhouette-1-bw-562w.jpg
+    alt: "bali photography portfolio for freelance photographer mark l chaves"
+    title: "pengerupukan - the night before nyepi where the ogoh-ogoh are let loose"
 ---
 
 <p class="p-wrapper">
@@ -71,5 +80,7 @@ gallery3:
 {% include gallery id="gallery2" layout="half" %}
 
 {% include gallery id="gallery3" %}
+
+{% include gallery id="gallery4" layout="half" %}
 
 more coming soon.
