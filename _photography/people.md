@@ -63,6 +63,18 @@ gallery5:
     image_path: /assets/images/people/ubud-kahiyang-bimo-scooter-2-1280w.jpg
     alt: "portrait of bimo by freelance photographer mark l chaves"
     title: "portrait of bimo"
+  - url: /assets/images/people/bali-gigit-canyoning-guide-angga-bw-1280w.jpg
+    image_path: /assets/images/people/bali-gigit-canyoning-guide-angga-bw-1280w.jpg
+    alt: "portrait of angga (canyoning guide) by freelance photographer mark l chaves"
+    title: "portrait of angga (canyoning guide)"
+  - url: /assets/images/people/bapak-duduk-steps-sebatu-ed-1280w.jpg
+    image_path: /assets/images/people/bapak-duduk-steps-sebatu-ed-1280w.jpg
+    alt: "ini bali on 35mm film by freelance photographer mark l chaves"
+    title: "ini bali on 35mm film"
+  - url: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.jpg
+    image_path: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.jpg
+    alt: "portrait of a dhoni sailor by freelance photographer mark l chaves"
+    title: "portrait of a dhoni sailor"
 ---
 {% include gallery id="gallery1" %}
 
