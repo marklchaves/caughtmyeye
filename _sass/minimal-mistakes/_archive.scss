@@ -229,10 +229,16 @@
   @include clearfix();
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
-  display: flex; /* mlc */
-
+  display: table; /* mlc */
+  
   .archive__item-title {
     margin-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 667px) {
+  .feature__wrapper {
+    display: flex; /* Mobile First ~mlc */
   }
 }
 
