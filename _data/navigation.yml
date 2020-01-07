@@ -8,7 +8,9 @@ main:
     url: /writing/
   - title: "web dev"
     url: /webdev/
-  - title: "if you must know"
+  - title: "cover me"
+    url: /cover-me/
+  - title: "if you must"
     url: https://marklchaves.com/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
