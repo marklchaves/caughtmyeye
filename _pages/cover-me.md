@@ -18,6 +18,9 @@ masonry: true
 analytics: true
 ---
 <style>
+  figure {
+    justify-content: center;
+  }
   figure, .full {
     margin: 0;
   }
