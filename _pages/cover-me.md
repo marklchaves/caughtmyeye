@@ -119,6 +119,27 @@ analytics: true
             </article>
         </div>
 
+        <div class="grid__item">
+            <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <figure class="full ">
+
+                <div class="archive__item-teaser">
+                    <img src="/assets/images/cover-me/kai-rainbow-session-ed-300w.jpg" alt="">
+                </div>
+
+                <h2 class="archive__item-title" itemprop="headline">
+
+                    <a href="/assets/images/cover-me/kai-rainbow-session-ed-720w.jpg" rel="permalink">
+                    </a>
+
+                </h2>
+
+                <p class="archive__item-excerpt" itemprop="description">
+                </p>
+            </figure>
+            </article>
+        </div>
+
     </div>
 
 </div>
