@@ -32,12 +32,22 @@
           </svg>
         </button>
         {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
+        <button id="open-button" class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
         </button>
+        <div id="modal-overlay" class="modal-overlay hidden"></div>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
+<script>
+// To do: Move this into JS file.
+var modalOverlay = document.querySelector("#modal-overlay");
+var openButton = document.querySelector("#open-button");
+
+openButton.addEventListener("click", function() {
+  modalOverlay.classList.toggle("hidden");
+});
+</script>
