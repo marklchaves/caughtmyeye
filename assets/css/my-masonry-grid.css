@@ -1,19 +1,16 @@
-/* 
- * Don't want to display for masonry grid.
- * If display: none, then hyperlinks don't work. 
- * So, make it have a 0 size. ~mlc
+/**
+ * My Masonry Grid Custom CSS
  */
+
+.grid__item {
+  right: 0% !important; /* Seems to help center grid items on small devices. ~mlc */
+}
+
 .archive__item-title {
-  /* margin-top: 0.15em;
-  font-size: $type-size-5; */
   font-size: 0; /* Don't display title but keep link on teaser image for masonry. ~mlc */
 }
 .archive__item-excerpt {
   display: none; /* Let's not display grid titles for masonry. ~mlc */
-}
-
-.grid__item {
-  display: none; /* Override the default MM grid__item for masonry. ~mlc */
 }
 
 #page-title {
