@@ -127,8 +127,9 @@
    Grid view
    ========================================================================== */
 
+/* To do: Conform to standard theme syntax. ~mlc */
 @media all and (min-width: 667px) {
-    .entries-grid {
+  .entries-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }
@@ -149,9 +150,6 @@
 }
 
 .grid__item {
-  /* margin-bottom: 1.5em; Removing this for now b/c margin-right no longer working. ~mlc */
-  right: 0% !important; /* Seems to help center grid items on small devices. ~mlc */
-  margin-right: 1%; /* Fixing photography grid (display: grid) broke this on homepage. ~mlc */
   -webkit-transition: $hover-transition; /* Safari 3.1 to 6.0 */
   transition: $hover-transition;
 
