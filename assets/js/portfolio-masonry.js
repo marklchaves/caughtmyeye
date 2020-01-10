@@ -1,6 +1,6 @@
 // Refactored (called twice) 3 November 2019. ~mlc
 function loadMasonry() {
-  if (window.screen.width >= 667) {
+  if (window.screen.width >= 1024) {
     var grid = $(".grid__item");
     var container = document.querySelector(".archive");
     // Get reference to loading screen
