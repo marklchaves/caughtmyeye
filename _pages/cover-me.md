@@ -158,10 +158,10 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/cover-me/matajiwa-reza-drums-4-2-bw-300w.jpg" alt="anda of matajiwa - kuta bali by freelance photographer mark l chaves">
+                <img src="/assets/images/cover-me/matajiwa-reza-drums-4-2-bw-300w.jpg" alt="reza of matajiwa - kuta bali by freelance photographer mark l chaves">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
-                <a href="/assets/images/cover-me/matajiwa-reza-drums-4-2-bw-1280w.jpg" rel="permalink" title="anda of matajiwa - kuta bali ">
+                <a href="/assets/images/cover-me/matajiwa-reza-drums-4-2-bw-1280w.jpg" rel="permalink" title="reza of matajiwa - kuta bali ">
                 </a>
             </h2>
             <p class="archive__item-excerpt" itemprop="description">
