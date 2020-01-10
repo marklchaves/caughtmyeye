@@ -3,7 +3,6 @@
  */
 
 .grid__item {
-  right: 0% !important; /* Seems to help center grid items on small devices. ~mlc */
   margin-bottom: 1em;
 }
 

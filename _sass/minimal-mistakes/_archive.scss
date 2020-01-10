@@ -142,10 +142,17 @@
    Grid view
    ========================================================================== */
 
+.entries-grid {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
 /* To do: Conform to standard theme syntax. ~mlc */
 @media all and (min-width: 667px) {
   .entries-grid {
-    display: grid;
+    align-items: stretch;
+    justify-content: start;
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
