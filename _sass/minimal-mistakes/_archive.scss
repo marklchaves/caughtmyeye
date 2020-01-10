@@ -20,7 +20,8 @@
 
 .archive__item {
   position: relative;
-  min-width: 300px;
+  width: 300px; /* ~mlc */
+  min-width: 210px; /* ~mlc */
 }
 
 .archive__subtitle {
@@ -109,6 +110,20 @@
   a {
     color: #fff;
     text-decoration: none;
+  }
+}
+
+/* ~mlc */
+@media all and (min-width: 599px) and (max-width: 1199.998px) {
+  .archive__item {
+    width: 210px; 
+  }
+}
+
+/* ~mlc */
+@media all and (min-width: 1200px) {
+  .archive__item {
+    width: 300px; 
   }
 }
 
@@ -227,7 +242,7 @@
   @include clearfix();
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
-  display: table; /* mlc */
+  display: table; /* ~mlc */
   
   .archive__item-title {
     margin-bottom: 0;
@@ -244,7 +259,7 @@
   position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
-  padding: 2%; /* mlc */
+  padding: 2%; /* ~mlc */
 
   @include breakpoint($small) {
     float: left;
@@ -289,7 +304,7 @@
   &--left {
     position: relative;
     float: left;
-    margin-left: 1%; /* mlc */
+    margin-left: 1%; /* ~mlc */
     margin-right: 1%;
     width: 100%;
     clear: both;
@@ -330,7 +345,7 @@
   &--right {
     position: relative;
     float: left;
-    margin-left: 1%; /* mlc */
+    margin-left: 1%; /* ~mlc */
     margin-right: 1%;
     width: 100%;
     clear: both;
@@ -338,6 +353,7 @@
 
     .archive__item {
       float: left;
+      width: 100%; /* ~mlc */
     }
 
     .archive__item-teaser {
