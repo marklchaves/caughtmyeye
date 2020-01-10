@@ -6,6 +6,12 @@
   margin-bottom: 1em;
 }
 
+@media all and (min-width: 667px) {
+  .grid__item {
+    margin: 0;
+  }
+}
+
 .archive__item-title {
   font-size: 0; /* Don't display title but keep link on teaser image for masonry. ~mlc */
 }
