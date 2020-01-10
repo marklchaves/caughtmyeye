@@ -12,7 +12,7 @@ function loadMasonry() {
            columnWidth: 100%,
            itemSelector: '.grid__item',
            percentPosition: true,
-           horizontalOrder: true,
+           verticalOrder: true
         });
     });
 
