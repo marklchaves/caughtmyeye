@@ -35,3 +35,11 @@ function hideLoading(loading_screen) {
   console.log("hideLoading()");
   loading_screen.classList.add("hidden");
 }
+
+window.addEventListener('orientationchange', function () {
+  var originalBodyStyle = getComputedStyle(document.body).getPropertyValue('display');
+  document.body.style.display='none';
+  setTimeout(function () {
+    document.body.style.display = originalBodyStyle;
+  }, 10);
+});
