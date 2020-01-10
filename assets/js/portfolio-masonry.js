@@ -9,7 +9,7 @@ function loadMasonry() {
         grid.fadeIn();
 
         var msnry = new Masonry(document.querySelector('.archive'), {
-           columnWidth: 100,
+           columnWidth: 100%,
            itemSelector: '.grid__item',
            percentPosition: true,
            horizontalOrder: true,
