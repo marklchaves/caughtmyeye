@@ -53,7 +53,7 @@ gallery3:
 <hr>
 
 <p class="p-wrapper">
-  <span class="dropcap clearfix">W</span>here do I begin to tell you about our <em>precious</em> Hope. Maybe I should just let <a href="https://hope.caughtmyeye.cc">her pictures</a> do the talking. I've also wrote about Hope on my <a href="https://balistreetphotographer.com/2018/08/15/hope-fo-a-bali-dog-rescue/">Bali Street Photographer</a> blog. And, you can read her <a href="https://missionpawsible.org/project/hope/">True Story on MissionPawsible.org</a>.
+  <span class="dropcap clearfix">W</span>here do I begin to tell you about our <em>precious</em> Hope. Maybe I should just let <a href="https://hope.caughtmyeye.cc">her amp story app</a> do the talking. I've also wrote about Hope on my <a href="https://balistreetphotographer.com/2018/08/15/hope-fo-a-bali-dog-rescue/">Bali Street Photographer</a> blog. And, you can read her <a href="https://missionpawsible.org/project/hope/">True Story on MissionPawsible.org</a>.
 </p>
 
 {% include gallery id="gallery2" layout="half" %}
