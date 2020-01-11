@@ -21,4 +21,12 @@ header:
   my favourite meditations are a good book with a cappuccino, feeding stray cats and dogs, and wishing to be a rock star in my next life. i would be very disappointed if you were in bali and didn’t meet me for a coffee.
 </p>
 
-<div class="bio-photo"></div>
+<div id="test">
+<div class="animation-element"></div>
+<div class="animation-element bounce-up">
+  <div class="subject bio-photo"></div>
+</div>
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/mlc-anim.js"></script>
