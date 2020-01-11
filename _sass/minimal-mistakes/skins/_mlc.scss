@@ -49,7 +49,7 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 /* Animations */
 
 h1 {
-  animation: 3s 1 fadein;
+  animation: 4s 1 fadein;
 }
 
 @keyframes fadein {
@@ -95,7 +95,35 @@ h1 {
 .subject {
   width: 100%;
   padding: 1em;
-  box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.5);  border-radius: 50%;
+  box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.5);  
+  border-radius: 50%;
+}
+
+.animation-element.slide-left {
+  opacity: 0;
+  -moz-transition: all 500ms linear;
+  -webkit-transition: all 500ms linear;
+  -o-transition: all 500ms linear;
+  transition: all 500ms linear;
+  -moz-transform: translate3d(-100px, 0px, 0px);
+  -webkit-transform: translate3d(-100px, 0px, 0px);
+  -o-transform: translate(-100px, 0px);
+  -ms-transform: translate(-100px, 0px);
+  transform: translate3d(-100px, 0px, 0px);
+}
+
+.animation-element.slide-left.in-view {
+  opacity: 1;
+  -moz-transform: translate3d(0px, 0px, 0px);
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+}
+
+.animation-element.slide-left h1 {
+  padding: 1%;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.2);
 }
 
 /* Dropcap */
