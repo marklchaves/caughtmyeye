@@ -29,6 +29,18 @@ gallery3:
     image_path: /assets/images/film/bali-ubud-pasar-bemo-bapak-film-1280w.jpg
     alt: "35mm film photography portfolio for freelance photographer mark l chaves"
     title: "everyday bali"
+  - url: /assets/images/film/bali-sanggingan-rina-scuba-fin-1-1280w.jpg
+    image_path: /assets/images/film/bali-sanggingan-rina-scuba-fin-1-1280w.jpg
+    alt: "film photography - freelance photographer mark l chaves"
+    title: "tara with a scuba fin"
+  - url: /assets/images/film/bangkok-street-vendor-motorbike-intersection-1280w.jpg
+    image_path: /assets/images/film/bangkok-street-vendor-motorbike-intersection-1280w.jpg
+    alt: "film photography - freelance photographer mark l chaves"
+    title: "bangkok street vendor"
+  - url: /assets/images/film/ohio-girard-book-news-building-1-1280w.jpg
+    image_path: /assets/images/film/ohio-girard-book-news-building-1-1280w.jpg
+    alt: "film photography - freelance photographer mark l chaves"
+    title: "girard book news building"
 ---
 
 <p class="p-wrapper">
