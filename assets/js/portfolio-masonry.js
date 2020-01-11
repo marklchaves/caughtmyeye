@@ -35,21 +35,6 @@ window.onorientationchange = function() {
   window.location.reload();
 }
 
-/*
-$(window).on("load", function() {
-  console.log("onload JQ");
-  loadMasonry();
-});
-*/
-
-// Added this call to fix switching to mobile view. ~mlc
-/*
-$(window).on("resize", function() {
-  console.log("resize");
-  loadMasonry();
-});
-*/
-
 // Don't know what this is for. ~mlc
 function hideLoading(loading_screen) {
   console.log("hideLoading()");
