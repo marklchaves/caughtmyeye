@@ -32,7 +32,7 @@ window.onresize = function() {
 
 window.onorientationchange = function() { 
   console.log("onorientationchange JS");
-  this.loadMasonry();
+  window.location.reload();
 }
 
 /*
