@@ -8,6 +8,7 @@ function loadMasonry() {
     grid.fadeIn();
 
     if (window.screen.width >= 1024) {
+      console.log("window.screen.width = " + window.screen.width);
       console.log("loadMasonry()");
       var msnry = new Masonry(document.querySelector(".archive"), {
         columnWidth: 300,
@@ -29,6 +30,11 @@ window.onresize = function() {
   this.loadMasonry();
 };
 
+window.onorientationchange = function() { 
+  console.log("onorientationchange JS");
+  this.loadMasonry();
+}
+
 /*
 $(window).on("load", function() {
   console.log("onload JQ");
@@ -49,15 +55,3 @@ function hideLoading(loading_screen) {
   console.log("hideLoading()");
   loading_screen.classList.add("hidden");
 }
-
-// Fix for orientation switching. ~mlc
-window.addEventListener("orientationchange", function() {
-  console.log("orientationchange");
-  var originalBodyStyle = getComputedStyle(document.body).getPropertyValue(
-    "display"
-  );
-  document.body.style.display = "none";
-  setTimeout(function() {
-    document.body.style.display = originalBodyStyle;
-  }, 10);
-});
