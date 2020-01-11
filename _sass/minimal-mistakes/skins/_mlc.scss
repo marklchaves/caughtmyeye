@@ -46,7 +46,7 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 /* || Custom Styles */
 
-/* H1 Fading */
+/* Animations */
 
 h1 {
   animation: 3s 1 fadein;
@@ -59,6 +59,44 @@ h1 {
   to {
     opacity: 1;
   }
+}
+
+.animation-element {
+  position: relative;
+  width: 30%;
+  margin: 0% 1.33 2.66% 1.33%;
+}
+
+.bounce-up .subject {
+  opacity: 0;
+  -moz-transition: all 700ms ease-out;
+  -webkit-transition: all 700ms ease-out;
+  -o-transition: all 700ms ease-out;
+  transition: all 700ms ease-out;
+  -moz-transform: translate3d(0px, 200px, 0px);
+  -webkit-transform: translate3d(0px, 200px, 0px);
+  -o-transform: translate(0px, 200px);
+  -ms-transform: translate(0px, 200px);
+  transform: translate3d(0px, 200, 0px);
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.bounce-up.in-view .subject {
+  opacity: 1;
+  -moz-transform: translate3d(0px, 0px, 0px);
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+}
+
+.subject {
+  width: 100%;
+  padding: 1em;
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.9);
+  border-radius: 50%;
 }
 
 /* Dropcap */
