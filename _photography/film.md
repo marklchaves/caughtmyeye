@@ -62,7 +62,7 @@ gallery5:
 ---
 
 <p class="p-wrapper">
-    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from <a href="https://marklchaves.com/film">marklchaves.com</a>. here's what i have so far. there's a lot more to come.
+    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from marklchaves.com. here's what i have so far. there's a lot more to come.
 </p>
 
 {% include gallery id="gallery1" %}
