@@ -11,11 +11,9 @@ header:
   overlay_filter: 0.3
   caption: "a long time ago in phoenix az"
 ---
-<div class="animation-element slide-left">
-  <h1>bio</h1>
-</div>
+<blockquote class="animation-element slide-left">striving to perceive things as they are through the expressions of art, story, and wisdom.</blockquote>
 
-<blockquote>striving to perceive things as they are through the expressions of art, story, and wisdom.</blockquote>
+<h1>bio</h1>
 
 <p class="p-wrapper">
   <span class="dropcap clearfix">i</span>’m originally from the philippines, but i grew up in northeastern ohio of the us. i am a freelance photographer, writer, and web developer based in bali, indonesia. i've contributed to news, wellness, travel, and photography agencies. my photography has been exhibited in bali, europe and the us. before morphing into a freelancer, i slung code and managed web teams for fortune 500 companies.
