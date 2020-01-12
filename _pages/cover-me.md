@@ -169,4 +169,49 @@ analytics: true
         </figure>
         </article>
     </div>
+    <div class="grid__item">
+        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <figure class="full ">
+            <div class="archive__item-teaser">
+                <img src="/assets/images/cover-me/matajiwa-anda-guitar-3-300w.jpg" alt="anda of matajiwa - kuta bali by freelance photographer mark l chaves">
+            </div>
+            <h2 class="archive__item-title" itemprop="headline">
+                <a href="/assets/images/cover-me/matajiwa-anda-guitar-3-720w.jpg" rel="permalink" title="anda of matajiwa - kuta bali ">
+                </a>
+            </h2>
+            <p class="archive__item-excerpt" itemprop="description">
+            </p>
+        </figure>
+        </article>
+    </div>
+    <div class="grid__item">
+        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <figure class="full ">
+            <div class="archive__item-teaser">
+                <img src="/assets/images/cover-me/matajiwa-hard-rock-anda-guitar-9-300w.jpg" alt="anda of matajiwa - kuta bali by freelance photographer mark l chaves">
+            </div>
+            <h2 class="archive__item-title" itemprop="headline">
+                <a href="/assets/images/cover-me/matajiwa-hard-rock-anda-guitar-9-1280w.jpg" rel="permalink" title="anda of matajiwa at the hard rock cafe - kuta bali ">
+                </a>
+            </h2>
+            <p class="archive__item-excerpt" itemprop="description">
+            </p>
+        </figure>
+        </article>
+    </div>
+    <div class="grid__item">
+        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <figure class="full ">
+            <div class="archive__item-teaser">
+                <img src="/assets/images/cover-me/matajiwa-hard-rock-tuning-guitar-stage-300w.jpg" alt="anda of matajiwa - kuta bali by freelance photographer mark l chaves">
+            </div>
+            <h2 class="archive__item-title" itemprop="headline">
+                <a href="/assets/images/cover-me/matajiwa-hard-rock-tuning-guitar-stage-1280w.jpg" rel="permalink" title="prepping for matajiwa at the hard rock cafe - kuta bali ">
+                </a>
+            </h2>
+            <p class="archive__item-excerpt" itemprop="description">
+            </p>
+        </figure>
+        </article>
+    </div>
 </div>

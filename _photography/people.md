@@ -75,6 +75,28 @@ gallery5:
     image_path: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.jpg
     alt: "portrait of a dhoni sailor by freelance photographer mark l chaves"
     title: "portrait of a dhoni sailor"
+gallery6:
+  - url: /assets/images/people/bali-ubud-malam-tanda-merah-wiwit-562w.jpg
+    image_path: /assets/images/people/bali-ubud-malam-tanda-merah-wiwit-562w.jpg
+    alt: "portrait of immanuela for seeing red published on don't take pictures - freelance photographer mark l chaves"
+    title: "portrait of immanuela for seeing red published on don't take pictures"
+  - url: /assets/images/people/bali-annette-portrait-necklace-1-562w.jpg
+    image_path: /assets/images/people/bali-annette-portrait-necklace-1-562w.jpg
+    alt: "portrait of annette of natocho art & design - freelance photographer mark l chaves"
+    title: "portrait of annette of natocho art & design"
+  - url: /assets/images/people/bali-shanti-festival-dancer-cewek-baju-traditional-bw-562w.jpg
+    image_path: /assets/images/people/bali-shanti-festival-dancer-cewek-baju-traditional-bw-562w.jpg
+    alt: "ini bali // this is bali - freelance photographer mark l chaves"
+    title: "ini bali // this is bali"
+  - url: /assets/images/people/bali-workshop-styling-liz-bw-562w.jpg
+    image_path: /assets/images/people/bali-workshop-styling-liz-bw-562w.jpg
+    alt: "portrait of model & designer liz - freelance photographer mark l chaves"
+    title: "portrait of model & designer liz"
+gallery7:
+  - url: /assets/images/people/seminyak-vanessa-profile-candid-1280w.jpg
+    image_path: /assets/images/people/seminyak-vanessa-profile-candid-1280w.jpg
+    alt: "portrait of vanessa - freelance photographer mark l chaves"
+    title: "portrait of vanessa"
 ---
 {% include gallery id="gallery1" %}
 
@@ -85,3 +107,7 @@ gallery5:
 {% include gallery id="gallery4" layout="half" %}
 
 {% include gallery id="gallery5" %}
+
+{% include gallery id="gallery6" layout="half" %}
+
+{% include gallery id="gallery7" %}
