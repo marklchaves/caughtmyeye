@@ -69,10 +69,27 @@ gallery4:
     image_path: /assets/images/bali/bali-pengerupukan-ogoh2-bapak-silhouette-1-bw-562w.jpg
     alt: "bali photography portfolio for freelance photographer mark l chaves"
     title: "pengerupukan - the night before nyepi where the ogoh-ogoh are let loose"
+  - url: /assets/images/bali/bali-lungsiakan-pengerupukan-cewek-costume-1-bw-1280w.jpg
+    image_path: /assets/images/bali/bali-lungsiakan-pengerupukan-cewek-costume-1-bw-1280w.jpg
+    alt: "ini bali // this is bali - freelance photographer mark l chaves"
+    title: "pengerupukan - the night before nyepi"
+  - url: /assets/images/bali/bali-ubud-lembu-palace-cowok-selfie-1-1280w.jpg
+    image_path: /assets/images/bali/bali-ubud-lembu-palace-cowok-selfie-1-1280w.jpg
+    alt: "ini bali // this is bali - freelance photographer mark l chaves"
+    title: "selfie"
+  - url: /assets/images/bali/bali-ubud-pasar-ibu-duduk-sinar-film-1280w.jpg
+    image_path: /assets/images/bali/bali-ubud-pasar-ibu-duduk-sinar-film-1280w.jpg
+    alt: "ini bali // this is bali - freelance photographer mark l chaves"
+    title: "early morning light pasar ubud on 35mm film"
+  - url: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-1280w.jpg
+    image_path: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-1280w.jpg
+    alt: "ini bali // this is bali - freelance photographer mark l chaves"
+    title: "gardening at night - kuta beach bali"
 ---
+## to explore rather than visit
 
 <p class="p-wrapper">
-    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from <a href="https://marklchaves.com/bali">marklchaves.com</a>. here's what i have so far.<br><br>there's a lot more to come.
+    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from marklchaves.com. here's what i have so far. there's a lot more to come. If you like what you see, <a href="https://inibali.caughtmyeye.cc">install the ini bali app</a> onto your phone.
 </p>
 
 {% include gallery id="gallery1" %}

@@ -19,7 +19,7 @@ gallery2:
   - url: /assets/images/film/bali-kahiyang-putri-jendela-reflection-562w.jpg
     image_path: /assets/images/film/bali-kahiyang-putri-jendela-reflection-562w.jpg
     alt: "35mm film photography portfolio for freelance photographer mark l chaves"
-    title: "looking for saul // portrait of putri"
+    title: "looking for saul // portrait of putri"  
   - url: /assets/images/film/bali-ubud-palace-ibu-bus-jendela-562w.jpg
     image_path: /assets/images/film/bali-ubud-palace-ibu-bus-jendela-562w.jpg
     alt: "35mm film photography portfolio for freelance photographer mark l chaves"
@@ -41,10 +41,28 @@ gallery3:
     image_path: /assets/images/film/ohio-girard-book-news-building-1-1280w.jpg
     alt: "film photography - freelance photographer mark l chaves"
     title: "girard book news building"
+  - url: /assets/images/film/1-bali-ubud-pasar-ibu-sinar-bw-1280w.jpg
+    image_path: /assets/images/film/1-bali-ubud-pasar-ibu-sinar-bw-1280w.jpg
+    alt: "early morning light pasar ubud - freelance photographer mark l chaves"
+    title: "early morning light pasar ubud"
+gallery4:
+  - url: /assets/images/people/bali-campuhan-wall-meysa-1-ed-562w.jpg
+    image_path: /assets/images/people/bali-campuhan-wall-meysa-1-ed-562w.jpg
+    alt: "portrait of meysa in campuhan bali by freelance photographer mark l chaves"
+    title: "film portrait of meysa in campuhan"
+  - url: /assets/images/people/bali-penestanan-annette-doorway-3-ed-562w.jpg
+    image_path: /assets/images/people/bali-penestanan-annette-doorway-3-ed-562w.jpg
+    alt: "film portrait of artist/fashion designer annette natocho by freelance photographer mark l chaves"
+    title: "film portrait of artist/designer annette natocho"
+gallery5:
+  - url: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.jpg
+    image_path: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.jpg
+    alt: "35mm film photography portfolio for freelance photographer mark l chaves"
+    title: "ini bali // on 35mm film"
 ---
 
 <p class="p-wrapper">
-    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from <a href="https://marklchaves.com/film">marklchaves.com</a>. here's what i have so far.<br><br>there's a lot more to come.
+    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from <a href="https://marklchaves.com/film">marklchaves.com</a>. here's what i have so far. there's a lot more to come.
 </p>
 
 {% include gallery id="gallery1" %}
@@ -53,5 +71,9 @@ gallery3:
 read more about [looking for saul in ubud bali](/stories/looking-for-saul).
 
 {% include gallery id="gallery3" %}
+
+{% include gallery id="gallery4" layout="half" %}
+
+{% include gallery id="gallery5" %}
 
 more coming soon.
