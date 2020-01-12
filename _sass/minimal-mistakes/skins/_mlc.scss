@@ -48,7 +48,7 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 /* Animations */
 
-h1 {
+h1, .author__name {
   animation: 4s 1 fadein;
 }
 

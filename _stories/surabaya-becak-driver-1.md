@@ -15,4 +15,6 @@ this gentleman at the _ampel_ district, wanted to be photographed. yet he was sh
 
 he was fidgety at first. but, i took my time focusing and checking settings on my old analogue SLR. eventually, he became more relaxed and seemed to ignore me.
 
+explore the [surabaya gallery](/photography/surabaya).
+
 {% include back-button.html %}
