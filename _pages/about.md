@@ -29,7 +29,7 @@ header:
 
 ---
 
-Hero banner photo on 35mm film late 80's. Second, self-portrait Paro, Bhutan 2014. Third portrait photo (on hover) by [Syahravi Dewanda](https://www.instagram.com/syahrav/) Pasar Ubud, Bali 2019.
+Hero banner photo on 35mm film late 80's. Second, self-portrait Paro, Bhutan 2014. Third portrait photo (on hover) by [Syahravi Dewanda](https://www.instagram.com/ravi_from_accounting/) Pasar Ubud, Bali 2019.
 
 <!-- Animations didn't work when added in head/custom.html. Adding here for now. -->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
