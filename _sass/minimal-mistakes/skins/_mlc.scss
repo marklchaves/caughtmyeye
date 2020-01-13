@@ -61,10 +61,17 @@ h1, .author__name {
   }
 }
 
+
 .animation-element {
   position: relative;
-  width: 30%;
+  width: 90%;
   margin: 0% 1.33 2.66% 1.33%;
+}
+
+@media all and (min-width: 1024px) {
+  .animation-element {
+    width: 30%;
+  }
 }
 
 .bounce-up .subject {
