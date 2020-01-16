@@ -1,0 +1,13 @@
+{% if img.image_path contains "://" %}
+    {% assign image_path = img.image_path %}
+{% else %}
+    {% assign image_path = img.image_path | relative_url %}
+{% endif %}
+{% assign webp_path = image_path | replace: '.jpg', '.webp' %}
+
+        <picture>
+            <source type="image/webp" data-srcset="{{ webp_path }}">
+            <source type="image/jpeg" data-srcset="{{ image_path }}">
+            <img data-src="{{ image_path }}"
+            alt="{% if img.alt %}{{ img.alt }}{% endif %}" class="lazyload">
+        </picture>
