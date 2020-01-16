@@ -1,0 +1,7 @@
+        <img data-src=
+          {% if img.image_path contains "://" %}
+            "{{ img.image_path }}"
+          {% else %}
+            "{{ img.image_path | relative_url }}"
+          {% endif %}
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}" class="lazyload">
