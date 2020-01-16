@@ -111,7 +111,7 @@ gallery11:
 
 <div style="text-align: center;">
   <span class="bottoms-up">only a surfer knows the feeling</span>
-  <img src="/assets/images/interior/pascale-seaside-villa-overview-exterior-ZB5gnhz-800w.jpg" style="vertical-align:top;">
+  <img data-src="/assets/images/interior/pascale-seaside-villa-overview-exterior-ZB5gnhz-800w.jpg" style="vertical-align:top;" class="lazyload">
   <span class="vert-me">only a surfer knows the feeling</span>
 </div>
 
