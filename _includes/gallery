@@ -27,22 +27,22 @@
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >
-        <img data-src=
+        <img src=
           {% if img.image_path contains "://" %}
             "{{ img.image_path }}"
           {% else %}
             "{{ img.image_path | relative_url }}"
           {% endif %}
-          alt="{% if img.alt %}{{ img.alt }}{% endif %}" class="lazyload">
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
     {% else %}
-      <img data-src=
+      <img src=
         {% if img.image_path contains "://" %}
           "{{ img.image_path }}"
         {% else %}
           "{{ img.image_path | relative_url }}"
         {% endif %}
-        alt="{% if img.alt %}{{ img.alt }}{% endif %}" class="lazyload">
+        alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
   {% endfor %}
   {% if include.caption %}
