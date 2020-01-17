@@ -2,7 +2,7 @@
 title: scaling student success
 excerpt: wordpress design/development <br>for scalingstudentsuccess.org
 collection: webdev
-date: 2019-11-14 05:00:00 +0800
+date: 2019-12-25 05:00:00 +0800
 layout: splash
 header:
   overlay_image: /assets/images/webdev/scaling-student-success-homepage-laptop-view-1280w.jpg
