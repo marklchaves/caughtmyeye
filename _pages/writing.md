@@ -26,6 +26,11 @@ feature_row3:
     alt: "What do Pictures of Visual Literacy & Digital Fluency Look Like? by freelance writer mark l chaves"
     title: "What do Pictures of Visual Literacy & Digital Fluency Look Like?"
 feature_row4:
+  - url: https://dev.to/marklchaves/shared-hosting-vs-vps-hosting-what-s-the-difference-oj5
+    image_path: /assets/images/writing/bali-cocomoku-ipad-rina-1-1280w.jpg
+    alt: "Shared Hosting vs VPS Hosting WHAT’S THE DIFFERENCE? by freelance writer mark l chaves"
+    title: "Shared Hosting vs VPS Hosting WHAT’S THE DIFFERENCE?"
+feature_row5:
   - url: /assets/docs/AsianGeographic-Icon-Shinta-Flames.pdf
     image_path: /assets/images/writing/asian-geographic-icon-shinta-570w.jpg
     alt: "Asian Geographic Icon - Emmanuela Dewi Shinta Rising Above The Flames by freelance writer mark l chaves"
@@ -43,7 +48,9 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="center" %}
 
+{% include feature_row id="feature_row4" type="center" %}
+
 ## Print
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row5" %}
 
 More on [Medium](https://medium.com/@marklchaves), [diaforlife](http://diaforlife.com/authors/123), [inBali.org](http://www.inbali.org/author/mark_chaves/), [Balipedia](https://balipedia.com/profile/marklchaves), & [DEV](https://dev.to/marklchaves).
