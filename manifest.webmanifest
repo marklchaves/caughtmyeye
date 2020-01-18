@@ -1,0 +1,40 @@
+---
+layout: none
+---
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "c a u g ht my e y e",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://caughtmyeye.dev/",
+	"short_name" : "caught my eye",
+	"theme_color" : "#F05E35",
+	"description" : "to see rather than look - stories photography writing web development bali indonesia",
+	"orientation" : "any",
+	"background_color" : "#212326",
+	"related_applications" : "",
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://d1qmdf3vop2l07.cloudfront.net/honeydew-aurora.cloudvent.net/compressed/_min_/aaa4c7c562763d3f042ac637792bd3e6.png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "https://d1qmdf3vop2l07.cloudfront.net/honeydew-aurora.cloudvent.net/compressed/_min_/4fb5f8c996c8cbc8b9d7919741fed5ee.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "https://d1qmdf3vop2l07.cloudfront.net/honeydew-aurora.cloudvent.net/compressed/_min_/96eee22755fb308305e2f0063caf1a60.png",
+			"sizes": "128x128"
+		},
+		{
+			"src": "https://d1qmdf3vop2l07.cloudfront.net/honeydew-aurora.cloudvent.net/compressed/_min_/4fb5f8c996c8cbc8b9d7919741fed5ee.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "https://d1qmdf3vop2l07.cloudfront.net/honeydew-aurora.cloudvent.net/compressed/_min_/61e78416293805e361a2f48e52211a65.png",
+			"sizes": "144x144"
+		}],
+	"generated" : "true"
+}
