@@ -259,7 +259,8 @@
 @media screen and (min-width: 667px) {
   .feature__wrapper {
     display: flex; /* Mobile First ~mlc */
-    column-gap: 2%;
+    /* column-gap: 2%; Does not work for Chrome! */
+    justify-content: center;
   }
 }
 
@@ -397,8 +398,8 @@
   &--center {
     position: relative;
     float: left;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 1%; /* ~mlc */
+    margin-right: 1%;
     width: 100%;
     clear: both;
     font-size: 1.125em;
