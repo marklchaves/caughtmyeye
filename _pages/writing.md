@@ -42,7 +42,7 @@ feature_row5:
 ---
 # writing portfolio
 
-{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row1" type="center" %}
 
 {% include feature_row id="feature_row2" type="center" %}
 
@@ -51,6 +51,6 @@ feature_row5:
 {% include feature_row id="feature_row4" type="center" %}
 
 ## Print
-{% include feature_row id="feature_row5" %}
+{% include feature_row id="feature_row5" type="center" %}
 
 More on [Medium](https://medium.com/@marklchaves), [diaforlife](http://diaforlife.com/authors/123), [inBali.org](http://www.inbali.org/author/mark_chaves/), [Balipedia](https://balipedia.com/profile/marklchaves), & [DEV](https://dev.to/marklchaves).
