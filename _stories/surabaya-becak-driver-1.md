@@ -13,8 +13,8 @@ it's easy to photograph a becak driver. in surabaya, they're as ubiquitous as na
 
 this gentleman at the _ampel_ district, wanted to be photographed. yet he was shy. the woman behind him was *egging* him on to **smile**. i'm glad when people don't smile for the camera. i always prefer be just be themselves i.e., oblivious to the camera and the photographer.
 
-he was fidgety at first. but, i took my time focusing and checking settings on my old analogue SLR. eventually, he became more relaxed and seemed to ignore me.
+he was fidgety at first. but, i took my time focusing and checking settings on my old [analogue](/photography/film) SLR. eventually, he became more relaxed and seemed to ignore me.
 
 explore the [surabaya gallery](/photography/surabaya).
 
-{% include back-button.html %}
+{% include back-button.html %} | {% include film-link.html %}

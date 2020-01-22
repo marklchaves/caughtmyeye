@@ -15,9 +15,9 @@ when i was growing up there in the 70s-80s, "y-town is my town" was the city's t
 
 pictured above is the old **syro steel** plant in girard, ohio. girard is just outside of y-town. my brother and i went to grade-school in girard. we used to pass up steel mills like this one every day on the way to school. they (steel mills) all began to die on [black monday](https://www.wkbn.com/news/40-years-later-effects-of-black-monday-still-apparent-in-youngstown/) september 19, 1977.
 
-the **syro steel** photo was taken in 2016 on an old canon ft/ql using kodak portra 160. i don't like to talk about gear much. but, youngstown is where i learned photography. my dad taught me. he gave me a minolta srt101 (similar to the canon i have now) when i was 17. he told me to use ilford black and white film. i did.
+the **syro steel** photo was taken in 2016 on an old canon ft/ql using kodak portra 160. i don't like to talk about gear much. but, youngstown is where i learned photography. my dad taught me. he gave me a minolta srt101 (similar to the canon i have now) when i was 17. he told me to use ilford black and white [film](/photography/film). i did.
 
 ![encinitas, ca](/assets/images/youngstown/mark-dad-encinitas-beach-wb.jpeg "encinitas, ca c. 2004/5")
 <div style="font-family: courier; font-size: 0.75em; line-height: 1; padding-bottom: 1em;">my dad and i in encinitas, ca c. 2004/5 shortly before he passed</div>
 
-{% include back-button.html %}
+{% include back-button.html %} | {% include film-link.html %}

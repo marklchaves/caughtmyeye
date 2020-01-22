@@ -11,6 +11,10 @@ header:
   overlay_filter: 0.3
   caption: "ini bali // on 35mm film"
 gallery1:
+  - url: /assets/images/bali/rina-jendela-warung-sepeda-motor-1-ed-1280w.jpg
+    image_path: /assets/images/bali/rina-jendela-warung-sepeda-motor-1-ed-1280w.jpg
+    alt: "35mm film photography portfolio for freelance photographer mark l chaves"
+    title: "tara at the warung displayed at contrasto gallery milan italy"
   - url: /assets/images/film/bali-ubud-meysa-sika-3-ed-1280w.jpg
     image_path: /assets/images/film/bali-ubud-meysa-sika-3-ed-1280w.jpg
     alt: "35mm film photography portfolio for freelance photographer mark l chaves"

@@ -11,4 +11,4 @@ i was cruising the streets of **kuta, bali** one night. i was heading to the **h
 
 this group of people (mostly women) were gathered in a peculiar spot. they were looking into the darkness.
 
-{% include back-button.html %}
+{% include back-button.html %} | {% include bali-link.html %} 
