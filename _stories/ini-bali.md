@@ -10,10 +10,10 @@ header:
 
 ## smoke, steps, &amp; and a balinese man
 
-in indonesian, *ini bali* means *this is bali*.
+in indonesian, *ini bali* means *this is [bali](/photography/bali)*.
 
 i had my old canon ft/ql with me this day. the smoke in the background set a surreal stage for a nice photograph.
 
 this elderly balinese man strode by down the steps.
 
-{% include back-button.html %}
+{% include back-button.html %} | {% include film-link.html %}

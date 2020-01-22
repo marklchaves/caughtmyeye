@@ -26,4 +26,4 @@ i was in sf again in 2016 for emily's graduation from laney college in oakland. 
 
 {% include figure image_path="/assets/images/san-francisco/san-francisco-travelodge-1-ed-800w.jpg" alt="travel lodge 35mm film"%}
 
-{% include back-button.html %}
+{% include back-button.html %} | {% include film-link.html %}
