@@ -63,8 +63,40 @@ gallery5:
     image_path: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.jpg
     alt: "35mm film photography portfolio for freelance photographer mark l chaves"
     title: "ini bali // on 35mm film"
+gallery6:
+  - url: /assets/images/film/bali-peliatan-putri-dinding-1280w.jpg
+    image_path: /assets/images/film/bali-peliatan-putri-dinding-1280w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
+  - url: /assets/images/film/barcelona-ally-emily-film-ed-562w.jpg
+    image_path: /assets/images/barcelona/barcelona-ally-emily-film-ed-562w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
+  - url: /assets/images/ian/spain-ibiza-ian-slide-sunset-bw-ed-562w.jpg
+    image_path: /assets/images/ian/spain-ibiza-ian-slide-sunset-bw-ed-562w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
+  - url: /assets/images/film/ubud-campuhan-deyas-graffiti-1-ed-1280w.jpg
+    image_path: /assets/images/film/ubud-campuhan-deyas-graffiti-1-ed-1280w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
+  - url: /assets/images/film/bali-sanggingan-pak-agung-1-562w.jpg
+    image_path: /assets/images/film/bali-sanggingan-pak-agung-1-562w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
+  - url: /assets/images/film/bangkok-jalan-orang-sendiri-film-bw-562w.jpg
+    image_path: /assets/images/film/bangkok-jalan-orang-sendiri-film-bw-562w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
+  - url: /assets/images/film/balinality-camouflage-1280w.jpg
+    image_path: /assets/images/film/balinality-camouflage-1280w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
+  - url: /assets/images/film/dumaguete-bapak-strideby-seashore-ed-1280w.jpg
+    image_path: /assets/images/film/dumaguete-bapak-strideby-seashore-ed-1280w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "film photography portfolio by freelance photographer mark l chaves"
 ---
-
 <p class="p-wrapper">
     <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from marklchaves.com. here's what i have so far. there's a lot more to come.
 </p>
@@ -80,4 +112,4 @@ read more about [looking for saul in ubud bali](/stories/looking-for-saul).
 
 {% include gallery id="gallery5" %}
 
-more coming soon.
+{% include gallery id="gallery6" %}

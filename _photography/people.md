@@ -97,6 +97,10 @@ gallery7:
     image_path: /assets/images/people/seminyak-vanessa-profile-candid-1280w.jpg
     alt: "portrait of vanessa - freelance photographer mark l chaves"
     title: "portrait of vanessa"
+  - url: /assets/images/people/bali-sanggingan-deyas-steps-1-1280w.jpg
+    image_path: /assets/images/people/bali-sanggingan-deyas-steps-1-1280w.jpg
+    alt: "film portrait of deyas by freelance photographer mark l chaves"
+    title: "film portrait of deays by freelance photographer mark l chaves"
 ---
 {% include gallery id="gallery1" %}
 
