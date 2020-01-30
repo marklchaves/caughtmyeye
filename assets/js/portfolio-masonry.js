@@ -2,7 +2,7 @@
 function loadMasonry() {
   var grid = $(".grid__item");
   var container = document.querySelector(".archive");
-  // Get reference to loading screen
+  // Get reference to loading screen. Research what this is supposed to do. ~mlc
   var loading_screen = document.getElementById("loading");
   imagesLoaded(container, function() {
     grid.fadeIn();
