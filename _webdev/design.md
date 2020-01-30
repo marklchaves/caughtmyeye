@@ -1,6 +1,6 @@
 ---
 title: design samples
-excerpt: design samples
+excerpt: modern, clean, & responsive web design 
 collection: webdev
 date: 2020-01-30 19:00:00 +0800
 layout: splash
