@@ -7,12 +7,10 @@ entries_layout: grid
 classes: wide
 author_profile: false
 sidebar:
+  - title: "to see rather than look"
+  - title: "<hr>"
   - title: "freelance photographer"
     text: "loop images london<br>airbnb plus<br>balistreetphotographer.com"
-  - title: "<hr>"
-    text: "migrating from"
-  - title: ""
-    text: "marklchaves.com"
 sort_by: date
 sort_order: reverse
 masonry: false

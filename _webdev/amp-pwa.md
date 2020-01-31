@@ -1,5 +1,5 @@
 ---
-title: amp pwa development
+title: mobile apps
 excerpt: accelerated mobile pages as <br>progressive web apps
 collection: webdev
 date: 2020-01-05 06:00:00 +0800
