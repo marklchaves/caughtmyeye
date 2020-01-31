@@ -7,11 +7,10 @@ classes: wide
 author_profile: false
 sidebar:
   - title: "cover me"
-    text: "rock stars <br><br>reviving the <br>cover me project <br>more coming soon"
+    text: "album cover concepts"
   - title: "<hr>"
-    text: "album cover"
-  - title: ""
-    text: "concepts"
+  - title: "rock stars"
+    text: "in the middle of reviving the cover me project. more coming soon."
 sort_by: date
 sort_order: reverse
 masonry: true

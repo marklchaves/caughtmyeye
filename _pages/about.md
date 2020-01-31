@@ -16,7 +16,9 @@ header:
 <h1>bio</h1>
 
 <p class="p-wrapper">
-  <span class="dropcap clearfix">i</span>’m originally from the philippines, but i grew up in northeastern ohio of the us. i am a freelance photographer, writer, and web developer based in bali, indonesia. i've contributed to news, wellness, travel, and photography agencies. my photography has been exhibited in bali, europe and the us. before morphing into a freelancer, i slung code and managed web teams for fortune 500 companies.
+  <span class="dropcap clearfix">i</span>’m originally from the philippines, but i grew up in northeastern ohio of the us. i am a freelance photographer, writer, and web developer based in bali, indonesia.
+  <br><br> 
+  i've contributed to news, wellness, travel, and photography agencies. my photography has been exhibited in bali, europe and the us. before morphing into a freelancer, i slung code and managed web teams for fortune 500 companies. a list of my credentials are on <a href="https://www.quora.com/profile/Mark-Chaves" target="_blank" rel="noopener noreferrer">quora</a>.
   <br><br>
   my favourite meditations are a good book with a cappuccino, feeding stray cats and dogs, and wishing to be a rock star in my next life. i would be very disappointed if you were in bali and didn’t meet me for a coffee.
 </p>
