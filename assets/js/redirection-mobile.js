@@ -109,8 +109,10 @@ SA.redirection_mobile = function(configuration) {
 	if (document.referrer.indexOf(mobile_host) >= 0 || queryValue === FALSE ) {
 
 		if (window.sessionStorage) {
+            console.log('checking sessionStorage ...');
 			window.sessionStorage.setItem(redirection_param, FALSE);
 		} else {
+            console.log('setting cookie with cookie_hours = ' + cookie_hours);
 			document.cookie = redirection_param + "=" + FALSE + ";expires="+
 				addTimeToDate(3600*1000*cookie_hours).toUTCString();
 		}
