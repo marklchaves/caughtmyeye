@@ -1,5 +1,17 @@
 <!-- start custom head snippets -->
 
+{% if page.title == "stories"}
+  <script src="/assets/js/redirection-mobile.js"></script>
+  <script>
+    SA.redirection_mobile ({
+		  tablet_redirection : "true",
+		  mobile_url : "inibali.caughtmyeye.cc",
+      mobile_prefix : "https",
+      cookie_hours : "8" 
+	  });
+  </script>
+{% endif &}
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <!-- For iPhone -->
