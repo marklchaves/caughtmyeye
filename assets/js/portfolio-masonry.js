@@ -7,7 +7,8 @@ function loadMasonry() {
   imagesLoaded(container, function() {
     grid.fadeIn();
 
-    if (document.body.clientWidth >= 1024) {
+    // Let's only do the masonry for large displays that are not on Safari.
+    if ((document.body.clientWidth >= 1024) && (navigator.userAgent.indexOf("Safari") == -1)) {
       var msnry = new Masonry(document.querySelector(".archive"), {
         columnWidth: 300,
         gutter: 10,
