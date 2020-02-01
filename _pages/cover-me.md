@@ -30,9 +30,12 @@ analytics: true
   .archive__subtitle {
     display: none;
   }
+  .bottom-space {
+    margin-bottom: 5em;
+  }
 </style>
 
-<div class="entries-grid">
+<div class="entries-grid bottom-space">
     <div class="grid__item">
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">

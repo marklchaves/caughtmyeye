@@ -13,7 +13,7 @@ sidebar:
   - title: "technologies"
     text: "html5, css3, javascript (es6), jekyll, amp, pwa, responsive web design"
   - title: wordpress
-    text: avada, divi, the7, genesis, local by flywheel, siteorigin, wordpress.com
+    text: avada, divi, the7, genesis, local by flywheel, siteorigin, wpbakery, wordpress.com
 sort_by: date
 sort_order: reverse
 masonry: false
