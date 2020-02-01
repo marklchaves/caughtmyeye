@@ -10,6 +10,7 @@ function loadMasonry() {
     if (document.body.clientWidth >= 1024) {
       var msnry = new Masonry(document.querySelector(".archive"), {
         columnWidth: 300,
+        gutter: 10,
         itemSelector: ".grid__item",
         percentPosition: true,
         horizontalOrder: true
