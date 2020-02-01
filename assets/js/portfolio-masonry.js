@@ -28,7 +28,9 @@ window.onresize = function() {
 };
 
 window.onorientationchange = function() { 
-  window.location.reload();
+  // window.location.reload();
+  // Try to reload masonry only.
+  this.loadMasonry();
 }
 
 // Don't know what this is for. ~mlc
