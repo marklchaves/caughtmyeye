@@ -6,9 +6,9 @@
   margin-bottom: 1em;
 }
 
-@media all and (min-width: 667px) {
+@media all and (min-width: 1024.998px) {
   .grid__item {
-    margin: 0;
+    margin-bottom: 0.7em;
   }
 }
 
