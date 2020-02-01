@@ -29,6 +29,16 @@
       </div>
     {% endif %}
 
+    {% comment %}
+      Move this out of the custom.html so it's not hidden below.
+    {% endcomment %}
+    <button onclick="scrollUp()" id="totop" title="go to the top">^</button>
+
+    {% comment %}
+      Need to do some fancy foot work b/c lazyload and masonry 
+      don't play nice. Hopefully infinite scroll or images loaded
+      can fix this later. ~mlc 1 February 2020
+    {% endcomment %}
     {% if page.title == "cover me" %}
     <div id="footer" class="page__footer masonry-hide">
     {% else %}
@@ -36,7 +46,9 @@
     {% endif %}
       <footer>
         {% include footer/custom.html %}
-        {% include_cached footer.html %}
+        {% if page.title != "cover me" %}
+          {% include_cached footer.html %}
+        {% endif %}
       </footer>
     </div>
 
