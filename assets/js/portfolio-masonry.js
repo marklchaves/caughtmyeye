@@ -7,9 +7,7 @@ function loadMasonry() {
   imagesLoaded(container, function() {
     grid.fadeIn();
 
-    if (window.screen.width >= 1024) {
-      console.log("window.screen.width = " + window.screen.width);
-      console.log("loadMasonry()");
+    if (document.body.clientWidth >= 1024) {
       var msnry = new Masonry(document.querySelector(".archive"), {
         columnWidth: 300,
         itemSelector: ".grid__item",
@@ -21,22 +19,18 @@ function loadMasonry() {
 }
 
 window.onload = function() {
-  console.log("onload JS");
   this.loadMasonry();
 };
 
 window.onresize = function() {
-  console.log("onresize JS");
   this.loadMasonry();
 };
 
 window.onorientationchange = function() { 
-  console.log("onorientationchange JS");
   window.location.reload();
 }
 
 // Don't know what this is for. ~mlc
 function hideLoading(loading_screen) {
-  console.log("hideLoading()");
   loading_screen.classList.add("hidden");
 }
