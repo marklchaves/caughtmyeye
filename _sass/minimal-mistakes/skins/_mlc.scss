@@ -248,6 +248,9 @@ h1, .author__name {
   background-image: url(/assets/images/about/bali-ubud-pasar-mark-by-syahravi-300w.jpg);
 }
 
-.masonry-hide {
-  display: none;
+/* Hack for cover me fix. */
+@media all and (min-width: 1024.998px) {
+  .masonry-hide {
+    display: none;
+  }
 }
