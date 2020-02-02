@@ -10,7 +10,13 @@ feature_row1:
   - image_path: /assets/images/webdev/urphotography-homepage-hero-slider-yoga-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "fully responsive & modern hero slider collage"
-feature_row1-5:
+feature_row1-1:
+  - image_path: /assets/images/webdev/projectx-mob-562w.jpg
+    alt: "website design by freelance web developer mark l chaves bali indonesia"
+  - image_path: /assets/images/webdev/projectx-dt-562w.jpg
+    alt: "website design by freelance web developer mark l chaves bali indonesia"
+    title: "compact mobile menu that expands for wider displays"
+feature_row1-2:
   - image_path: /assets/images/webdev/moorehealthyliving-homepage-about-panel-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "homepage about feature panel"
@@ -41,7 +47,9 @@ feature_row6:
 
 {% include feature_row id="feature_row1" type="center" %}
 
-{% include feature_row id="feature_row1-5" type="center" %}
+{% include feature_row id="feature_row1-1" type="center" %}
+
+{% include feature_row id="feature_row1-2" type="center" %}
 
 {% include feature_row id="feature_row2" type="center" %}
 
