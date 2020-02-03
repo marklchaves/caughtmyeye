@@ -9,7 +9,7 @@ header:
 feature_row1:
   - image_path: /assets/images/webdev/urphotography-homepage-hero-slider-yoga-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "fully responsive & modern hero slider collage"
+    title: "fully responsive & modern - slider collage"
 feature_row1-1:
   - image_path: /assets/images/webdev/projectx-mob-562w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
@@ -19,16 +19,16 @@ feature_row1-1:
 feature_row1-2:
   - image_path: /assets/images/webdev/moorehealthyliving-homepage-about-panel-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "homepage about feature panel"
+    title: "homepage about-us panel"
 feature_row2:
   - image_path: /assets/images/webdev/soultherapist-yoga-panel-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "feature panel design with cta buttons"
+    title: "feature panel with cta (call-to-action) buttons"
 feature_row3:
   - url: https://medium.com/@marklchaves/website-design-get-ahead-of-the-curve-with-your-header-31cc29e3f833
     image_path: /assets/images/webdev/balistreetphotographer-homepage-new-logo-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "website header must-haves"
+    title: "what are the must-haves for a homepage header?"
 feature_row4:
   - image_path: /assets/images/webdev/urphotography-testimonials-slider-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
@@ -36,7 +36,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/webdev/urphotography-pricing-table-modal-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "context sensitive popup modal pricing table"
+    title: "strategically placed popup pricing table with a cta"
 feature_row6:
   - image_path: /assets/images/webdev/urphotography-logo-gallery-ripped-paper-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
@@ -60,3 +60,6 @@ feature_row6:
 {% include feature_row id="feature_row5" type="center" %}
 
 {% include feature_row id="feature_row6" type="center" %}
+
+![website design by freelance web developer mark l chaves bali indonesia](/assets/images/webdev/updating-your-site-infographic-562w.jpg "infographic design")
+### infographic design
