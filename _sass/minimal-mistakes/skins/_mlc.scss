@@ -27,7 +27,8 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .pagination--pager {
   color: $text-color;
   background-color: $background-color;
-  border-color: transparent;
+  border: none !important;
+  /* border-color: transparent; */
 
   &:visited {
     color: $text-color;
