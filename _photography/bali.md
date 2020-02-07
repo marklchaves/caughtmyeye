@@ -97,7 +97,7 @@ gallery4:
     image_path: /assets/images/bali/bali-sanur-bapak-penjual-pantai-ed-re-1280w.jpg
     alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
     title: "a food vendor in the fading sunlight - sanur bali 35mm film"
-  - url: /assets/images/bali/bbali-canggu-bapak2-kapal-pantai-ed-1280w.jpg
+  - url: /assets/images/bali/bali-canggu-bapak2-kapal-pantai-ed-1280w.jpg
     image_path: /assets/images/bali/bali-canggu-bapak2-kapal-pantai-ed-1280w.jpg
     alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
     title: "a traditional jukung outrigger - canggu bali 35mm film"
