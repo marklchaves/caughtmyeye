@@ -85,11 +85,27 @@ gallery4:
     image_path: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-1280w.jpg
     alt: "ini bali // this is bali - freelance photographer mark l chaves"
     title: "gardening at night - kuta beach bali"
+  - url: /assets/images/bali/bali-payangan-wedding-bride-1-ed-562w.jpg
+    image_path: /assets/images/bali/bali-payangan-wedding-bride-1-ed-562w.jpg
+    alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
+    title: "what one sees at a balinese wedding on 35mm film"
+  - url: /assets/images/bali/bali-payangan-wedding-groom-traditional-562w.jpg
+    image_path: /assets/images/bali/bali-payangan-wedding-groom-traditional-562w.jpg
+    alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
+    title: "what one sees at a balinese wedding on 35mm film"
+  - url: /assets/images/bali/bali-sanur-bapak-penjual-pantai-ed-re-1280w.jpg
+    image_path: /assets/images/bali/bali-sanur-bapak-penjual-pantai-ed-re-1280w.jpg
+    alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
+    title: "a food vendor in the fading sunlight - sanur bali 35mm film"
+  - url: /assets/images/bali/bbali-canggu-bapak2-kapal-pantai-ed-1280w.jpg
+    image_path: /assets/images/bali/bali-canggu-bapak2-kapal-pantai-ed-1280w.jpg
+    alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
+    title: "a traditional jukung outrigger - canggu bali 35mm film"
 ---
 ## to explore rather than visit
 
 <p class="p-wrapper">
-    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from marklchaves.com. here's what i have so far. there's a lot more to come. If you like what you see, <a href="https://inibali.caughtmyeye.cc">install the ini bali app</a> onto your phone.
+    <span class="dropcap clearfix">b</span>ali. the land of more than 1,000 temples. the island of the goddesses not just the gods. <br><br> if some of these photos <em>catch your eye</em>, you might want to scope out the <a href="https://inibali.caughtmyeye.cc">ini bali mobile app</a>.
 </p>
 
 {% include gallery id="gallery1" %}
@@ -99,5 +115,3 @@ gallery4:
 {% include gallery id="gallery3" %}
 
 {% include gallery id="gallery4" layout="half" %}
-
-more coming soon.
