@@ -43,7 +43,7 @@ gallery3:
 <p class="p-wrapper">
   AMP stands for accelerated mobile page. An AMP Story is similar to a Snapchat/IG style story. <br><br>
   Progressive Web Apps (PWAs) are known for advanced browser caching, being <strong>installable</strong>, and working <em>offline</em>. <br><br>
-  Combining the two are a sweet match for showing off portfolios, products, and (yes) sharing your stories. The bonuses are that these apps are fast. Google PageSpeed loves them. And, they can run <strong>without</strong> an internet connection once they're installed. Now that's wicked cool. <br><br>
+  Combining the two are a sweet match for showing off portfolios, products, and (yes) sharing your stories. These apps are fast. Google PageSpeed loves them. And, they can run <strong>without</strong> an internet connection once they're installed. Now that's wicked cool. <br><br>
 </p>
 
 <hr>
