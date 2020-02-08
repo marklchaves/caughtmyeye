@@ -11,4 +11,4 @@ tara, my love.
 
 this portrait was a finalist and displayed at the *contrasto gallery* in milan, italy a few years back.
 
-{% include back-button.html %} | {% include film-link.html %}
+{% include film-link.html %}

@@ -21,4 +21,4 @@ ian in akron ohio 2016.
 
 about thirty years later and 7,000 km away. also on film. i made this portrait for his graduation from akron law. you can tell he wasn't thrilled about being photographed. i guess it runs in the family.
 
-{% include back-button.html %} | {% include film-link.html %}
+{% include film-link.html %}
