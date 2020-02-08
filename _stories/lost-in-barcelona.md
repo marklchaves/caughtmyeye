@@ -15,4 +15,4 @@ my daughter emily and i traveled to barcelona a long time ago. we wandered. we g
 
 i'll always remember this picture.
 
-{% include back-button.html %} | {% include film-link.html %}
+{% include film-link.html %}

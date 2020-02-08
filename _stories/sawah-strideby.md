@@ -11,4 +11,4 @@ once in a while there's a *convergence*. you are standing in the right place (in
 
 living in bali is living inside a movie. the actors create scenes. bali does the rest.
 
-{% include back-button.html %} | {% include film-link.html %}
+{% include film-link.html %}

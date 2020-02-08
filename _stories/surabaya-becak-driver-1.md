@@ -17,4 +17,4 @@ he was fidgety at first. but, i took my time focusing and checking settings on m
 
 explore the [surabaya gallery](/photography/surabaya).
 
-{% include back-button.html %} | {% include film-link.html %}
+{% include film-link.html %}

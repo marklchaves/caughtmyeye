@@ -20,4 +20,4 @@ the **syro steel** photo was taken in 2016 on an old canon ft/ql using kodak por
 ![encinitas, ca](/assets/images/youngstown/mark-dad-encinitas-beach-wb.jpeg "encinitas, ca c. 2004/5")
 <div style="font-family: courier; font-size: 0.75em; line-height: 1; padding-bottom: 1em;">my dad and i in encinitas, ca c. 2004/5 shortly before he passed</div>
 
-{% include back-button.html %} | {% include film-link.html %}
+{% include film-link.html %}

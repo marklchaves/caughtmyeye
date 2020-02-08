@@ -6,6 +6,9 @@ date: 2019-07-06
 header:
   teaser: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-300w.jpg
   image: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.jpg
+related_posts:
+  - /stories/looking-for-saul
+  - /stories/gardening-at-night
 ---
 
 ## smoke, steps, &amp; and a balinese man
@@ -16,4 +19,4 @@ i had my old canon ft/ql with me this day. the smoke in the background set a sur
 
 this elderly balinese man strode by down the steps.
 
-{% include back-button.html %} | {% include film-link.html %}
+{% include film-link.html %}
