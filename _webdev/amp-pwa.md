@@ -40,19 +40,20 @@ gallery3:
 
 ## AMP and PWA
 
-<p class="p-wrapper">
-  AMP stands for accelerated mobile page. An AMP Story is similar to a Snapchat/IG style story. <br><br>
-  Progressive Web Apps (PWAs) are known for advanced browser caching, being <strong>installable</strong>, and working <em>offline</em>. <br><br>
-  Combining the two are a sweet match for showing off portfolios, products, and (yes) sharing your stories. These apps are fast. Google PageSpeed loves them. And, they can run <strong>without</strong> an internet connection once they're installed. Now that's wicked cool. <br><br>
-</p>
+AMP stands for accelerated mobile page. An AMP Story is similar to a Snapchat/IG style story. 
 
-<hr>
+Progressive Web Apps (PWAs) are known for advanced browser caching, being **installable**, and working _offline_.
+Combining the two are a sweet match for showing off portfolios, products, and (yes) sharing your stories. These apps are fast. Google PageSpeed loves them. And, they can run **without** an internet connection once they're installed!
 
-## Ini Bali
+Now that's wicked cool.
 
-<p class="p-wrapper">
-  <span class="dropcap clearfix">I</span>ni Bali means this is Bali. The ini bali app is proudly hosted on <a href="https://inibali.caughtmyeye.cc">Netlify</a>.
-</p>
+The _ini bali_ and Hope apps are AMP Stories running as PWAs.
+
+---
+
+## ini bali
+
+"ini bali" means "this is Bali". The ini bali app is proudly hosted on [Netlify](https://inibali.caughtmyeye.cc).
 
 {% include gallery id="gallery1" layout="half" %}
 
