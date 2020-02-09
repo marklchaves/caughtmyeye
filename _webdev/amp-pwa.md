@@ -36,6 +36,11 @@ gallery3:
     image_path: /assets/images/webdev/pwa-amp-hope-bookend-1280w.jpg
     alt: "amp on pwa by freelance web developer mark l chaves"
     title: "hope's transfurmation story for missionpawsible.org"
+gallery4:
+  - url: /assets/images/webdev/shorties-screen-capture-9feb2020-562w.jpg
+    image_path: /assets/images/webdev/shorties-screen-capture-9feb2020-562w.jpg
+    alt: "pwa by freelance web developer mark l chaves"
+    title: "prototype pwa for sharing links"
 ---
 
 ## AMP and PWA
@@ -74,3 +79,9 @@ Learn more and fork your own copy on [GitHub](https://github.com/marklchaves/ini
 {% include gallery id="gallery3" %}
 
 [Hope's Transfurmation Story](https://hope.caughtmyeye.cc) [![Netlify Status](https://api.netlify.com/api/v1/badges/67fc9ef7-1712-4802-932e-9f2b7692fef4/deploy-status)](https://app.netlify.com/sites/transfurmation/deploys)
+
+## In Development
+
+A create, update, and delete (CRUD) app for sharing links without having to pull up a browser or wading through bookmarks.
+
+{% include gallery id="gallery4" layout="half" %}
