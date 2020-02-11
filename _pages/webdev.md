@@ -11,9 +11,11 @@ sidebar:
     text: "i slung code and led web dev teams for fortune 500 companies in a previous life"
   - title: "<hr>"
   - title: "technologies"
-    text: "html5, css3, javascript (es6), jekyll, amp, pwa, responsive web design"
+    text: "html5, css3, javascript (es6), jekyll, amp, pwa, php, responsive web design"
   - title: wordpress
     text: avada, divi, the7, genesis, local by flywheel, siteorigin, wpbakery, wordpress.com
+  - title: experience
+    text: former app dev and hosting manager for sony playstation online. previous product manager for lafitness.com. original webdb team at oracle corp.
 sort_by: date
 sort_order: reverse
 masonry: false
