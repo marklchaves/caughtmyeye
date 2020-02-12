@@ -5,7 +5,7 @@ collection: webdev
 date: 2020-02-12 08:00:00 +0800
 layout: splash
 header:
-  teaser: /assets/images/webdevdigital-fluency-jargon-code-splash-300w.jpg
+  teaser: /assets/images/webdev/digital-fluency-jargon-code-splash-300w.jpg
   overlay_image: /assets/images/webdev/digital-fluency-jargon-code-splash-1280w.jpg
   overlay_filter: 0.3
 ---
