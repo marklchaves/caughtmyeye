@@ -1,6 +1,6 @@
 ---
 title: Digital Fluency Presentation at Livit
-excerpt: Why You Should Embrace <br>Technical Jargon and Writing Code!
+excerpt: Why You Should Embrace <br>Technical Jargon and Writing Code! <br>12 February 2020 4:30 pm
 collection: webdev
 date: 2020-02-12 08:00:00 +0800
 layout: splash
