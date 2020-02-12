@@ -82,6 +82,8 @@ Learn more and fork your own copy on [GitHub](https://github.com/marklchaves/ini
 
 ## In Development
 
+### Shorties
+
 A create, update, and delete (CRUD) app for sharing links without having to pull up a browser or wading through bookmarks.
 
 {% include gallery id="gallery4" layout="half" %}

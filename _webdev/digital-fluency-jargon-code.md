@@ -5,8 +5,9 @@ collection: webdev
 date: 2020-02-12 08:00:00 +0800
 layout: splash
 header:
-  teaser: /assets/images/webdev/digital-fluency-jargon-code-splash-300w.jpg
-  overlay_image: /assets/images/webdev/digital-fluency-jargon-code-splash-1280w.jpg
+  teaser: /assets/images/webdev/canggu-berawa-pantai-surfer-300w.jpg
+  overlay_image: /assets/images/webdev/canggu-berawa-pantai-surfer-1280w.jpg
+  overlay_image_mob: /assets/images/webdev/canggu-berawa-pantai-surfer-720w.jpg
   overlay_filter: 0.3
 ---
 # Digital Fluency: Why You Should Embrace Technical Jargon and Writing Code!
