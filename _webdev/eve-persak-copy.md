@@ -1,41 +1,16 @@
 ---
-title: eve persak
-excerpt: wordpress design/development <br>for evepersak.com
+title: Digital Fluency Presentation at Livit
+excerpt: Why You Should Embrace <br>Technical Jargon and Writing Code!
 collection: webdev
-date: 2019-11-23 09:00:00 +0800
+date: 2020-02-12 08:00:00 +0800
 layout: splash
-header:
-  teaser: /assets/images/webdev/evepersak-homepage-macbook-pro-graphic-300w.jpg
-  overlay_image: /assets/images/webdev/evepersak-homepage-macbook-pro-graphic-1280w.jpg
-  overlay_image_mob: /assets/images/webdev/evepersak-homepage-macbook-pro-graphic-720w.jpg
-  overlay_filter: 0.3
-gallery1:
-  - url: /assets/images/webdev/evepersak-com-homepage-1280w.jpg
-    image_path: /assets/images/webdev/evepersak-com-homepage-1280w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
-    title: "eve persak homepage"
-  - url: /assets/images/webdev/evepersak-homepage-about-panel-1280w.jpg
-    image_path: /assets/images/webdev/evepersak-homepage-about-panel-1280w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
-    title: "eve persak about"
-gallery2:
-  - url: /assets/images/webdev/evepersak-offerings-workshops-retreats-1080w.jpg
-    image_path: /assets/images/webdev/evepersak-offerings-workshops-retreats-510w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
-    title: "eve persak staggered design"
-  - url: /assets/images/webdev/evepersak-offerings-industries-popup-1080w.jpg
-    image_path: /assets/images/webdev/evepersak-offerings-industries-popup-510w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
-    title: "eve persak popup modal design"
-gallery3:
-  - url: /assets/images/webdev/evepersak-brands-industries-modal.gif
-    image_path: /assets/images/webdev/evepersak-brands-industries-modal.gif
-    alt: "eve persak website by freelance web developer mark l chaves"
-    title: "eve persak staggered design"
 ---
+# Digital Fluency: Why You Should Embrace Technical Jargon and Writing Code!
 
-{% include gallery id="gallery1" %}
+There are 1.72 billion websites in the world. 3.5 billion of us are online. 3.8 billion people are using email. In the US, about 16% of adults in the are not digitally fluent. Nine out of ten of my clients say they are not "good" with computers.
 
-{% include gallery id="gallery2" layout="half" %}
+## Americans fear technology more than death!
 
-{% include gallery id="gallery3" %}
+From my experience, technophobia begins with the fear of technical jargon. And, most of the people I see in online forums ask for help because they can’t code.
+
+In this [presentation](https://drive.google.com/open?id=1VO_uDuzkvJIynuirAL1QGVxm9uDiC_rNeZe0O90jlL4), we’ll cover why you should embrace technical terms instead of shunning them. We’ll also dabble in basic coding skills to prove how quickly you can learn what many consider daunting.
