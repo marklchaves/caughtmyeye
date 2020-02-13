@@ -19,3 +19,27 @@ There are 1.72 billion [websites in the world](https://www.statista.com/chart/19
 From my experience, technophobia begins with the fear of technical jargon. And, most of the people I see in online forums ask for help because they can’t code.
 
 In this [presentation](https://drive.google.com/open?id=1VO_uDuzkvJIynuirAL1QGVxm9uDiC_rNeZe0O90jlL4), we’ll cover why you should embrace technical terms instead of shunning them. We’ll also dabble in basic coding skills to prove how quickly you can learn what many consider daunting.
+
+---
+
+## List of Materials Covered During the 12 February 2020 Session
+
+### Jargon
+
+- [Initialism](https://www.thefreedictionary.com/initialism)
+- [Acronym](https://www.thefreedictionary.com/acronym)
+
+### Code Lab
+
+1. [CodePen - Online Coding Environment](https://codepen.io/)
+2. Coding tutorial based on [Customizing a Call-to-Action Button](https://medium.com/@marklchaves/rolling-your-own-cta-button-7cbf823a7d36) article.
+3. [Pen used for the Code Lab](https://codepen.io/marklchaves/pen/BbOMeq)
+4. HTML (Hpyertext Markup Language) gives a webpage structure and content.
+5. CSS (Cascading Style Sheets) gives style to HTML elements.
+
+### Tools Sharing
+
+#### GIF Recorder
+
+- macOs: [Giphy Capture](https://giphy.com/apps/giphycapture)
+- Windows: [ScreenToGif](https://www.screentogif.com/)
