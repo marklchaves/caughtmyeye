@@ -85,6 +85,7 @@ gallery4:
     image_path: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-1280w.jpg
     alt: "ini bali // this is bali - freelance photographer mark l chaves"
     title: "gardening at night - kuta beach bali"
+gallery5:
   - url: /assets/images/bali/bali-payangan-wedding-bride-1-ed-562w.jpg
     image_path: /assets/images/bali/bali-payangan-wedding-bride-1-ed-562w.jpg
     alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
@@ -93,6 +94,7 @@ gallery4:
     image_path: /assets/images/bali/bali-payangan-wedding-groom-traditional-562w.jpg
     alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
     title: "what one sees at a balinese wedding on 35mm film"
+gallery6:
   - url: /assets/images/bali/bali-sanur-bapak-penjual-pantai-ed-re-1280w.jpg
     image_path: /assets/images/bali/bali-sanur-bapak-penjual-pantai-ed-re-1280w.jpg
     alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
@@ -101,6 +103,10 @@ gallery4:
     image_path: /assets/images/bali/bali-canggu-bapak2-kapal-pantai-ed-1280w.jpg
     alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
     title: "a traditional jukung outrigger - canggu bali 35mm film"
+  - url: /assets/images/bali/bali-ubud-pasar-bemo-ibu-bayar-2-1280w.jpg
+    image_path: /assets/images/bali/bali-ubud-pasar-bemo-ibu-bayar-2-1280w.jpg
+    alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
+    title: "to see rather than look - ubud bali february 2020"
 ---
 ## to explore rather than visit
 
@@ -114,4 +120,8 @@ gallery4:
 
 {% include gallery id="gallery3" %}
 
-{% include gallery id="gallery4" layout="half" %}
+{% include gallery id="gallery4" %}
+
+{% include gallery id="gallery5" layout="half" %}
+
+{% include gallery id="gallery6" %}
