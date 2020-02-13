@@ -41,5 +41,5 @@ In this [presentation](https://drive.google.com/open?id=1VO_uDuzkvJIynuirAL1QGVx
 
 #### GIF Recorder
 
-- macOs: [Giphy Capture](https://giphy.com/apps/giphycapture)
+- macOS: [Giphy Capture](https://giphy.com/apps/giphycapture)
 - Windows: [ScreenToGif](https://www.screentogif.com/)
