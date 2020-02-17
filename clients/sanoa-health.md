@@ -17,7 +17,21 @@ In the Fusion Builder editor, you'll see the small, medium, and large screen ver
 
 Here's an example using the small screen code.
 
-![Fusion Builder Screen Capture](avada-fusion-builder-mcwhc-screen-grab.png)
+![Fusion Builder Screen Capture](/assets/images/clients/sanoa-health/avada-fusion-builder-mcwhc-screen-grab.png)
+
+---
+
+## Handheld Demos
+
+### Mobile
+
+![Mobile Portrait/Landscape](/assets/images/clients/sanoa-health/sanoa-mwcwh-responsive-hero-ipx.gif)
+
+### Tablet
+
+![Tablet Portrait/Landscape](/assets/images/clients/sanoa-health/sanoa-mwcwh-responsive-hero-tab.gif)
+
+---
 
 ## HTML
 
