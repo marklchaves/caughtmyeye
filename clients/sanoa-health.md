@@ -9,9 +9,11 @@ date: 2020-02-17 23:00:00 +0800
 
 ### Technique
 
-For the hero image, I created **eight** [art direction](https://dev.to/marklchaves/what-is-art-direction-and-how-to-use-it-1o3n) versions. I use CSS media queries to display them for standard device breakpoints. I added transition breakpoints to take care of random browser window resizing. All custom CSS is in the page CSS editor.
+For the hero image, I created **eight** [art direction](https://dev.to/marklchaves/what-is-art-direction-and-how-to-use-it-1o3n) versions. I use six CSS media queries to display them for standard device breakpoints. I added two intermediate breakpoints to take care of random browser window resizing. All custom CSS is in the page CSS editor.
 
-For the hero text content (heading, subheading, body, and buttons), I created a set of three Fusion Builder elements--one for each screen size. Additional CSS was needed to refine positioning, font size, and padding/margins. In the Fusion Builder editor, you'll see the small, medium, and large screen version in that order from top to bottom. 
+For the hero text content (heading, subheading, body, and buttons), I leveraged Fusion Builder's element visibility settings to avoid writing more custom CSS. I created a set of three Fusion Builder elements--one for each screen size. Additional CSS was needed to refine positioning, font size, and padding/margins. I added one media query to handle random browser window resizing.
+
+In the Fusion Builder editor, you'll see the small, medium, and large screen versions in that order from top to bottom. 
 
 Here's an example using the small screen code.
 
