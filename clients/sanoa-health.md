@@ -3,6 +3,7 @@ title: MWCWH Responsive Hero Documentation
 layout: splash
 date: 2020-02-17 23:00:00 +0800
 ---
+# MWCWH Responsive Hero Documentation for Sanoa Health
 
 ## Overview
 
