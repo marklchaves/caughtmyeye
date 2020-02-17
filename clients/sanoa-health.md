@@ -2,7 +2,31 @@
 title: MWCWH Responsive Hero Documentation
 layout: single
 ---
-# MWCWH Responsive Hero Documentation
+
+## HTML
+
+Using Avada Element Visibility
+
+### Small Screen
+
+```html
+<h1>Exceptional Care</h1>
+<p class="hero-text-subheading hero-text-subheading-mob">one patient at a time</p>
+<p class="hero-text-body hero-text-body-mob">You deserve the best care from the best doctors. At Midwest Center For Women's HealthCare, your health is our top priority.</p>
+[fusion_button link="" text_transform="uppercase" title="" target="_self" link_attributes="" alignment="right" modal="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="hero-cta" id="" color="default" button_gradient_top_color="" button_gradient_bottom_color="" button_gradient_top_color_hover="" button_gradient_bottom_color_hover="" accent_color="" accent_hover_color="" type="" bevel_color="" border_width="" border_radius="" border_color="" border_hover_color="" size="small" stretch="default" icon="" icon_position="left" icon_divider="no" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset=""]OUR PROVIDERS[/fusion_button][fusion_button link="" text_transform="uppercase" title="" target="_self" link_attributes="" alignment="right" modal="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="hero-cta" id="" color="default" button_gradient_top_color="" button_gradient_bottom_color="" button_gradient_top_color_hover="" button_gradient_bottom_color_hover="" accent_color="" accent_hover_color="" type="" bevel_color="" border_width="" border_radius="" border_color="" border_hover_color="" size="small" stretch="default" icon="" icon_position="left" icon_divider="no" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset=""]OFFICE LOCATIONS[/fusion_button]
+```
+
+### Medium Screen
+
+```html
+```
+
+### Large Screen
+
+```html
+```
+
+---
 
 ## CSS
 
