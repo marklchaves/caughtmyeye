@@ -1,6 +1,6 @@
 ---
 title: MWCWH Responsive Hero Documentation
-layout: default
+layout: single
 ---
 # MWCWH Responsive Hero Documentation
 
