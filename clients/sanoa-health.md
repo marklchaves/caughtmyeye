@@ -1,15 +1,18 @@
 ---
 title: MWCWH Responsive Hero Documentation
 layout: splash
+date: 2020-02-17 23:00:00 +0800
 ---
 
 ## Overview
 
 ### Technique
 
-For the hero image, I created eight art direction versions. I use CSS media queries to display them for standard device breakpoints. I added transition breakpoints to take care of random browser window resizing. All custom CSS is in the page CSS editor.
+For the hero image, I created **eight** [art direction](https://dev.to/marklchaves/what-is-art-direction-and-how-to-use-it-1o3n) versions. I use CSS media queries to display them for standard device breakpoints. I added transition breakpoints to take care of random browser window resizing. All custom CSS is in the page CSS editor.
 
-For the hero text content (heading, subheading, body, and buttons), I created a set of three Fusion Builder elements--one for each screen size. Aadditional CSS was needed to refine positioning, font size, and padding/margins. In the Fusion Builder editor, you'll see the small, medium, and large screen version in that order. Here's an example using the small screen code first.
+For the hero text content (heading, subheading, body, and buttons), I created a set of three Fusion Builder elements--one for each screen size. Additional CSS was needed to refine positioning, font size, and padding/margins. In the Fusion Builder editor, you'll see the small, medium, and large screen version in that order from top to bottom. 
+
+Here's an example using the small screen code.
 
 ![Fusion Builder Screen Capture](avada-fusion-builder-mcwhc-screen-grab.png)
 
