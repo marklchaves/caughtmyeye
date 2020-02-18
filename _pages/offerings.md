@@ -9,7 +9,7 @@ toc_label: "Table of Contents"
 toc_icon: "book"
 sidebar:
   - title: "mark l chaves"
-    text: "freelance web developer"
+    text: "photography, writing, web dev"
 date: 2020-02-18 12:35:00 +0800
 ---
 
