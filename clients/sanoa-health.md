@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"
+toc_icon: "book"
 sidebar:
   - title: "mark l chaves"
     text: "freelance web developer"

@@ -6,12 +6,63 @@ classes: wide
 permalink: /offerings/
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"
+toc_icon: "book"
 sidebar:
   - title: "mark l chaves"
     text: "freelance web developer"
 date: 2020-02-18 12:35:00 +0800
 ---
+
+## Photography
+
+<table>
+<thead>
+  <tr>
+    <th>Service</th>
+    <th>Description</th>
+    <th>Rate</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Photo Essay Assignments</td>
+    <td>
+        <p>Let me tell your story through photographs and words. As seen on Inkifi, Vimpt, Seniman Singalong, and Live Encounters Mag.</p>
+    </td>
+    <td>
+        <p>Hourly or Daily</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Interior Photography</td>
+    <td>
+        <p>Airbnb Plus style. Overview and detail images. 3-5 photos per room. Full resolution and web friendly downloads.</p>
+    </td>
+    <td>
+        <p>Hourly or Daily</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Food Photography</td>
+    <td>
+        <p>Artistic style. As seen on Griya Amed, Firefly Eco Lodge, and BeingSattvaa.</p>
+    </td>
+    <td>
+        <p>Hourly</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Street Photography Tours</td>
+    <td>
+        <p>Come along with a passionate street photographer through Bali's traditional <em>pasars</em>. All proceeds benefit local animal rescue NGOs.</p>
+        <p>Learn more on <a href="https://balistreetphotographer.com">BaliStreetPhotographer.com</a></p>
+    </td>
+    <td>
+        <p>Donation Based</p>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ## Content Creation
 

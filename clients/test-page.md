@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: true
 toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_icon: "book"
 author_profile: true
 sidebar:
   - title: "mark l chaves"

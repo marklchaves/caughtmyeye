@@ -29,6 +29,12 @@ header:
 
 ---
 
+[List of Offerings](/offerings/)
+
+---
+
+### Photo Credits
+
 Top photo on 35mm film late 80's. Bottom image 1: self-portrait Paro, Bhutan 2014. Bottom image 2 (touch/hover): by [Syahravi Dewanda](https://www.instagram.com/ravi_from_accounting/) Pasar Ubud, Bali 2019.
 
 <!-- Animations didn't work when added in head/custom.html. Adding here for now. -->
