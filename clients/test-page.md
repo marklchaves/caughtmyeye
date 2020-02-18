@@ -1,12 +1,11 @@
 ---
 title: "Test Page"
 layout: single
+classes: wide
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
-# Test Page
-
 ## Section 1
 
 Lorem ipsum dolor amet artisan four dollar toast gentrify lyft, shabby chic man braid cloud bread vegan photo booth knausgaard godard skateboard. Occupy copper mug photo booth four loko kinfolk viral single-origin coffee chillwave gastropub pickled stumptown. Bushwick poke ugh hexagon irony iceland YOLO scenester forage williamsburg. Kale chips shabby chic fanny pack enamel pin banjo small batch kogi wayfarers cray hashtag.
