@@ -5,6 +5,11 @@ classes: wide
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+sidebar:
+  - title: "mark l chaves"
+    text: "freelance web developer"
+  - title: "Posted"
+    text: "17 February 2020"
 date: 2020-02-17 23:00:00 +0800
 ---
 # MWCWH Responsive Hero Documentation for Sanoa Health
