@@ -61,6 +61,16 @@ date: 2020-02-18 12:35:00 +0800
         <p>Donation Based</p>
     </td>
   </tr>
+  <tr>
+    <td>Album Covers</td>
+    <td>
+        <p>Give me your quirky, weird, and edgy concepts yearning to break free.</p>
+        <p>Samples in the <a href="/cover-me/">cover me</a> project.</p>
+    </td>
+    <td>
+        <p>Hourly</p>
+    </td>
+  </tr>
 </tbody>
 </table>
 
