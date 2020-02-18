@@ -27,9 +27,7 @@ header:
   <div class="subject bio-photo"></div>
 </div>
 
----
-
-[List of Offerings](/offerings/)
+need [help with a project](/offerings/)? give me a shout.
 
 ---
 
