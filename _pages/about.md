@@ -27,7 +27,11 @@ header:
   <div class="subject bio-photo"></div>
 </div>
 
-need [help with a project](/offerings/)? give me a shout.
+&nbsp;
+
+need help with a project?
+
+<a href="/offerings" class="btn btn--primary btn--large">see offerings</a>
 
 ---
 
