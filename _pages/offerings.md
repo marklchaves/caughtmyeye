@@ -28,7 +28,7 @@ date: 2020-02-18 12:35:00 +0800
     <td>Monthly Content Updates</td>
     <td>
         <p>Routine website content and software updates.</p>
-        <p>Up to four regularly scheduled email campaigns.</p>
+        <p>Up to four regularly scheduled email campaigns. Full content required 2 business days before launch to allow for one review cycle.</p>
         <p>Does not cover new projects like a new web page or new kind of one-off campaign.</p>
     </td>
     <td>
