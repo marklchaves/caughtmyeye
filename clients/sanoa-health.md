@@ -1,6 +1,10 @@
 ---
 title: MWCWH Responsive Hero Documentation
-layout: splash
+layout: single
+classes: wide
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 date: 2020-02-17 23:00:00 +0800
 ---
 # MWCWH Responsive Hero Documentation for Sanoa Health
