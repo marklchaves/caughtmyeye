@@ -6,6 +6,9 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 author_profile: true
+sidebar:
+  - title: "mark l chaves"
+    text: "18 February 2020"
 ---
 ## Section 1
 
