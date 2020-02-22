@@ -81,7 +81,7 @@ date: 2020-02-18 12:35:00 +0800
   <tr>
     <th>Service</th>
     <th>Description</th>
-    <th>Rate</th>
+    <th>Rate (USD)</th>
   </tr>
 </thead>
 <tbody>
@@ -115,7 +115,7 @@ date: 2020-02-18 12:35:00 +0800
     <td></td>
     <td>
         <p><strong>Full Monthly Plan</strong></p> 
-        <p>$225.00</p>
+        <p>$200.00 (11% off full price)</p>
     </td>
   </tr>
 </tbody>
