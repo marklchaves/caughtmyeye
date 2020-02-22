@@ -107,6 +107,15 @@ gallery6:
     image_path: /assets/images/bali/bali-ubud-pasar-bemo-ibu-bayar-2-1280w.jpg
     alt: "ini bali // this is bali on 35mm film - freelance photographer mark l chaves"
     title: "to see rather than look - ubud bali february 2020"
+gallery7:
+  - url: /assets/images/bali/bali-bsf-ibu-bawa-tray-kepala-562w.jpg
+    image_path: /assets/images/bali/bali-bsf-ibu-bawa-tray-kepala-562w.jpg
+    alt: "ini bali // this is bali - freelance photographer mark l chaves"
+    title: "ini bali // this is bali"
+  - url: /assets/images/bali/bali-penulisan-portrait-mangku-kurni-1-ed-562w.jpg
+    image_path: /assets/images/bali/bali-penulisan-portrait-mangku-kurni-1-ed-562w.jpg
+    alt: "mangku at pura pucak penulisan - freelance photographer mark l chaves"
+    title: "mangku at pura pucak penulisan"
 ---
 ## to explore rather than visit
 
@@ -125,3 +134,5 @@ gallery6:
 {% include gallery id="gallery5" layout="half" %}
 
 {% include gallery id="gallery6" %}
+
+{% include gallery id="gallery7" layout="half" %}
