@@ -5,7 +5,7 @@ permalink: /webdev/
 collection: webdev
 entries_layout: grid
 classes: wide
-author_profile: false
+author_profile: true
 sidebar:
   - title: "freelance web developer"
     text: "i slung code and led web dev teams for fortune 500 companies in a previous life"

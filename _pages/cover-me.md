@@ -4,7 +4,7 @@ layout: home
 permalink: /cover-me/
 entries_layout: grid
 classes: wide
-author_profile: false
+author_profile: true
 sidebar:
   - title: "cover me"
     text: "album cover concepts"
