@@ -54,6 +54,13 @@ feature_row7:
 
 {% include feature_row id="feature_row1" type="center" %}
 
+<div>What is Art Direction? A way to use different <img style="float: right; margin: 0 2rem 2rem 0.2rem;" src="https://i.giphy.com/media/TfFGc2amScfP8TOTYb/giphy.gif" width="562"> photo compositions to keep subjects in view on large & small devices. It's liquid.</div>
+
+<div style="display: table; clear: both;"></div>
+[What is Art Direction and How to Use it](https://dev.to/marklchaves/what-is-art-direction-and-how-to-use-it-1o3n) posted on DEV.
+
+---
+
 {% include feature_row id="feature_row1-1" type="center" %}
 
 {% include feature_row id="feature_row1-2" type="center" %}
