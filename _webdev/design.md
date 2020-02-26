@@ -13,6 +13,7 @@ feature_row1:
 feature_row1-1:
   - image_path: /assets/images/webdev/projectx-mob-562w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
+    title: "mobile hamburger menu"
   - image_path: /assets/images/webdev/projectx-dt-562w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "compact mobile menu that expands for wider displays"
@@ -41,7 +42,13 @@ feature_row6:
   - image_path: /assets/images/webdev/urphotography-logo-gallery-ripped-paper-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "textured separator with logo gallery"
-
+feature_row7:
+  - image_path: /assets/images/webdev/updating-your-site-infographic-562w.jpg
+    alt: "infograph design by freelance web developer mark l chaves bali indonesia"
+    title: "infographs"
+  - image_path: /assets/images/webdev/angie-intro-one-pager-562w.jpg
+    alt: "one page designs by freelance web developer mark l chaves bali indonesia"
+    title: "one-pagers"
 ---
 # design samples
 
@@ -61,5 +68,4 @@ feature_row6:
 
 {% include feature_row id="feature_row6" type="center" %}
 
-![website design by freelance web developer mark l chaves bali indonesia](/assets/images/webdev/updating-your-site-infographic-562w.jpg "infographic design")
-### infographic design
+{% include feature_row id="feature_row7" type="center" %}
