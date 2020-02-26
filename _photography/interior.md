@@ -86,6 +86,27 @@ gallery11:
     image_path: /assets/images/interior/rainy-house-of-gold-overview-br-2-1280w.jpg
     alt: "House of Gold - Interior photography by mark l chaves"
     title: "House of Gold"
+  - url: /assets/images/interior/senang-pool-overview-2-1280w.jpg
+    image_path: /assets/images/interior/senang-pool-overview-2-1280w.jpg
+    alt: "Villa Senang - Interior photography by mark l chaves"
+    title: "Villa Senang Canggu Bali"
+  - url: /assets/images/interior/tresna-kitchen-overview-7-2.-1280w.jpg
+    image_path: /assets/images/interior/tresna-kitchen-overview-7-2.-1280w.jpg
+    alt: "Tresna Bali Cooking School - Interior photography by mark l chaves"
+    title: "Tresna Bali Cooking School"
+  - url: /assets/images/interior/kalangan-master-bed-1-ed-1280w.jpg
+    image_path: /assets/images/interior/kalangan-master-bed-1-ed-1280w.jpg
+    alt: "The Rooms at Kalangan Spa - Interior photography by mark l chaves"
+    title: "The Rooms at Kalangan Spa"
+gallery12:
+  - url: /assets/images/interior/rainy-firefly-nest-lobby-detail-dining-562w.jpg
+    image_path: /assets/images/interior/rainy-firefly-nest-lobby-detail-dining-562w.jpg
+    alt: "Firefly Eco Lodge Interior Photography - mark l chaves freelance photographer Bali"
+    title: "Firefly Eco Lodge"
+  - url: /assets/images/interior/rainy-firefly-nest-lobby-detail-eggs-7-562w.jpg
+    image_path: /assets/images/interior/rainy-firefly-nest-lobby-detail-eggs-7-562w.jpg
+    alt: "Firefly Eco Lodge Interior Photography - mark l chaves freelance photographer Bali"
+    title: "Firefly Eco Lodge"
 ---
 {% include gallery id="gallery1" %}
 
@@ -120,3 +141,5 @@ gallery11:
 </div>
 
 {% include gallery id="gallery11" %}
+
+{% include gallery id="gallery12" layout="half" %}
