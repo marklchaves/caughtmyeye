@@ -5,7 +5,7 @@ permalink: /photography/
 collection: photography
 entries_layout: grid
 classes: wide
-author_profile: false
+author_profile: true
 sidebar:
   - title: "to see rather than look"
   - title: "<hr>"
