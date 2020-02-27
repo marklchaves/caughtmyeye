@@ -273,3 +273,16 @@ h1,
 .page__related .grid__item {
   margin-right: 1.5em;
 }
+
+/* Animated GIFs */
+.animated-gif {
+  text-align: center; 
+  margin: 0 auto;
+}
+
+@media all and (min-width: 1024.998px) {
+  .animated-gif {
+    float: right; 
+    margin: 0 2rem 2rem 0.2rem;
+  }
+}
