@@ -13,7 +13,6 @@ feature_row1:
 feature_row1-1:
   - image_path: /assets/images/webdev/projectx-mob-562w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "mobile hamburger menu"
   - image_path: /assets/images/webdev/projectx-dt-562w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "compact mobile menu that expands for wider displays"
@@ -56,8 +55,8 @@ feature_row7:
 
 ## Liquid 
 
-<img class="animated-gif clearfix" src="https://i.giphy.com/media/TfFGc2amScfP8TOTYb/giphy.gif" width="562"> 
-<div>Art direction is a way to use different photo compositions to keep subjects in view on large & small devices. It's liquid.</div>
+<img class="animated-gif" src="https://i.giphy.com/media/TfFGc2amScfP8TOTYb/giphy.gif" width="562"> 
+<div class="clearfix">Art direction is a way to use different photo compositions to keep subjects in view on large & small devices. It's liquid.</div>
 
 ### Learn More
 
