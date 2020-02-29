@@ -13,7 +13,7 @@ ian in ibizia spain c. 1985/86.
 
 this was probably our first family vacation. i was stationed at RAF Lakenheath in the UK at the time. looking back, ibizia seems like such a random place to go. i guess it was where all the cool UK people liked to hang back then. maybe it still is.
 
-ian was about 1-years old. the way his silhouette looked here _caught my eye_. against the mediterranean and the mountains in the background. as the sun was setting.
+ian was about one years old. the way his silhouette looked here _caught my eye_. against the mediterranean and the mountains in the background. as the sun was setting.
 
 {% include figure image_path="/assets/images/people/ohio-akron-ian-wall-brick-1280w.jpg" alt="ian in akron ohio on kodak portra 160" %}
 
