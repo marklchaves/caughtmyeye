@@ -329,7 +329,7 @@ webp:
 
   # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
   # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
-  img_dir: ["/assets/images/bali", "/assets/images/barcelona", "/assets/images/bhutan", "/assets/images/film", "/assets/images/ian", "/assets/images/interior", "/assets/images/people", "/assets/images/surabaya", "/assets/images/webdev"]
+  img_dir: ["/assets/images/bali", "/assets/images/barcelona", "/assets/images/bhutan", "/assets/images/film", "/assets/images/ian", "/assets/images/interior", "/assets/images/maldives", "/assets/images/people", "/assets/images/surabaya", "/assets/images/webdev"]
 
   # Whether to search in nested directories or not
   nested: true
