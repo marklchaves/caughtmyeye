@@ -54,14 +54,54 @@ if ("serviceWorker" in navigator) {
 </script>
 
 <style>
+
+/* Inlining to test performance. ~mlc 2 March 2020 */
+
+/* MLC Style Rules */
+
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
 
+/* next/previous buttons */
+.pagination--pager {
+  color: $text-color;
+  background-color: $background-color;
+  border: none !important;
+  /* border-color: transparent; */
+
+  &:visited {
+    color: $text-color;
+  }
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}
+
+.gs-no-results-result .gs-snippet {
+  color: black !important;
+  background-color: gray !important;
+  border: gray !important;
+}
+
+/* || Custom Styles */
+
+/* Animations */
+
 h1,
 .author__name {
   animation: 4s 1 fadein;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .animation-element {
@@ -92,6 +132,15 @@ h1,
   backface-visibility: hidden;
 }
 
+.bounce-up.in-view .subject {
+  opacity: 1;
+  -moz-transform: translate3d(0px, 0px, 0px);
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+}
+
 .subject {
   width: 100%;
   padding: 1em;
@@ -112,6 +161,22 @@ h1,
   transform: translate3d(-100px, 0px, 0px);
 }
 
+.animation-element.slide-left.in-view {
+  opacity: 1;
+  -moz-transform: translate3d(0px, 0px, 0px);
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+}
+
+.animation-element.slide-left h1 {
+  padding: 1%;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.2);
+}
+
+/* Dropcap */
+
 .dropcap {
   font-size: 3rem;
   line-height: 1;
@@ -130,6 +195,51 @@ h1,
   text-align: center;
   margin-right: 0.2em;
 }
+
+/* Standard Clearfix */
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Multi-column */
+.p-wrapper {
+  column-count: 2;
+}
+
+.p-wrapper {
+  p {
+    /* Avoids any break from being inserted within the principal box. ~MDN */
+    break-inside: avoid;
+  }
+}
+
+/* Vertical Text */
+
+/* Top to bottom. */
+.vert-me {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+  letter-spacing: 0.35rem;
+}
+
+/* Bottom to top. */
+.bottoms-up {
+  writing-mode: tb-rl;
+  transform: rotate(-180deg);
+  letter-spacing: 0.35rem;
+}
+
+@media all and (max-width: 1023.998px) {
+  .vert-me,
+  .bottoms-up {
+    display: none;
+  }
+}
+
+/* To Top Button */
 
 #totop {
   position: fixed;
@@ -166,6 +276,13 @@ h1,
   background: rgba(0, 0, 0, 0.9) !important;
   z-index: 2;
 }
+End Inline Section */
+
+.greedy-nav .hidden-links li {
+  border: none !important;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 
 .modal-overlay {
   position: fixed;
@@ -181,6 +298,35 @@ h1,
   width: 300px;
   height: 300px;
   background-image: url(/assets/images/about/bhutan-paro-mark-self-portrait-down-bw-300w.jpg);
+}
+
+.bio-photo:hover {
+  background-image: url(/assets/images/about/bali-ubud-pasar-mark-by-syahravi-300w.jpg);
+}
+
+/* Hack for cover me fix. */
+@media all and (min-width: 1024.998px) {
+  .masonry-hide {
+    display: none;
+  }
+}
+
+/* Related Pages Grid */
+.page__related .grid__item {
+  margin-right: 1.5em;
+}
+
+/* Animated GIFs */
+.animated-gif {
+  text-align: center; 
+  margin: 0 auto;
+}
+
+@media all and (min-width: 1024.998px) {
+  .animated-gif {
+    float: right; 
+    margin: 0 2rem 2rem 0.2rem;
+  }
 }
 </style>
 
