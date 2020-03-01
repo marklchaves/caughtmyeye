@@ -18,11 +18,12 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
-/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020 */
+/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
+*/
 
 /* next/previous buttons */
 .pagination--pager {
@@ -50,11 +51,12 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 /* Animations */
 
-/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020 */
+/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020
 h1,
 .author__name {
   animation: 4s 1 fadein;
 }
+*/
 
 @keyframes fadein {
   from {
@@ -65,7 +67,7 @@ h1,
   }
 }
 
-/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020 */
+/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020
 .animation-element {
   position: relative;
   width: 90%;
@@ -93,7 +95,7 @@ h1,
   -moz-backface-visibility: hidden;
   backface-visibility: hidden;
 }
-/* End Inline Section */
+End Inline Section */
 
 .bounce-up.in-view .subject {
   opacity: 1;
@@ -104,7 +106,7 @@ h1,
   transform: translate3d(0px, 0px, 0px);
 }
 
-/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020 */
+/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020
 .subject {
   width: 100%;
   padding: 1em;
@@ -124,7 +126,7 @@ h1,
   -ms-transform: translate(-100px, 0px);
   transform: translate3d(-100px, 0px, 0px);
 }
-/* End Inline Section */
+End Inline Section */
 
 .animation-element.slide-left.in-view {
   opacity: 1;
@@ -142,7 +144,7 @@ h1,
 
 /* Dropcap */
 
-/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020 */
+/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020
 .dropcap {
   font-size: 3rem;
   line-height: 1;
@@ -161,6 +163,7 @@ h1,
   text-align: center;
   margin-right: 0.2em;
 }
+*/
 
 /* Standard Clearfix */
 
@@ -208,7 +211,7 @@ h1,
 
 /* To Top Button */
 
-/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020 */
+/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020
 #totop {
   position: fixed;
   bottom: 30px;
@@ -232,7 +235,8 @@ h1,
   }
 }
 
-/* Mobile Menu */
+
+Mobile Menu
 
 #open-button {
   z-index: 2;
@@ -244,7 +248,7 @@ h1,
   background: rgba(0, 0, 0, 0.9) !important;
   z-index: 2;
 }
-/* End Inline Section */
+End Inline Section */
 
 .greedy-nav .hidden-links li {
   border: none !important;
@@ -252,7 +256,7 @@ h1,
   margin-bottom: 1em;
 }
 
-/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020 */
+/* To do: Inline per PageSpeed recommendation. ~mlc 1 March 2020
 .modal-overlay {
   position: fixed;
   top: 0;
@@ -268,7 +272,7 @@ h1,
   height: 300px;
   background-image: url(/assets/images/about/bhutan-paro-mark-self-portrait-down-bw-300w.jpg);
 }
-/* End Inline Section */
+End Inline Section */
 
 .bio-photo:hover {
   background-image: url(/assets/images/about/bali-ubud-pasar-mark-by-syahravi-300w.jpg);
