@@ -38,7 +38,7 @@ gallery1:
 ---
 
 <p class="p-wrapper">
-  <span class="dropcap clearfix">t</span>ypical photographs of the maldives are bursting with azure seas and skies.
+  <span class="dropcap clearfix">t</span>ypical photographs of the maldives are bursting with azure seas and skies. i didn't see the maldives the way most people do.
 </p>
 
 {% include gallery id="gallery1" %}
