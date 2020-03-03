@@ -185,7 +185,7 @@ date: 2020-03-03 22:10:00 +0800
     </td>
     <td>
         <p>$40/month cancel any time</p>
-        <p>$400/year two months free--no refunds</p>
+        <p>$400/year two months free&mdash;no refunds</p>
     </td>
   </tr>
 </tbody>
