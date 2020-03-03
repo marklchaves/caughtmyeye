@@ -100,7 +100,7 @@ date: 2020-02-18 12:35:00 +0800
     <td>Monthly Newsletter</td>
     <td>
         <p>Content writing/editing up to 500 words (an average newsletter).</p>
-        <p>This includes appropriately licensed media selection and photo editing if needed.</p>
+        <p>This includes properly licensed media selection and photo editing if needed.</p>
         <p>I source from free micro stock agencies such as <a href="https://unsplash.com/">Unsplash</a> and <a href="https://www.pexels.com/">Pexels</a>.</p>
         <p>Theme and concept required 3-4 business days before launch to allow for two review cycles.</p>
     </td>
