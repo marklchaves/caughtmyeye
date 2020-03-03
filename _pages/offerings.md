@@ -7,10 +7,10 @@ permalink: /offerings/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"
+author_profile: true
 sidebar:
-  - title: "mark l chaves"
-    text: "photography, writing, web dev"
-date: 2020-02-18 12:35:00 +0800
+  - title: "photography &bull; writing &bull; web dev"
+date: 2020-03-03 22:10:00 +0800
 ---
 
 ## Photography
@@ -74,6 +74,38 @@ date: 2020-02-18 12:35:00 +0800
 </tbody>
 </table>
 
+## Writing
+
+<table>
+<thead>
+  <tr>
+    <th>Service</th>
+    <th>Description</th>
+    <th>Rate</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Writing</td>
+    <td>
+        <p>Articles and Blog Posts</p>
+    </td>
+    <td>
+        <p>$0.22/word</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Editing</td>
+    <td>
+        <p>Emails, Newsletters, eBooks, and Blogs</p>
+    </td>
+    <td>
+        <p>$0.22/word</p>
+    </td>
+  </tr>
+</tbody>
+</table>
+
 ## Content Creation
 
 <table>
@@ -116,6 +148,45 @@ date: 2020-02-18 12:35:00 +0800
     <td>
         <p><strong>Full Monthly Plan</strong></p> 
         <p>$200.00 (11% off full price)</p>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+## Web Development
+
+
+<table>
+<thead>
+  <tr>
+    <th>Service</th>
+    <th>Description</th>
+    <th>Rate (USD)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Website Design &amp; Development</td>
+    <td>
+        <p>I work with you to bring your concept to life.</p>
+        <p>We can start from scratch or take what you have and give it a <em>facelift</em>.</p>
+        <p>Schedule a complimentary <a href="https://calendly.com/mark-l-chaves/30min/" rel="noopener noreferrer">30 minute consult</a>. I'll follow-up with a free quote.</p>
+    </td>
+    <td>
+        <p>Hourly</p>
+        <p>or Fixed Rate</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Monthly Care Plan</td>
+    <td>
+        <p>Do you need someone to check your WordPress, theme, PHP, and plugins every month? I can do that for you. </p>
+        <p>Routine content updates like simple text and image changes are included. </p>
+        <p>If you need a new page or a redesign, let's talk about <a href="https://calendly.com/mark-l-chaves/30min/" rel="noopener noreferrer">starting up a web dev project.</a></p>
+    </td>
+    <td>
+        <p>$40/month cancel any time</p>
+        <p>$400/year two months free--no refunds</p>
     </td>
   </tr>
 </tbody>
