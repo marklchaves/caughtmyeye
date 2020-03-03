@@ -182,7 +182,7 @@ date: 2020-03-03 22:10:00 +0800
     <td>
         <p>Do you need someone to check your WordPress, theme, PHP, and plugins every month? I can do that for you. </p>
         <p>Routine content updates like simple text and image changes are included. </p>
-        <p>If you need a new page or a redesign, let's talk about <a href="https://calendly.com/mark-l-chaves/30min/" rel="noopener noreferrer">starting up a web dev project.</a></p>
+        <p>If you need a new page, a new site, or a site redesign, <a href="https://calendly.com/mark-l-chaves/30min/" rel="noopener noreferrer">let's talk</a> about starting up a web dev project. I love making sites <a href="https://www.quora.com/I-use-theme-Avada-to-launch-my-website-but-it-is-very-slow-How-do-I-improve-the-speed">run faster</a> and <a href="https://medium.com/@marklchaves/how-to-sprinkle-your-content-with-keywords-a-seo-primer-81e840d5195d">rank higher</a> for SEO too.</p>
     </td>
     <td>
         <p>$40/month cancel any time</p>
