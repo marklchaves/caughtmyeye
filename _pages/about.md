@@ -33,11 +33,15 @@ need help with a project?
 
 <a href="/offerings" class="btn btn--primary btn--large">see offerings</a>
 
+<div class="animation-element slide-left clearfix">
+  <img style="display:inline;float:right" src="/assets/images/about/eve-sitting-black-clothes-knees-336.jpg" alt="Eve Persak - Testimonial for mark l chaves" width="136"><blockquote>Mark has been an invaluable resource for me and many of my friends and colleagues for the past four years. I can't give a higher recommendation for his level of professional expertise and his commitment to working ethically and excellently.  Thanks, Mark! ~Eve Persak</blockquote>
+</div>
+
 ---
 
 ### Photo Credits
 
-Top photo on 35mm film late 80's. Bottom image 1: self-portrait Paro, Bhutan 2014. Bottom image 2 (touch/hover): by [Syahravi Dewanda](https://www.instagram.com/ravi_from_accounting/) Pasar Ubud, Bali 2019.
+Top photo on 35mm film late 80's. Middle image(s) 1: self-portrait Paro, Bhutan 2014. Bottom image 2 (touch/hover): by [Syahravi Dewanda](https://www.instagram.com/ravi_from_accounting/) Pasar Ubud, Bali 2019. Bottom image supplied by Eve Persak.
 
 <!-- Animations didn't work when added in head/custom.html. Adding here for now. -->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
