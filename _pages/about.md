@@ -27,11 +27,10 @@ header:
   <div class="subject bio-photo"></div>
 </div>
 
-&nbsp;
-
-need help with a project?
-
-<a href="/offerings" class="btn btn--primary btn--large">see offerings</a>
+<div style="text-align:center">
+  <span style="padding:5%">need help with a project?</span>
+  <span style="padding:5%"><a href="/offerings" class="btn btn--primary btn--large">see offerings</a></span>
+</div>
 
 <div class="animation-element slide-left clearfix">
   <img style="display:inline;float:right" src="/assets/images/about/eve-sitting-black-clothes-knees-336.jpg" alt="Eve Persak - Testimonial for mark l chaves" width="136"><blockquote>Mark has been an invaluable resource for me and many of my friends and colleagues for the past four years. I can't give a higher recommendation for his level of professional expertise and his commitment to working ethically and excellently.  Thanks, Mark! ~Eve Persak</blockquote>
