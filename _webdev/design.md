@@ -24,11 +24,20 @@ feature_row2:
   - image_path: /assets/images/webdev/soultherapist-yoga-panel-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "feature panel with cta (call-to-action) buttons"
+feature_row2-1:
+  - image_path: /assets/images/webdev/webdev-full-width-two-columns-moody-bg-1280w.jpg
+    alt: "website design by freelance web developer mark l chaves bali indonesia"
+    title: "full-width two column layout"
 feature_row3:
   - url: https://medium.com/@marklchaves/website-design-get-ahead-of-the-curve-with-your-header-31cc29e3f833
     image_path: /assets/images/webdev/balistreetphotographer-homepage-new-logo-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "what are the must-haves for a homepage header?"
+feature_row3-1:
+  - url: https://dev.to/marklchaves/creating-a-full-width-hero-in-generatepress-free-version-1ki9
+    image_path: /assets/images/webdev/generatepress-homepage-full-page-hero-1280w.jpg
+    alt: "website design by freelance web developer mark l chaves bali indonesia"
+    title: "fast loading full screen hero using gutenberg on generatepress&mdash;no plugins"
 feature_row4:
   - image_path: /assets/images/webdev/urphotography-testimonials-slider-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
@@ -68,9 +77,17 @@ feature_row7:
 
 {% include feature_row id="feature_row1-2" type="center" %}
 
+**Full-Width Layouts**
+
 {% include feature_row id="feature_row2" type="center" %}
 
+{% include feature_row id="feature_row2-1" type="center" %}
+
 {% include feature_row id="feature_row3" type="center" %}
+
+I can work with popular all-purpose WordPress themes such as Divi, Avada, and The7 as well as lightweight themes such as GeneratePress and Astra. I also support static generated sites hosted on CloudCannon and Netlify.
+
+{% include feature_row id="feature_row3-1" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}
 
