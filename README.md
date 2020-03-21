@@ -1,5 +1,7 @@
 # c a u g ht my e y e
-[c a u g ht my e y e](https://caughtmyeye.dev) portfolio website for mark l chaves on CloudCannon
+[c a u g ht my e y e](https://caughtmyeye.dev) portfolio website for mark l chaves now on Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6f40102-b26e-4d35-94a1-cce34208e0fe/deploy-status)](https://app.netlify.com/sites/epic-mclean-17759d/deploys)
 
 ---
 
@@ -9,9 +11,9 @@ I'm from ohio. I live in Bali. These are some pictures with their short stories.
 
 ## work in progress
 
-I'm migrating my main portfolio on [marklchaves.com](https://marklchaves.com) over to this site. It will be a slow work in progress. 
+I've migrating my portfolios from [marklchaves.com](https://marklchaves.com) over to this site.
 
-marklchaves.com is a WordPress site running on SiteGround. I hope to have that shut down by the end of 2019.
+marklchaves.com was a WordPress site running on SiteGround. I hope to have that shut down by the end of 2019. **Update**: shutdown mid-March 2020.
 
 CaughtMyEye.dev's first gallery showcases my photos of **surabaya**--Indonesia's second largest city. For this collection, I added some custom code to support _art direction_ responsive web design. This means now I can supply a mobile friendly (portrait) hero that will display by default (mobile first), but will be overridden by it's _landscape_ version on screens `768px` and larger. Get on the [live demo on my surabaya gallery](https://caughtmyeye.dev/photography/surabaya/). Switch from desktop to mobile. Notice how the _becak_ driver stays (partially) in the frame on small devices. Without this code, he would be completely "hacked" out of the screen.
 
@@ -44,3 +46,8 @@ I was pleased with the result. So much so, I recently decided to ditch my wordpr
 ---
 
 OK enough for now. More later.
+
+## I'll Drink to That ;-)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7YARD)
+
