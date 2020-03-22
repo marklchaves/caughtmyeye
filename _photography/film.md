@@ -67,38 +67,42 @@ gallery6:
   - url: /assets/images/film/bali-peliatan-putri-dinding-1280w.jpg
     image_path: /assets/images/film/bali-peliatan-putri-dinding-1280w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
-  - url: /assets/images/film/barcelona-ally-emily-film-ed-562w.jpg
+    title: "portrait of putri"
+  - url: /assets/images/barcelona/barcelona-ally-emily-film-ed-562w.jpg
     image_path: /assets/images/barcelona/barcelona-ally-emily-film-ed-562w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
+    title: "emily - barcelona spain a long time ago"
   - url: /assets/images/ian/spain-ibiza-ian-slide-sunset-bw-ed-562w.jpg
     image_path: /assets/images/ian/spain-ibiza-ian-slide-sunset-bw-ed-562w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
+    title: "ian - ibiza spain a long time ago"
   - url: /assets/images/film/ubud-campuhan-deyas-graffiti-1-ed-1280w.jpg
     image_path: /assets/images/film/ubud-campuhan-deyas-graffiti-1-ed-1280w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
+    title: "portrait of deyas"
   - url: /assets/images/film/bali-sanggingan-pak-agung-1-562w.jpg
     image_path: /assets/images/film/bali-sanggingan-pak-agung-1-562w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
+    title: "portrait of an architect"
   - url: /assets/images/film/bangkok-jalan-orang-sendiri-film-bw-562w.jpg
     image_path: /assets/images/film/bangkok-jalan-orang-sendiri-film-bw-562w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
+    title: "bangkok thailand"
   - url: /assets/images/film/balinality-camouflage-1280w.jpg
     image_path: /assets/images/film/balinality-camouflage-1280w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
+    title: "balinality"
   - url: /assets/images/film/dumaguete-bapak-strideby-seashore-ed-1280w.jpg
     image_path: /assets/images/film/dumaguete-bapak-strideby-seashore-ed-1280w.jpg
     alt: "film photography portfolio by freelance photographer mark l chaves"
-    title: "film photography portfolio by freelance photographer mark l chaves"
+    title: "dumaguete philippines"
+  - url: /assets/images/people/boston-tstation-adam-demeusy-film-1982-1280w.jpg
+    image_path: /assets/images/people/boston-tstation-adam-demeusy-film-1982-1280w.jpg
+    alt: "film photography portfolio by freelance photographer mark l chaves"
+    title: "portrait of adam - boston massachusetts a long time ago"
 ---
 <p class="p-wrapper">
-    <span class="dropcap clearfix">Y</span>ou caught me. i'm <em>slowly</em> moving my portfolio over from marklchaves.com. here's what i have so far. there's a lot more to come.
+    <span class="dropcap clearfix">w</span>hen i see a film photo, i just want to <em>feel</em> it. film photography brings me back to times we'll never have again. digital technology can come pretty close to faking it. but, i can still tell the difference.
 </p>
 
 {% include gallery id="gallery1" %}
