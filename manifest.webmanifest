@@ -7,29 +7,29 @@ layout: none
 	"name" : "c a u g ht my e y e",
 	"scope" : "/",
 	"display" : "standalone",
-	"start_url" : "https://caughtmyeye.dev/",
+	"start_url" : "/",
 	"short_name" : "caught my eye",
-	"theme_color" : "#F05E35",
+	"theme_color" : "whitesmoke",
 	"description" : "to see rather than look - stories photography writing web development bali indonesia",
 	"orientation" : "any",
-	"background_color" : "#212326",
+	"background_color" : "#111111",
 	"related_applications" : "",
 	"prefer_related_applications" : false,
 	"icons" : [
 		{
-			"src": "https://caughtmyeye.dev/assets/icons/android-chrome-512x512.png",
+			"src": "/assets/icons/android-chrome-512x512.png",
 			"sizes": "512x512"
 		},
 		{
-			"src": "https://caughtmyeye.dev/assets/icons/apple-touch-icon-72.png",
+			"src": "/assets/icons/apple-touch-icon-72.png",
 			"sizes": "72x72"
 		},
 		{
-			"src": "https://caughtmyeye.dev/assets/icons/apple-touch-icon-128.png",
+			"src": "/assets/icons/apple-touch-icon-128.png",
 			"sizes": "128x128"
 		},
 		{
-			"src": "https://caughtmyeye.dev/assets/icons/apple-touch-icon-144.png",
+			"src": "/assets/icons/apple-touch-icon-144.png",
 			"sizes": "144x144"
 		}],
 	"generated" : "true"

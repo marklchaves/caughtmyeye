@@ -37,10 +37,10 @@ gallery3:
     alt: "amp on pwa by freelance web developer mark l chaves"
     title: "hope's transfurmation story for missionpawsible.org"
 gallery4:
-  - url: /assets/images/webdev/shorties-screen-capture-9feb2020-562w.jpg
-    image_path: /assets/images/webdev/shorties-screen-capture-9feb2020-562w.jpg
+  - url: /assets/images/webdev/sshorties-search-562w.jpg
+    image_path: /assets/images/webdev/shorties-search-562w.jpg
     alt: "pwa by freelance web developer mark l chaves"
-    title: "prototype pwa for sharing links"
+    title: "pwa for sharing links"
 ---
 
 ## AMP and PWA
@@ -66,7 +66,7 @@ The _ini bali_ and Hope apps are AMP Stories running as PWAs.
 
 Learn more and fork your own copy on [GitHub](https://github.com/marklchaves/ini-bali).
 
-<hr>
+---
 
 ## Hope
 
@@ -80,10 +80,14 @@ Learn more and fork your own copy on [GitHub](https://github.com/marklchaves/ini
 
 [Hope's Transfurmation Story](https://hope.caughtmyeye.cc) [![Netlify Status](https://api.netlify.com/api/v1/badges/67fc9ef7-1712-4802-932e-9f2b7692fef4/deploy-status)](https://app.netlify.com/sites/transfurmation/deploys)
 
-## In Development
+---
 
-### Shorties
+## Nice Shorties!
 
-A create, update, and delete (CRUD) app for sharing links without having to pull up a browser or wading through bookmarks.
+A create, update, and delete (CRUD) app for sharing links. Wtih Shorties, you can quickly find/copy/paste a link without having to pull up a browser&mdash;then typing in a URL or wading through your bookmarks.
 
 {% include gallery id="gallery4" layout="half" %}
+
+[Shorties](https://shorties.caughtmyeye.cc) [![Netlify Status](https://api.netlify.com/api/v1/badges/afb67eaf-5385-474a-ae89-c70a7ad186c2/deploy-status)](https://app.netlify.com/sites/shorties/deploys)
+
+Learn more or fork your own copy on [GitHub](https://github.com/marklchaves/shortcuts "Shorties Repo").
