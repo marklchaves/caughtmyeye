@@ -1,0 +1,12 @@
+---
+title: blog
+layout: archive
+---
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul style="list-style: none;">
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
