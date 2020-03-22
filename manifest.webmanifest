@@ -9,7 +9,7 @@ layout: none
 	"display" : "standalone",
 	"start_url" : "/",
 	"short_name" : "caught my eye",
-	"theme_color" : "whitesmoke",
+	"theme_color" : "#111111",
 	"description" : "to see rather than look - stories photography writing web development bali indonesia",
 	"orientation" : "any",
 	"background_color" : "#111111",
