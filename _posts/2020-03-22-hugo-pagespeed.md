@@ -7,8 +7,8 @@ categories:
 tags:
   - pagespeed
   - hugo
-image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.jpg
 header:
+  teaser: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-300w.jpg
   overlay_image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "everyday bali by mark l chaves"
