@@ -71,8 +71,8 @@ Let's hold my site as the benchmark.
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/cme-cc-PageSpeed-mob-15mar2020.png"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/cme-cc-PageSpeed-dt-15mar2020.png"></div>
+        <div class="swiper-slide">Mobile<img src="/assets/images/performance/cme-cc-PageSpeed-mob-23mar2020.jpg"></div>
+        <div class="swiper-slide">Desktop<img src="/assets/images/performance/cme-cc-PageSpeed-dt-23mar2020.jpg"></div>
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
