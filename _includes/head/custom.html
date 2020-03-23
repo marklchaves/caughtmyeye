@@ -31,6 +31,24 @@
   <link rel="stylesheet" type="text/css" href="/assets/css/my-splash.css">
 {% endif %}
 
+{% if page.swiper %}
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/css/swiper.min.css">
+<style>
+  .swiper-container, .swiper-container img {
+    width: 325px;
+  }
+  @media screen and (min-width: 768px) {
+    .swiper-container {
+      width: 600px;
+      height: 720px;
+    }
+    .swiper-container img {
+	  width: 600px;
+    }
+  }
+</style>
+{% endif %}
+
 <meta name="theme-color" content="#111111"/>
 
 <link rel="manifest" href="/manifest.webmanifest">
