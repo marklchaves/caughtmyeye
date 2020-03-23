@@ -1,7 +1,5 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "photography"
     url: /photography/
   - title: "writing"
@@ -10,11 +8,7 @@ main:
     url: /webdev/
   - title: "cover me"
     url: /cover-me/
+  - title: "blog"
+    url: /blog/
   - title: "if you must"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/

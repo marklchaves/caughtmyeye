@@ -4,14 +4,22 @@ date: 2020-03-22
 description: "Hugo Framework's Google PageSpeed Results"
 categories:
   - performance
-image: /images/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1920w.jpg
-author_staff_member: mark
+tags:
+  - pagespeed
+  - hugo
+image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.jpg
+header:
+  overlay_image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "everyday bali by mark l chaves"
 swiper: true;
 blog: true;
+excerpt_separator: <!--more-->
 ---
 ## What is Hugo
 
 Hugo is a SSG written in the [Go programming language](https://golang.org/). Go is a language designed at Google.
+<!--more-->
 
 ### Demo Criteria
 
@@ -39,8 +47,8 @@ Let's see what Google PageSpeed thinks.
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/images/hugo/hugo-demo-PageSpeed-mob-22mar2020.png"></div>
-        <div class="swiper-slide">Desktop<img src="/images/hugo/hugo-demo-PageSpeed-dt-22mar2020.png"></div>
+        <div class="swiper-slide">Mobile<img src="/assets/images/performance/hugo-demo-PageSpeed-mob-22mar2020.png"></div>
+        <div class="swiper-slide">Desktop<img src="/assets/images/performance/hugo-demo-PageSpeed-dt-22mar2020.png"></div>
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
@@ -63,8 +71,8 @@ Let's hold my site as the benchmark.
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/images/cme-cc/cme-cc-PageSpeed-mob-15mar2020.png"></div>
-        <div class="swiper-slide">Desktop<img src="/images/cme-cc/cme-cc-PageSpeed-dt-15mar2020.png"></div>
+        <div class="swiper-slide">Mobile<img src="/assets/images/performance/cme-cc-PageSpeed-mob-15mar2020.png"></div>
+        <div class="swiper-slide">Desktop<img src="/assets/images/performance/cme-cc-PageSpeed-dt-15mar2020.png"></div>
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
