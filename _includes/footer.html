@@ -12,10 +12,10 @@
       {% endfor %}
     {% endif %}
 
-    <li><a style="display: inline-block; border: 0; text-decoration: none;" href="https://vsco.co/marklchaves"><img style="width: 16px; height: 16px; margin: 0px;" src="https://assets.vsco.co/assets/images/assets/Logo_white_16.png" alt="VSCO Logo" /> VSCO</a></li>
+    <li><a style="display: inline-block; border: 0; text-decoration: none;" href="https://vsco.co/marklchaves/journal/p/1"><img style="width: 16px; height: 16px; margin: 0px;" src="https://assets.vsco.co/assets/images/assets/Logo_white_16.png" alt="VSCO Logo" /> VSCO</a></li>
 
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow" target="_blank">Jekyll</a> &bull; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" target="_blank">Minimal Mistakes</a> &bull; <a href="https://cloudcannon.com/" rel="nofollow" target="_blank">CloudCannon</a> &bull; <a href="https://lunrjs.com/" rel="nofollow" target="_blank">Lunr</a></div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow" target="_blank">Jekyll</a> &bull; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" target="_blank">Minimal Mistakes</a> &bull; <a href="https://www.netlify.com/" rel="nofollow" target="_blank">Netlify</a> &bull; <a href="https://lunrjs.com/" rel="nofollow" target="_blank">Lunr</a></div>
