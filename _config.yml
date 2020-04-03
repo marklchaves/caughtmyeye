@@ -331,7 +331,7 @@ webp:
   img_dir: ["/assets/images/bali", "/assets/images/barcelona", "/assets/images/bhutan", "/assets/images/film", "/assets/images/ian", "/assets/images/interior", "/assets/images/maldives", "/assets/images/people", "/assets/images/surabaya", "/assets/images/webdev"]
 
   # Whether to search in nested directories or not
-  nested: true
+  nested: false
 
   # add ".gif" to the format list to generate webp for animated gifs as well
   formats: [".jpeg", ".jpg", ".png", ".tiff"]

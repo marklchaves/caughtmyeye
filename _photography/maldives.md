@@ -44,6 +44,14 @@ gallery2:
     image_path: /assets/images/maldives/maldives-maafushi-prison-night-man-gate-1280w.jpg
     alt: "prison gates - maldives 2014 by freelance photographer mark l chaves"
     title: "prison gates - maldives 2014 by freelance photographer mark l chaves"
+  - url: /assets/images/maldives/maldives-male-harbour-man-standing-sea-wall-1280w.jpg
+    image_path: /assets/images/maldives/maldives-male-harbour-man-standing-sea-wall-1280w.jpg
+    alt: "male maldives 2014 by freelance photographer mark l chaves"
+    title: "male maldives 2014 by freelance photographer mark l chaves"
+  - url: /assets/images/maldives/maldives-male-window-man-smoking-1280w.jpg
+    image_path: /assets/images/maldives/maldives-male-window-man-smoking-1280w.jpg
+    alt: "male maldives 2014 by freelance photographer mark l chaves"
+    title: "male maldives 2014 by freelance photographer mark l chaves"
 ---
 
 <p class="p-wrapper">
@@ -55,15 +63,63 @@ gallery2:
 {% include gallery id="gallery2" %}
 
 <div style="display: flex; justify-content: center; padding-bottom: 2%;">
-  <img src="/assets/images/maldives/maldives-maafushi-sailor-dhoni-2-1280w.jpg" alt="the god of war - dhoni sailor maldives 2014" title="the god of war - dhoni sailor maldives 2014">
+<picture>
+    <source media="(max-width: 767px)" sizes="(max-width: 767px) 100vw, 767px" srcset="
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_ar_4_3,c_fill,g_auto__c_scale,w_300.jpg 300w,
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_ar_4_3,c_fill,g_auto__c_scale,w_550.jpg 550w,
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_ar_4_3,c_fill,g_auto__c_scale,w_762.jpg 762w,
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_ar_4_3,c_fill,g_auto__c_scale,w_767.jpg 767w">
+    <source media="(min-width: 768px) and (max-width: 991px)" sizes="(max-width: 991px) 100vw, 991px" srcset="
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_ar_4_3,c_fill,g_auto__c_scale,w_768.jpg 768w,
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_ar_4_3,c_fill,g_auto__c_scale,w_945.jpg 945w,
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_ar_4_3,c_fill,g_auto__c_scale,w_991.jpg 991w">
+    <source media="(min-width: 992px) and (max-width: 1199px)" sizes="(max-width: 1199px) 100vw, 1199px" srcset="
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_c_scale,w_992.jpg 992w,
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_c_scale,w_1157.jpg 1157w,
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_c_scale,w_1199.jpg 1199w">
+    <img sizes="(max-width: 1280px) 100vw, 1280px" srcset="
+/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_c_scale,w_1280.jpg 1280w"
+        src="/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_c_scale,w_1280.jpg" alt="god of thunder - dhoni sailor by freelance photographer mark l chaves" title="god of thunder - dhoni sailor by freelance photographer mark l chaves">
+</picture>
 </div>
 
 <div style="display: flex; justify-content: center; padding-bottom: 2%;">
-  <img src="/assets/images/maldives/10-mark-chaves-maldives-umbrella-1280w.jpg" alt="everyday maldives by freelance photographer mark l chaves" title="everyday maldives by freelance photographer mark l chaves">
+<picture>
+    <source media="(max-width: 767px)" sizes="(max-width: 767px) 100vw, 767px" srcset="
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_ar_4_3,c_fill,g_auto__c_scale,w_300.jpg 300w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_ar_4_3,c_fill,g_auto__c_scale,w_555.jpg 555w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_ar_4_3,c_fill,g_auto__c_scale,w_759.jpg 759w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_ar_4_3,c_fill,g_auto__c_scale,w_767.jpg 767w">
+    <source media="(min-width: 768px) and (max-width: 991px)" sizes="(max-width: 991px) 100vw, 991px" srcset="
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_ar_4_3,c_fill,g_auto__c_scale,w_768.jpg 768w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_ar_4_3,c_fill,g_auto__c_scale,w_929.jpg 929w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_ar_4_3,c_fill,g_auto__c_scale,w_991.jpg 991w">
+    <source media="(min-width: 992px) and (max-width: 1199px)" sizes="(max-width: 1199px) 100vw, 1199px" srcset="
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_992.jpg 992w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1138.jpg 1138w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1199.jpg 1199w">
+    <img sizes="(max-width: 1280px) 100vw, 1280px" srcset="
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1200.jpg 1200w,
+    /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1280.jpg 1280w"
+        src="/assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1280.jpg" alt="everyday maldives by freelance photographer mark l chaves" title="everyday maldives by freelance photographer mark l chaves">
+</picture>
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/maldives/maldives-maafushi-man-waiting-for-the-sun-1-edit-1280w.jpg" alt="waiting for the sun" title="waiting for the sun">
+<picture>
+    <source media="(max-width: 767px)" sizes="(max-width: 624px) 90vw, 562px" srcset="
+    /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_300.jpg 300w,
+    /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_562.jpg 562w">
+    <source media="(min-width: 768px) and (max-width: 991px)" sizes="(max-width: 937px) 60vw, 562px" srcset="
+    /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_461.jpg 461w,
+    /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_562.jpg 562w">
+    <source media="(min-width: 992px) and (max-width: 1199px)" sizes="(max-width: 1124px) 50vw, 562px" srcset="
+    /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_496.jpg 496w,
+    /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_562.jpg 562w">
+    <img sizes="(max-width: 1124px) 50vw, 562px" srcset="
+    /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_562.jpg 562w"
+        src="/assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_562.jpg" alt="waiting for the sun by freelance photographer mark l chaves" title="waiting for the sun by freelance photographer mark l chaves">
+</picture>
 </div>
 
 more coming soon.
