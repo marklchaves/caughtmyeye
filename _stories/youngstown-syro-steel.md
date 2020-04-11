@@ -6,6 +6,8 @@ date: 2019-08-31
 header:
   teaser: /assets/images/youngstown/ohio-youngstown-syro-steel-ed-300w.jpg
   image: /assets/images/youngstown/ohio-youngstown-syro-steel-ed-1280w.jpg
+related_posts:
+  - /stories/mill-creek-park
 ---
 ## yo
 
@@ -17,7 +19,6 @@ pictured above is the old **syro steel** plant in girard, ohio. girard is just o
 
 the **syro steel** photo was taken in 2016 on an old canon ft/ql using kodak portra 160. i don't like to talk about gear much. but, youngstown is where i learned photography. my dad taught me. he gave me a minolta srt101 (similar to the canon i have now) when i was 17. he told me to use ilford black and white [film](/photography/film). i did.
 
-![encinitas, ca](/assets/images/youngstown/mark-dad-encinitas-beach-wb.jpeg "encinitas, ca c. 2004/5")
-<div style="font-family: courier; font-size: 0.75em; line-height: 1; padding-bottom: 1em;">my dad and i in encinitas, ca c. 2004/5 shortly before he passed</div>
+{% include figure image_path="/assets/images/youngstown/mark-dad-encinitas-beach-wb.jpeg" alt="encinitas, ca c. 2004/5" caption="ian in akron ohio 2016." caption="my dad and i in encinitas, ca c. 2004/5 shortly before he passed" %}
 
 {% include film-link.html %}

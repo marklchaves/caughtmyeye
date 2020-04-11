@@ -24,6 +24,6 @@ then my daughter emily got accepted to the **san francisco art institute** (sfai
 
 i was in sf again in 2016 for emily's graduation from laney college in oakland. then again in 2017. it's late 2019 as i write this *journal entry*. i feel that i'm **overdue** for a visit.
 
-{% include figure image_path="/assets/images/san-francisco/san-francisco-travelodge-1-ed-800w.jpg" alt="travel lodge 35mm film"%}
+{% include figure image_path="/assets/images/san-francisco/san-francisco-travelodge-1-ed-800w.jpg" alt="travel lodge 35mm film" %}
 
 {% include film-link.html %}
