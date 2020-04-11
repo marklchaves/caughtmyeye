@@ -33,15 +33,15 @@ header:
 </div>
 
 <div class="animation-element slide-left clearfix">
-  <a href="https://evepersak.com/bio/"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/eve-sitting-black-clothes-knees-336.jpg" alt="Eve Persak - Testimonial for mark l chaves" width="136"></a><blockquote>Mark has been an invaluable resource for me and many of my friends and colleagues for the past four years. I can't give a higher recommendation for his level of professional expertise and his commitment to working ethically and excellently.  Thanks, Mark! ~Eve Persak, ms . rdn . cnsc . cssd - Singapore</blockquote>
+  <a href="https://evepersak.com/bio/"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/eve-sitting-black-clothes-knees-336.jpg" alt="Eve Persak - Testimonial for mark l chaves" width="136"></a><blockquote>Mark has been an invaluable resource for me and many of my friends and colleagues for the past four years. I can't give a higher recommendation for his level of professional expertise and his commitment to working ethically and excellently.  Thanks, Mark! ~Eve Persak, ms . rdn . cnsc . cssd &bull; Singapore</blockquote>
 </div>
 
 <div class="animation-element slide-left clearfix">
-  <a href="https://scalingstudentsuccess.org/who-we-are/#staff"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/roman-portrait-136w.jpg" alt="Roman Stearns - Testimonial for mark l chaves" width="136"></a><blockquote>Mark is the consummate professional. He let’s the quality of his work speak for itself, thus no need to “sell himself.” He does high quality work, meets or exceeds expectations, and always according to time schedule. ~Roman Stearns, President RJStearns Consulting LLC - US</blockquote>
+  <a href="https://scalingstudentsuccess.org/who-we-are/#staff"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/roman-portrait-136w.jpg" alt="Roman Stearns - Testimonial for mark l chaves" width="136"></a><blockquote>Mark is the consummate professional. He let’s the quality of his work speak for itself, thus no need to “sell himself.” He does high quality work, meets or exceeds expectations, and always according to time schedule. ~Roman Stearns, President RJStearns Consulting LLC &bull; US</blockquote>
 </div>
 
 <div class="animation-element slide-left clearfix">
-  <a href="http://www.alternativedarkroom.com/contact-.html"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/craig-portrait-234.jpg" alt="Craig Austin - Testimonial for mark l chaves" width="136"></a><blockquote>Mark delivers creative ideas, communicated simply with continuous support, producing excellent results with both website build and design. With my projects with global reach that likes to push boundaries, it is always exciting to work with him. ~Craig Austin, FRSA founder of Alternative Darkroom, Vimpt, and ProjectX, UK</blockquote>
+  <a href="http://www.alternativedarkroom.com/contact-.html"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/craig-portrait-234.jpg" alt="Craig Austin - Testimonial for mark l chaves" width="136"></a><blockquote>Mark delivers creative ideas, communicated simply with continuous support, producing excellent results with both website build and design. With my projects with global reach that likes to push boundaries, it is always exciting to work with him. ~Craig Austin, FRSA founder of Alternative Darkroom, Vimpt, and ProjectX &bull; UK</blockquote>
 </div>
 
 ---
