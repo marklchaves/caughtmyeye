@@ -231,4 +231,6 @@ gallery2:
     </a>
 </figure>
 
-these photographs were made in late 2014. i hope they offered a rare and different view of the maldives. thank you for visiting.
+<p class="p-wrapper">
+  these photographs were made in late 2014. i hope they offered a rare and different view of the maldives. thank you for visiting.
+</p>
