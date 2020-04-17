@@ -18,6 +18,6 @@ sidebar:
     text: former app dev and hosting manager for sony playstation online. previous product manager for lafitness.com. original webdb team at oracle corp.
 sort_by: date
 sort_order: reverse
-masonry: false
+masonry: true
 analytics: true
 ---

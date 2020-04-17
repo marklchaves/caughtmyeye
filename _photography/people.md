@@ -100,7 +100,7 @@ gallery7:
   - url: /assets/images/people/bali-sanggingan-deyas-steps-1-1280w.jpg
     image_path: /assets/images/people/bali-sanggingan-deyas-steps-1-1280w.jpg
     alt: "film portrait of deyas by freelance photographer mark l chaves"
-    title: "film portrait of deays by freelance photographer mark l chaves"
+    title: "film portrait of deyas by freelance photographer mark l chaves"
   - url: /assets/images/people/thailand-bangkok-cewek-portrait-bayi-bw-562w.jpg
     image_path: /assets/images/people/thailand-bangkok-cewek-portrait-bayi-bw-562w.jpg
     alt: "backstreets of bangkok"

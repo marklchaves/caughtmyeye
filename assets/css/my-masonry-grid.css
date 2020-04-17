@@ -16,7 +16,7 @@
   font-size: 0; /* Don't display title but keep link on teaser image for masonry. ~mlc */
 }
 .archive__item-excerpt {
-  display: none; /* Let's not display grid titles for masonry. ~mlc */
+  /* display: none; Let's not display grid titles for masonry. ~mlc */
 }
 
 #page-title {

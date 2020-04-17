@@ -51,6 +51,17 @@
 </style>
 {% endif %}
 
+{% if page.title == "stories" %}
+  <style>
+    .archive__item-title {
+      font-size: 0 !important; /* Don't display title but keep link on teaser image for the stories page. ~mlc */
+    }
+    .archive__item-excerpt {
+      display: none !important; /* Let's not display grid titles for the stories page. ~mlc */
+    }
+  </style>
+{% endif %}
+
 <meta name="theme-color" content="#111111"/>
 
 <link rel="manifest" href="/manifest.webmanifest">

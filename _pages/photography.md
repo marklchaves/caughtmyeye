@@ -13,6 +13,6 @@ sidebar:
     text: "loop images london<br>airbnb plus<br>balistreetphotographer.com"
 sort_by: date
 sort_order: reverse
-masonry: false
+masonry: true
 analytics: true
 ---
