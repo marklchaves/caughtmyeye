@@ -6,6 +6,11 @@ layout: splash
 permalink: /writing/
 header:
   teaser: /assets/images/webdev/evepersak-homepage-macbook-pro-graphic-300w.jpg
+feature_row1-1:
+  - url: https://medium.com/@marklchaves/adding-custom-css-to-your-wordpress-website-how-to-guide-a50b474af36d
+    image_path: /assets/images/writing/wordpress-custom-css-hero-1280w.jpg
+    alt: "Adding Custom CSS to your WordPress Website by freelance writer mark l chaves"
+    title: "Adding Custom CSS to your WordPress Website"
 feature_row1:
   - url: https://vimpt.com/2017/10/07/a-carpet-bag-of-real-estate-an-american-confessional/
     image_path: /assets/images/writing/vimpt-carpet-bag-rel-estate-510w.jpg
@@ -41,6 +46,8 @@ feature_row5:
     title: "AirAsia Travel 3Sixty Magazine // The Inner Journey // Canyoning in Bali"
 ---
 # writing portfolio
+
+{% include feature_row id="feature_row1-1" type="center" %}
 
 {% include feature_row id="feature_row1" type="center" %}
 
