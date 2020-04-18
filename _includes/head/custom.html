@@ -5,82 +5,84 @@
 <!-- For iPhone -->
 <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png" />
 <!-- For iPhone Retina display -->
-<link
-  rel="apple-touch-icon"
-  sizes="128x128"
-  href="/assets/icons/apple-touch-icon-128.png"
-/>
+<link rel="apple-touch-icon" sizes="128x128" href="/assets/icons/apple-touch-icon-128.png" />
 <!-- For iPad -->
 <link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72.png" />
 <!-- For iPad Retina display -->
-<link
-  rel="apple-touch-icon"
-  sizes="144x144"
-  href="/assets/icons/apple-touch-icon-144.png"
-/>
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-touch-icon-144.png" />
 
 <link rel="preload" href="https://assets.vsco.co/assets/images/assets/Logo_white_16.png" as="image">
 
 {% if page.masonry %}
-  <!-- Masonry -->
-  <script type="text/javascript" src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-  <script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-  <script type="text/javascript" src="/assets/js/portfolio-masonry.js"></script>
-  <link rel="stylesheet" type="text/css" href="/assets/css/my-masonry-grid.css">
+<!-- Masonry -->
+<script type="text/javascript" src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script type="text/javascript" src="/assets/js/portfolio-masonry.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/css/my-masonry-grid.css">
 {% endif %}
 
 {% if page.layout == "splash" %}
-  <link rel="stylesheet" type="text/css" href="/assets/css/my-splash.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/my-splash.css">
 {% endif %}
 
 {% if page.swiper %}
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/css/swiper.min.css">
 <style>
-  .swiper-container, .swiper-container img {
+  .swiper-container,
+  .swiper-container img {
     width: 325px;
   }
+
   @media screen and (min-width: 768px) {
     .swiper-container {
       width: 600px;
       height: 720px;
     }
+
     .swiper-container img {
-	  width: 600px;
+      width: 600px;
     }
   }
 </style>
 {% endif %}
 
 {% if page.title == "stories" %}
-  <style>
-    .archive__item-title {
-      font-size: 0 !important; /* Don't display title but keep link on teaser image for the stories page. ~mlc */
-    }
-    .archive__item-excerpt {
-      display: none !important; /* Let's not display grid titles for the stories page. ~mlc */
-    }
-  </style>
+<style>
+  .archive__item-title {
+    font-size: 0 !important;
+    /* Don't display title but keep link on teaser image for the stories page. ~mlc */
+  }
+  .archive__item-excerpt {
+    display: none !important;
+    /* Let's not display grid titles for the stories page. ~mlc */
+  }
+</style>
+<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 {% endif %}
 
-<meta name="theme-color" content="#111111"/>
+{% if page.collection == "stories" %}
+<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+{% endif %}
+
+<meta name="theme-color" content="#111111" />
 
 <link rel="manifest" href="/manifest.webmanifest">
 
 <script>
-if ("serviceWorker" in navigator) {
-  if (navigator.serviceWorker.controller) {
-    console.log("An active service worker found, no need to register");
-  } else {
-    // Register the service worker
-    navigator.serviceWorker
-      .register("{{ site.baseurl }}/pwabuilder-sw.js", {
-        scope: "/"
-      })
-      .then(function (reg) {
-        console.log("Service worker has been registered for scope: " + reg.scope);
-      });
+  if ("serviceWorker" in navigator) {
+    if (navigator.serviceWorker.controller) {
+      console.log("An active service worker found, no need to register");
+    } else {
+      // Register the service worker
+      navigator.serviceWorker
+        .register("{{ site.baseurl }}/pwabuilder-sw.js", {
+          scope: "/"
+        })
+        .then(function (reg) {
+          console.log("Service worker has been registered for scope: " + reg.scope);
+        });
+    }
   }
-}
 </script>
 
 <style>
