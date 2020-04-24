@@ -16,7 +16,7 @@ swiper: true;
 blog: true;
 excerpt_separator: <!--more-->
 ---
-## What is Hugo
+## What is Hugo? 
 
 Hugo is a SSG written in the [Go programming language](https://golang.org/). <!--more-->Go is a language designed at Google.
 
@@ -62,6 +62,10 @@ Let's see what Google PageSpeed thinks.
 
 ---
 
+<a name="benchmark"></a>
+
+## Benchmark
+
 Let's hold my site as the benchmark.
 
 
@@ -83,3 +87,14 @@ Let's hold my site as the benchmark.
     <!-- If we need scrollbar -->
     <div class="swiper-scrollbar"></div>
 </div>
+
+## Conclusion
+
+I feel there are two takeaways here.
+
+1. If your business is **making** page builders, site builders, or themes, then make sure your demo sites are fast. Your demos might be the only thing that people like me have for evaluating your performance skills.
+2. If you are **shopping** around for a site builder, page builder, or theme, then you should run [speed tests](https://developers.google.com/speed/pagespeed/insights/) on their demo sites. These demos should be sites that _showcase_ the best work they can do.
+
+Thanks for reading!
+
+---

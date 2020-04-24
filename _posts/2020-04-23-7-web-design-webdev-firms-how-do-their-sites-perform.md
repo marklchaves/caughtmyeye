@@ -9,13 +9,63 @@ tags:
   - webdesign
   - webdev
 header:
-  teaser: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-300w.jpg
-  overlay_image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.jpg
+  teaser: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-300w.jpg
+  overlay_image: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-1280w.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "everyday bali by mark l chaves"
+  caption: "bali's early morning light by mark l chaves"
 swiper: true;
 blog: true;
 excerpt_separator: <!--more-->
+ratings:
+  - title: "Americaneagle.com"
+    tagline: "Web Design, Web Development &amp; Digital Marketing Expertise"
+    platform: SiteInfinity
+    mobscore: 5
+    dtscore: 35
+    mobscreengrab: 0americaneagle-web-design-PageSpeed-mob-23apr2020.jpg
+    dtscreengrab: 0americaneagle-web-design-PageSpeed-dt-23apr2020.jpg
+  - title: "Wolf &amp; Key"
+    tagline: "Strategy. Engagement. Storytelling."
+    platform: "WordPress Salient (yet Salient's own site is on GeneratePress)"
+    mobscore: 15
+    dtscore: 61
+    mobscreengrab: 1wolfandkey-marketing-PageSpeed-mob-27mar2020.jpg
+    dtscreengrab: 1wolfandkey-marketing-PageSpeed-dt-27mar2020.jpg
+  - title: "RedesignPage"
+    tagline: "Simple &amp; Conscious Design"
+    platform: Wix
+    mobscore: 24
+    dtscore: 61
+    mobscreengrab: 2redesignpage-PageSpeed-mob-14mar2020.jpg
+    dtscreengrab: 2redesignpage-PageSpeed-dt-14mar2020.jpg
+  - title: "Naik Kreatif"
+    tagline: "Increase Your Digital Branding Asset"
+    platform: Unknown
+    mobscore: 27
+    dtscore: 55
+    mobscreengrab: 3naikkreatif-PageSpeed-mob-14apr2020.jpg
+    dtscreengrab: 3naikkreatif-PageSpeed-dt-14apr2020.jpg
+  - title: "Chris Lema"
+    tagline: "How Can I Help You Do WordPress Better?"
+    platform: WordPress Astra
+    mobscore: 44
+    dtscore: 91
+    mobscreengrab: 4astra-chrislema-PageSpeed-mob-2mar2020.jpg
+    dtscreengrab: 4astra-chrislema-PageSpeed-dt-2mar2020.jpg
+  - title: "Antikode"
+    tagline: "Make your Mobile App & Website cut above the rest."
+    platform: unknown
+    mobscore: 57
+    dtscore: 89
+    mobscreengrab: 5antikode-PageSpeed-mob-14apr2020.jpg
+    dtscreengrab: 5antikode-PageSpeed-dt-14apr2020.jpg
+  - title: "Sara Soueidan"
+    tagline: "Remote independent UI engineer helping brands build modern, resilient, and inclusive user interfaces"
+    platform: Hugo
+    mobscore: 96
+    dtscore: 98
+    mobscreengrab: 6sarasoueidan-PageSpeed-mob-23apr2020.jpg
+    dtscreengrab: 6sarasoueidan-PageSpeed-dt-23apr2020.jpg
 ---
 ## Mobile-First
 
@@ -40,25 +90,27 @@ Here are the PageSpeed scores ordered by the slowest rating (0) to the fastest (
 
 ---
 
-## Rating 0: Americaneagle.com 
+{% for rating in page.ratings %}
 
->Web Design, Web Development & Digital Marketing Expertise
+## Rating {{ forloop.index }}: {{ rating.title }}
 
-SiteInfinity
+>{{ rating.tagline }}
+
+Platform: {{ rating.platform }}
 
 ### PageSpeed Insights Scores
 
 Mobile | Desktop
 ------ | -------
-5 | 35
+{{ rating.mobscore }} | {{ rating.dtscore }}
 
 <!-- Slider main container -->
 <div class="swiper-container">
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/0americaneagle-web-design-PageSpeed-mob-23apr2020.jpg"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/0americaneagle-web-design-PageSpeed-dt-23apr2020.jpg"></div>
+        <div class="swiper-slide">Mobile<img src="/assets/images/performance/{{ rating.mobscreengrab }}"></div>
+        <div class="swiper-slide">Desktop<img src="/assets/images/performance/{{ rating.dtscreengrab }}"></div>
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
@@ -70,104 +122,26 @@ Mobile | Desktop
     <!-- If we need scrollbar -->
     <div class="swiper-scrollbar"></div>
 </div>
+
+{% endfor %}
 
 ---
 
-## Rating 1: Wolf &amp; Key
+## Conclusion
 
->Strategy. Engagement. Storytelling.
+I feel there are two takeaways here. And, they are similar to my previous post on [Hugo's PageSpeed scores](/performance/hugo-pagespeed/).
 
-Salient theme running on WordPress. Interestingly enough Salient's website is built on GeneratePress.
+1. If you are in the business of **making** websites, then you might want to tune your own site for mobile-first performance.
+2. If you are **shopping** around for a web designer or a web developer, then you should run [speed tests](https://developers.google.com/speed/pagespeed/insights/) on their sites for good _measure_. IMHO, their sites should _showcase_ what they care about.
 
-### PageSpeed Insights Scores
+Thanks for reading!
 
-Mobile | Desktop
------- | -------
-15 | 61
+---
 
-<!-- Slider main container -->
-<div class="swiper-container">
-    <!-- Additional required wrapper -->
-    <div class="swiper-wrapper">
-        <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/1wolfandkey-marketing-PageSpeed-mob-27mar2020.jpg"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/1wolfandkey-marketing-PageSpeed-dt-27mar2020.jpg"></div>
-    </div>
-    <!-- If we need pagination -->
-    <div class="swiper-pagination"></div>
+### Wanna geek-out on your site speed? 
 
-    <!-- If we need navigation buttons -->
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
+[Let's talk](https://www.caughtmyeye.cc/)!
 
-    <!-- If we need scrollbar -->
-    <div class="swiper-scrollbar"></div>
-</div>
+Should you check my site's performance first? Absolutely! Here's my [showcase site's benchmark](/performance/hugo-pagespeed#benchmark). 
 
-## Rating 2: RedesignPage
-
->Simple & Conscious Design
-
-Wix
-
-### PageSpeed Insights Scores
-
-Mobile | Desktop
------- | -------
-24 | 61
-
-<!-- Slider main container -->
-<div class="swiper-container">
-    <!-- Additional required wrapper -->
-    <div class="swiper-wrapper">
-        <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/2redesignpage-PageSpeed-mob-14mar2020.jpg"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/2redesignpage-PageSpeed-dt-14mar2020.jpg"></div>
-    </div>
-    <!-- If we need pagination -->
-    <div class="swiper-pagination"></div>
-
-    <!-- If we need navigation buttons -->
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
-
-    <!-- If we need scrollbar -->
-    <div class="swiper-scrollbar"></div>
-</div>
-
-## Rating 3: Naik Kreatif
-
->Increase Your Digital Branding Asset
-
-Unknown
-
-### PageSpeed Insights Scores
-
-Mobile | Desktop
------- | -------
-27 | 55
-
-<!-- Slider main container -->
-<div class="swiper-container">
-    <!-- Additional required wrapper -->
-    <div class="swiper-wrapper">
-        <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/3naikkreatif-PageSpeed-mob-14apr2020.jpg"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/3naikkreatif-PageSpeed-dt-14apr2020.jpg"></div>
-    </div>
-    <!-- If we need pagination -->
-    <div class="swiper-pagination"></div>
-
-    <!-- If we need navigation buttons -->
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
-
-    <!-- If we need scrollbar -->
-    <div class="swiper-scrollbar"></div>
-</div>
-
-## Rating 4: 
-
-## Rating 5: 
-
-## Rating 6:
+---
