@@ -121,12 +121,12 @@ Let's hold my _official_ site as the benchmark.
 
 Which is the more "fair" assessment of Hugo's PageSpeed test? It's hard to say. There are countless factors involved with how websites perform. However, I believe demo sites will be closer to the truth. Why? Because how they are developed is probably closer to how most sites are built (coming from experience). 
 
-When I run into an exceptionally fast site that is up to par with contemporary design aesthetics, I always wonder. I wonder if they had a bigger budget to spend on performance&mdash;more than us _mortals_.
+When I run into an exceptionally fast site that is up to par with contemporary design aesthetics, I always wonder about their budget. I wonder if they had a loftier budget to spend on performance&mdash;compared to us _mortals_.
 
 Anyway, I feel there are two takeaways here.
 
-1. If your business is **making** page builders, site builders, or themes, then make sure your demo sites are fast. Your demos might be the only thing that people like me have for evaluating your performance skills.
-1. If you are **shopping** around for a site builder, page builder, or theme, then you should run [speed tests](https://developers.google.com/speed/pagespeed/insights/) on their demo sites. These demos should be sites that _showcase_ the best work they can do.
+1. If you're in the business of **making** page builders, site builders, or themes, then make sure your demo sites are fast. Your demos might be the only thing that people (like me) have for evaluating your performance skills.
+1. If you are **shopping** around for a site builder, page builder, or theme, then you should run [speed tests](https://developers.google.com/speed/pagespeed/insights/) on their demo sites. These demos should be sites that _showcase_ the best work of the designer/developer.
 
 Thanks for reading!
 
