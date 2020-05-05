@@ -86,7 +86,7 @@ For each site, I list the
 - PageSpeed scores
 - PageSpeed screengrabs
 
-Here are the PageSpeed scores ordered by the slowest rating (0) to the fastest (6). 
+Here are the PageSpeed scores ordered by the slowest rating (1) to the fastest (7). 
 
 ---
 
@@ -94,7 +94,7 @@ Here are the PageSpeed scores ordered by the slowest rating (0) to the fastest (
 
 ## Rating {{ forloop.index }}: {{ rating.title }}
 
->{{ rating.tagline }}
+> {{ rating.tagline }}
 
 Platform: {{ rating.platform }}
 
@@ -143,5 +143,9 @@ Thanks for reading!
 [Let's talk](https://www.caughtmyeye.cc/)!
 
 Should you check my site's performance first? Absolutely! Here's my [showcase site's benchmark](/performance/hugo-pagespeed#benchmark). 
+
+---
+
+Special thanks to [Gabriëlle Vermeij](https://www.vermeijdesign.nl/) for introducing me to Sara Soueidan's work and the Hugo framework.
 
 ---
