@@ -38,6 +38,10 @@ feature_row3-1:
     image_path: /assets/images/webdev/generatepress-homepage-full-page-hero-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "fast loading full screen hero using gutenberg on generatepress&mdash;no plugins"
+feature_row3-2:
+  - image_path: /assets/images/webdev/cme-dev-api-docs-example-1280w.png
+    alt: "knowledge base design by freelance web developer mark l chaves bali indonesia"
+    title: "documentation design"
 feature_row4:
   - image_path: /assets/images/webdev/urphotography-testimonials-slider-1280w.jpg
     alt: "website design by freelance web developer mark l chaves bali indonesia"
@@ -88,6 +92,8 @@ feature_row7:
 I can work with popular all-purpose WordPress themes such as Divi, Avada, and The7 as well as lightweight themes such as GeneratePress and Astra. I also support static generated sites hosted on CloudCannon and Netlify.
 
 {% include feature_row id="feature_row3-1" type="center" %}
+
+{% include feature_row id="feature_row3-2" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}
 
