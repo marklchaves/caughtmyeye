@@ -20,6 +20,11 @@
   {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
 {% elsif page.header.overlay_filter %}
   {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
+  {% if page.title == "about" %}
+    {% capture top_grad %}rgba(0, 0, 0, .5){% endcapture %}
+  {% else %}
+    {% assign top_grad = overlay_filter %}
+  {% endif %}
 {% endif %}
 
 {% if page.header.image_description %}
@@ -42,7 +47,7 @@
 {% else %}
   {% capture overlay_img_mob_path %}{{ overlay_img_path }}{% endcapture %} 
 {% endif %}
-  
+
 <!-- Mobile First Responsive Web Design for Hero -->
 
 <style>
@@ -53,7 +58,7 @@
       background-color: {{ page.header.overlay_color | default: 'transparent' }};
       {% endif %}
       {% if overlay_img_path %}
-      background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}),
+      background-image: {% if overlay_filter %}linear-gradient({{ top_grad }}, {{ overlay_filter }}),
     {% endif %}url({{ overlay_img_path }}) !important; /* Not sure why need to force this. */
       {% endif %}
     }
