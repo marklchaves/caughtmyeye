@@ -13,10 +13,25 @@ function scrollTop() {
   }
 }
 
+/*
 //scroll to top of page when onclick scrollUp triggered
 function scrollUp() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0; // IE and Firefox
+}
+*/
+//scroll to top of page when onclick scrollUp triggered
+function scrollUp() {
+  document.body.scroll({
+    top: 0,
+    left: 0,
+    behavior: "smooth"
+  });
+  document.documentElement.scroll({
+    top: 0,
+    left: 0,
+    behavior: "smooth"
+  }); // IE and Firefox
 }
 </script>
 
