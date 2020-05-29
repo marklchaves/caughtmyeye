@@ -91,7 +91,7 @@ date: 2020-03-03 22:10:00 +0800
         <p>Articles and Blog Posts</p>
     </td>
     <td>
-        <p>$0.22/word</p>
+        <p>$0.25/word</p>
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ date: 2020-03-03 22:10:00 +0800
         <p>Emails, Newsletters, eBooks, and Blogs</p>
     </td>
     <td>
-        <p>$0.22/word</p>
+        <p>$0.25/word</p>
     </td>
   </tr>
 </tbody>
@@ -172,8 +172,7 @@ date: 2020-03-03 22:10:00 +0800
         <p>Schedule a complimentary <a href="https://calendly.com/mark-l-chaves/30min/" rel="noopener noreferrer">30 minute consult</a>. I'll follow-up with a free quote.</p>
     </td>
     <td>
-        <p>Hourly</p>
-        <p>or Fixed Rate</p>
+        <p>Hourly, fixed, or expedited</p>
     </td>
   </tr>
   <tr>
@@ -186,6 +185,7 @@ date: 2020-03-03 22:10:00 +0800
     <td>
         <p>$40/month cancel any time</p>
         <p>$400/year two months free&mdash;no refunds</p>
+        <p>$75/hour expedited rate</p>
     </td>
   </tr>
 </tbody>

@@ -95,8 +95,7 @@ Now, let's look at [gohugo.io]() itself. It's the official Hugo website. Yes. It
 
 ## Benchmark
 
-Let's hold my _official_ site as the benchmark.
-
+Let's hold my _official_ site as the benchmark. My site is powered by [GatsbyJS](https://www.gatsbyjs.org/) on [Netlify](https://www.netlify.com/).
 
 <!-- Slider main container -->
 <div class="swiper-container">
@@ -131,5 +130,9 @@ At any rate, I feel there are two takeaways here.
 1. If you are **shopping** around for a site builder, page builder, or theme, then you should run [speed tests](https://developers.google.com/speed/pagespeed/insights/) on the demo sites. These demos supposedly _showcase_ the best work of the designer/developer.
 
 Thanks for reading!
+
+## Credits
+
+Sliders courtesy of [Swiper](https://swiperjs.com/).
 
 ---
