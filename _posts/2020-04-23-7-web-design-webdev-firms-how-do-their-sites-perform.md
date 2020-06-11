@@ -148,8 +148,6 @@ Should you check my site's performance first? Absolutely! Here's my [showcase si
 
 ## Credits
 
-Special thanks to [Gabriëlle Vermeij](https://www.vermeijdesign.nl/) for introducing me to Sara Soueidan's work and the Hugo framework.
-
 Sliders courtesy of [Swiper](https://swiperjs.com/).
 
 ---
