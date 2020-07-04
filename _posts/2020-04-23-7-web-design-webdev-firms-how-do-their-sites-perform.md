@@ -69,13 +69,13 @@ ratings:
 ---
 ## Mobile-First
 
-Ever since Google announced on July 1, 2019 that mobile-first <!--more-->indexing will take priority over desktops, I've been interested in site speed. I've been taking random [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) samples since June 2019. Only recently, I've started sharing these reports.
+Since Google announced on July 1, 2019 that mobile-first <!--more-->indexing will take priority over desktops, I've been interested in site speed. I've been taking random [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) samples since June 2019. Recently, I've started sharing these reports.
 
-In this post, we're gonna look at web design and web developer sites. I chose seven firms that I've stumbled upon from either working with clients or doing SEO research.
+In this post, we're going to look at web design and web developer sites. I chose seven firms that I've stumbled upon from either working with clients or doing SEO research.
 
 ## Does Your Web Designer/Developer Care How Fast Their Site Loads? 
 
-The idea behind this report is _simple_. If your web designer or web developer cares about how fast their site loads on mobile, then chances are they'll care about your site's mobile performance.
+The idea behind this report is _simple_. If your web designer/developer cares about their mobile load speed, chances are they'll care about your site's performance on mobile.
 
 ### The Ratings
 
@@ -148,6 +148,6 @@ Should you check my site's performance first? Absolutely! Here's my [showcase si
 
 ## Credits
 
-Sliders courtesy of [Swiper](https://swiperjs.com/).
+Sliders on desktop view courtesy of [Swiper](https://swiperjs.com/).
 
 ---

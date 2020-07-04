@@ -6,9 +6,11 @@ date: 2019-09-29 09:00:00 +0800
 header:
   teaser: /assets/images/san-francisco/san-francisco-market-bill-graham-school-bus-film-1-ed-300w.jpg
   image: /assets/images/san-francisco/san-francisco-street-night-1280w.jpg
+related_posts:
+  - /stories/going-to-san-francisco-2.md
 ---
 
-{% include figure image_path="/assets/images/san-francisco/san-francisco-market-bill-graham-school-bus-film-1-ed-525w.jpg" alt="market street 35mm film"%}
+{% include figure image_path="/assets/images/san-francisco/san-francisco-market-bill-graham-school-bus-film-1-ed-525w.jpg" alt="market street 35mm film" %}
 
 ## san francisco
 

@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-300w.jpg
   image: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-2-1280w.jpg
 ---
-when i'm in surabaya (Indonesia's *second* city), i'm always drawn to photographing <abbr title="a three-wheeled pedicab where the passengers sit in the front.">becak</abbr> drivers. i'm sure i'm not the only street photographer to feel this way. 
+when i'm in surabaya (indonesia's *second* city), i'm always drawn to photographing <abbr title="a three-wheeled pedicab where the passengers sit in the front.">becak</abbr> drivers. i'm sure i'm not the only street photographer to feel this way. 
 
 it's easy to photograph a becak driver. in surabaya, they're as ubiquitous as nasi, mie, warungs, &amp; *kaki limas*. like their cousins, the [kaki limas](https://balistreetphotographer.com/2018/03/19/the-kaki-lima-one-of-ubuds-contradictions/), these becak driver's are the street. it's only natural for a street photographer to have an affinity with them.
 
