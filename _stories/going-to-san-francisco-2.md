@@ -1,6 +1,6 @@
 ---
 title: going to san francisco 2
-excerpt: TBD
+excerpt: the featured image for this story is coit tower as seen
 collection: stories
 date: 2020-07-04 08:00:00 +0800
 header:

@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/san-francisco/san-francisco-market-bill-graham-school-bus-film-1-ed-300w.jpg
   image: /assets/images/san-francisco/san-francisco-street-night-1280w.jpg
 related_posts:
-  - /stories/going-to-san-francisco-2.md
+  - /stories/going-to-san-francisco-2
 ---
 
 {% include figure image_path="/assets/images/san-francisco/san-francisco-market-bill-graham-school-bus-film-1-ed-525w.jpg" alt="market street 35mm film" %}
