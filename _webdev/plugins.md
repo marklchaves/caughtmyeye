@@ -1,6 +1,6 @@
 ---
 title: wordpress plugins portfolio
-excerpt: 'plugin development: traditional and gutenberg custom blocks'
+excerpt: 'plugin development: classic php and gutenberg custom blocks using react'
 collection: webdev
 date: 2020-07-12 11:45:00 +0800
 layout: splash
@@ -13,6 +13,16 @@ gallery2:
     image_path: /assets/images/webdev/ww4kofi2-screenshot-1.png
     alt: will work for ko-fi plugin
     title: will work for ko-fi custom gutenberg block
+gallery3:
+  - url: https://ps.w.org/hide-and-seek-header/assets/screenshot-1.gif
+    image_path: https://ps.w.org/hide-and-seek-header/assets/screenshot-1.gif
+    alt: hide and seek header plugin for avada
+    title: hide and seek header plugin for avada
+gallery4:
+  - url: https://ps.w.org/hide-and-seek-header/assets/screenshot-4.png
+    image_path: https://ps.w.org/hide-and-seek-header/assets/screenshot-4.png
+    alt: hide and seek header plugin settings
+    title: hide and seek header plugin settings
 ---
 
 ## will work for ko-fi version 2.0.0
@@ -29,15 +39,29 @@ ww4kofi2 is written in react, and it features a live preview of the ko-fi button
 
 get your very own _custom_ ko-fi button. download the ww4kofi2 plugin from [wordpress.org](https://wordpress.org/plugins/will-work-for-ko-fi/) today.
 
-fork a copy on [GitHub](https://github.com/marklchaves/will-work-for-ko-fi).
+fork a copy on [github](https://github.com/marklchaves/will-work-for-ko-fi).
+
+---
+
+## hide and seek header for avada
+
+built for the avada theme, this plugin hides the regular and sticky header when scrolling down for minimal distractions.
+
+features include settings to disable on mobile, enable animation, and enable landing page mode.
+
+{% include gallery id="gallery3" %}
+
+{% include gallery id="gallery4" %}
+
+download the [hide and seek header](https://wordpress.org/plugins/hide-and-seek-header/) plugin from wordpress.org.
+
+fork a copy on [github](https://github.com/marklchaves/hide-and-seek-header).
 
 ---
 
 ## more to come
 
 [search placeholder avada](https://wordpress.org/plugins/search-placeholder-avada/) customises the placeholder text in the search input field
-
-[hide and seek header](https://wordpress.org/plugins/hide-and-seek-header/) hiders the header on down scroll for avada
 
 [gallery image captions (gic)](https://wordpress.org/plugins/gallery-image-captions/) wordpress filter for gallery captions
 
