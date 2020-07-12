@@ -67,9 +67,11 @@ this is a minimalist plugin for displaying responsive cards in a slide.
 
 on a wide screen device, the slide will show a horizontal card (image on the left and text on the right). on a small device, the slide becomes a stacked card with the image on the top and text on the bottom.
 
+stay tuned for a custom gutenberg block version that's in the works.
+
 ![swiper slider plugin on a desktop screen](https://raw.githubusercontent.com/marklchaves/swiper-slider-plugin/master/screengrabs/Screenshot_2020-05-25-Responsive-Swiper-Demo-dt-1280w.jpg "swiper slider plugin on a desktop screen")
 
-<div style="display: grid; place-items: center">
+<div style="display: grid; place-items: center; margin-bottom: 2rem;">
     <img src="https://raw.githubusercontent.com/marklchaves/swiper-slider-plugin/master/screengrabs/Screenshot_2020-05-25-Responsive-Swiper-Demo-mob-512w.jpg" width="512" alt="swiper slider plugin on a mobile screen" title="swiper slider plugin on a mobile screen">
 </div>
 
