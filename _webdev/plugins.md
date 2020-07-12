@@ -7,7 +7,7 @@ layout: splash
 header:
   teaser: https://ps.w.org/will-work-for-ko-fi/assets/banner-772x250.png
   overlay_image: https://ps.w.org/will-work-for-ko-fi/assets/banner-1544x500.png
-  overlay_filter: 0.3
+  overlay_filter: 0.7
 gallery2:
   - url: /assets/images/webdev/ww4kofi2-screenshot-1.png
     image_path: /assets/images/webdev/ww4kofi2-screenshot-1.png
@@ -59,12 +59,30 @@ fork a copy on [github](https://github.com/marklchaves/hide-and-seek-header).
 
 ---
 
+## swiper slider plugin
+
+> bringing the power of the swiper js library to wordpress
+
+this is a minimalist plugin for displaying responsive cards in a slide.
+
+on a wide screen device, the slide will show a horizontal card (image on the left and text on the right). on a small device, the slide becomes a stacked card with the image on the top and text on the bottom.
+
+![swiper slider plugin on a desktop screen](https://raw.githubusercontent.com/marklchaves/swiper-slider-plugin/master/screengrabs/Screenshot_2020-05-25-Responsive-Swiper-Demo-dt-1280w.jpg "swiper slider plugin on a desktop screen")
+
+<div style="display: grid; place-items: center">
+    <img src="https://raw.githubusercontent.com/marklchaves/swiper-slider-plugin/master/screengrabs/Screenshot_2020-05-25-Responsive-Swiper-Demo-mob-512w.jpg" width="512" alt="swiper slider plugin on a mobile screen" title="swiper slider plugin on a mobile screen">
+</div>
+
+powered by [swiper](https://swiperjs.com/).
+
+visit the [github repo](https://github.com/marklchaves/swiper-slider-plugin) for more details.
+
+---
+
 ## more to come
 
 [search placeholder avada](https://wordpress.org/plugins/search-placeholder-avada/) customises the placeholder text in the search input field
 
 [gallery image captions (gic)](https://wordpress.org/plugins/gallery-image-captions/) wordpress filter for gallery captions
-
-[swiper slider plugin](https://github.com/marklchaves/swiper-slider-plugin) brings the power of the swiper js library to wordpress
 
 [auto hero avada](https://github.com/marklchaves/auto-hero-avada) automates the setting of a post's hero image directly from the featured image
