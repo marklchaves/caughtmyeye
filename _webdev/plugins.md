@@ -81,10 +81,26 @@ visit the [github repo](https://github.com/marklchaves/swiper-slider-plugin) for
 
 ---
 
+## gallery image captions (gic)
+
+a wordpress filter for gallery captions. 
+
+with gic, we can display the title, caption, and description image attributes. we can also change/filter the rendering html to whatever we want.
+
+the gic plugin overrides the wordpress gallery shortcode function to create a hook. this hook allows you to customise gallery image captions.
+
+![custom gallery image captions](https://ps.w.org/gallery-image-captions/assets/screenshot-3.jpg "custom gallery image captions")
+
+![gic responsive examples](https://ps.w.org/gallery-image-captions/assets/screenshot-6.jpg "gic responsive examples")
+
+download the [gallery image captions (gic)](https://wordpress.org/plugins/gallery-image-captions/) plugin from wordpress.org.
+
+fork a copy on [github](https://github.com/marklchaves/gallery-image-captions).
+
+---
+
 ## more to come
 
 [search placeholder avada](https://wordpress.org/plugins/search-placeholder-avada/) customises the placeholder text in the search input field
-
-[gallery image captions (gic)](https://wordpress.org/plugins/gallery-image-captions/) wordpress filter for gallery captions
 
 [auto hero avada](https://github.com/marklchaves/auto-hero-avada) automates the setting of a post's hero image directly from the featured image
