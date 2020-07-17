@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-300w.jpg
   overlay_image: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-1280w.jpg
   overlay_image_mob: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-720w.jpg
-  top_grad: 0.5
+  top_grad: 0.7
   overlay_filter: 0.3
   caption: "a long time ago in phoenix az"
 ---
