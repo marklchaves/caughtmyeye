@@ -93,7 +93,7 @@ the gic plugin overrides the wordpress gallery shortcode function to create a ho
 
 ![gic responsive examples](https://ps.w.org/gallery-image-captions/assets/screenshot-6.jpg "gic responsive examples")
 
-download the [gallery image captions (gic)](https://wordpress.org/plugins/gallery-image-captions/) plugin from wordpress.org.
+see more usage examples or download the [gallery image captions (gic)](https://wordpress.org/plugins/gallery-image-captions/) plugin from wordpress.org.
 
 fork a copy on [github](https://github.com/marklchaves/gallery-image-captions).
 
