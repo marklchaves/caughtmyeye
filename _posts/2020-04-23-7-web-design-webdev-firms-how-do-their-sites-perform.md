@@ -148,6 +148,6 @@ Should you check my site's performance first? Absolutely! Here's my [showcase si
 
 ## Credits
 
-Sliders on desktop view courtesy of [Swiper](https://swiperjs.com/).
+Sliders courtesy of [Swiper](https://swiperjs.com/).
 
 ---
