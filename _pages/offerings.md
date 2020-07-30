@@ -91,7 +91,7 @@ date: 2020-05-29 08:56:00 +0800
         <p>Articles and Blog Posts</p>
     </td>
     <td>
-        <p>$0.25/word</p>
+        <p>$0.30/word</p>
     </td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ date: 2020-05-29 08:56:00 +0800
         <p>Emails, Newsletters, eBooks, and Blogs</p>
     </td>
     <td>
-        <p>$0.25/word</p>
+        <p>$0.30/word</p>
     </td>
   </tr>
 </tbody>
