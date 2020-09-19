@@ -23,6 +23,16 @@ gallery4:
     image_path: https://ps.w.org/hide-and-seek-header/assets/screenshot-4.png
     alt: hide and seek header plugin settings
     title: hide and seek header plugin settings
+gallery5:
+  - url: https://ps.w.org/ashtabula/assets/screenshot-1.png
+    image_path: https://ps.w.org/ashtabula/assets/screenshot-1.png
+    alt: ashtabula swiper slider plugin on a desktop screen
+    title: ashtabula swiper slider plugin on a desktop screen
+gallery6:
+  - url: https://ps.w.org/ashtabula/assets/screenshot-2.png
+    image_path: https://ps.w.org/ashtabula/assets/screenshot-2.png
+    alt: ashtabula swiper slider plugin on a mobile screen
+    title: ashtabula swiper slider plugin on a mobile screen
 ---
 
 ## will work for ko-fi version 2.0.0
@@ -59,7 +69,7 @@ fork a copy on [github](https://github.com/marklchaves/hide-and-seek-header).
 
 ---
 
-## swiper slider plugin
+## ashtabula - a swiper slider plugin for wordpress
 
 > bringing the power of the swiper js library to wordpress
 
@@ -69,15 +79,15 @@ on a wide screen device, the slide will show a horizontal card (image on the lef
 
 stay tuned for a custom gutenberg block version that's in the works.
 
-![swiper slider plugin on a desktop screen](https://raw.githubusercontent.com/marklchaves/swiper-slider-plugin/master/screengrabs/Screenshot_2020-05-25-Responsive-Swiper-Demo-dt-1280w.jpg "swiper slider plugin on a desktop screen")
+{% include gallery id="gallery5" %}
 
-<div style="display: grid; place-items: center; margin-bottom: 2rem;">
-    <img src="https://raw.githubusercontent.com/marklchaves/swiper-slider-plugin/master/screengrabs/Screenshot_2020-05-25-Responsive-Swiper-Demo-mob-512w.jpg" width="512" alt="swiper slider plugin on a mobile screen" title="swiper slider plugin on a mobile screen">
-</div>
+{% include gallery id="gallery6" %}
+
+download the [ashtabula swiper slider](https://wordpress.org/plugins/ashtabula/) plugin from wordpress.org.
 
 powered by [swiper](https://swiperjs.com/).
 
-visit the [github repo](https://github.com/marklchaves/swiper-slider-plugin) for more details.
+fork a copy on [github](https://github.com/marklchaves/ashtabula).
 
 ---
 
@@ -101,6 +111,6 @@ fork a copy on [github](https://github.com/marklchaves/gallery-image-captions).
 
 ## more to come
 
-[search placeholder avada](https://wordpress.org/plugins/search-placeholder-avada/) customises the placeholder text in the search input field
+[search placeholder avada](https://wordpress.org/plugins/search-placeholder-avada/) customises the placeholder text in the search input field for the avada theme
 
-[auto hero avada](https://github.com/marklchaves/auto-hero-avada) automates the setting of a post's hero image directly from the featured image
+[auto hero avada](https://github.com/marklchaves/auto-hero-avada) automates the setting of a post's hero image directly from the featured image for the avada theme
