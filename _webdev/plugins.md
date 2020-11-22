@@ -47,6 +47,8 @@ ww4kofi2 is written in react, and it features a live preview of the ko-fi button
 
 {% include gallery id="gallery2" %}
 
+[see ww4kofi v2 in the wild.](https://streetphotography.blog/hello-world/)
+
 get your very own _custom_ ko-fi button. download the ww4kofi2 plugin from [wordpress.org](https://wordpress.org/plugins/will-work-for-ko-fi/) today.
 
 fork a copy on [github](https://github.com/marklchaves/will-work-for-ko-fi).
@@ -83,11 +85,13 @@ stay tuned for a custom gutenberg block version that's in the works.
 
 {% include gallery id="gallery6" %}
 
+check the [live demo](https://streetphotography.blog/ashtabula-swiper-slider/).
+
 download the [ashtabula swiper slider](https://wordpress.org/plugins/ashtabula/) plugin from wordpress.org.
 
-powered by [swiper](https://swiperjs.com/).
-
 fork a copy on [github](https://github.com/marklchaves/ashtabula).
+
+powered by [swiper](https://swiperjs.com/).
 
 ---
 
@@ -95,13 +99,17 @@ fork a copy on [github](https://github.com/marklchaves/ashtabula).
 
 a wordpress filter for gallery captions. 
 
-with gic, we can display the title, caption, and description image attributes. we can also change/filter the rendering html to whatever we want.
+with gic, you can display the title, caption, and description image attributes. that's right! gic uses the image meta data from your media library for your captions. you can also change/filter the rendering html to whatever you want.
 
-the gic plugin overrides the wordpress gallery shortcode function to create a hook. this hook allows you to customise gallery image captions.
+the gic plugin overrides the wordpress gallery shortcode function to create a hook. this hook allows you use and customise image meta data for your captions.
+
+there's no more time wasted trying to figure out what happened to your captions in your page builder and then having to re-add captions you already have. yes, you can finally manage all your gallery image captions in 1 place and where they belong&mdash;in your media library.
 
 ![custom gallery image captions](https://ps.w.org/gallery-image-captions/assets/screenshot-3.jpg "custom gallery image captions")
 
 ![gic responsive examples](https://ps.w.org/gallery-image-captions/assets/screenshot-6.jpg "gic responsive examples")
+
+check the [live demo](https://streetphotography.blog/gallery-image-captions-demo/).
 
 see more usage examples or download the [gallery image captions (gic)](https://wordpress.org/plugins/gallery-image-captions/) plugin from wordpress.org.
 
