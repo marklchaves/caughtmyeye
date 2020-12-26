@@ -1,13 +1,13 @@
 ---
 title: "mill creek park"
 excerpt: "a special place"
-collection: stories
+collection: threads
 date: 2020-04-11
 header:
   teaser: /assets/images/youngstown/29-ohio-youngstown-tree-park-300w.jpg
   image: /assets/images/youngstown/29-ohio-youngstown-tree-park-1280w.jpg
 related_posts:
-  - /stories/youngstown-syro-steel
+  - /threads/youngstown-syro-steel
 ---
 ## a special place
 

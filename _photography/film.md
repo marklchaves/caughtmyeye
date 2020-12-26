@@ -108,7 +108,7 @@ gallery6:
 {% include gallery id="gallery1" %}
 
 {% include gallery id="gallery2" layout="half" %}
-read more about [looking for saul in ubud bali](/stories/looking-for-saul).
+read more about [looking for saul in ubud bali](/threads/looking-for-saul).
 
 {% include gallery id="gallery3" %}
 

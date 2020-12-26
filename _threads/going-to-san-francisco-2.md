@@ -1,12 +1,12 @@
 ---
 title: going to san francisco 2
 excerpt: the featured image for this story is coit tower as seen
-collection: stories
+collection: threads
 date: 2020-07-04 08:00:00 +0800
 header:
   teaser: /assets/images/san-francisco/san-francisco-SFAI-Old-New-Coit-bw-300w.jpg
 related_posts:
-  - /stories/going-to-san-francisco-1
+  - /threads/going-to-san-francisco-1
 ---
 
 {% include figure image_path="assets/images/san-francisco/san-francisco-SFAI-Old-New-Coit-bw-720w.jpg" alt="coit tower from sfai on russian hill." %}

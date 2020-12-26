@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "c a u g ht my e y e"
 title_separator          : "&bull;"
 name                     : "to see rather than look"
-description              : "to see rather than look - stories photography writing web development bali indonesia"
+description              : "to see rather than look - threads photography writing web development bali indonesia"
 url                      : "https://caughtmyeye.dev" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -294,10 +294,10 @@ defaults:
       comments: # true
       share: true
       related: false
-  # _stories
+  # _threads
   - scope:
       path: ""
-      type: stories
+      type: threads
     values:
       layout: single
       author_profile: false
@@ -306,7 +306,7 @@ defaults:
 
 # Custom Config
 collections:
-  stories:
+  threads:
     output: true
     permalink: /:collection/:path/
   photography:

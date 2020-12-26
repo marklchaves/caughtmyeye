@@ -1,4 +1,4 @@
 /portfolio/index.html /
 /portfolio/ /
-/portfolio/surabaya-becak-driver-1/ /stories/surabaya-becak-driver-1/
+/portfolio/surabaya-becak-driver-1/ /threads/surabaya-becak-driver-1/
 /bali/ /photography/bali/

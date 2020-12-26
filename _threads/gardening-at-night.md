@@ -1,14 +1,14 @@
 ---
 title: "gardening at night"
 excerpt: "i was cruising the streets of kuta, bali"
-collection: stories
+collection: threads
 date: 2019-07-10
 header:
   teaser: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-300w.jpg
   image: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-1280w.jpg
 related_posts:
-  - /stories/tara-at-the-warung
-  - /stories/looking-for-saul
+  - /threads/tara-at-the-warung
+  - /threads/looking-for-saul
 ---
 i was cruising the streets of **kuta, bali** one night. i was heading to the **hard rock cafe** to cover a concert.
 

@@ -1,7 +1,7 @@
 ---
 title: "portrait of a becak driver I"
 excerpt: "a becak driver's life is the street"
-collection: stories
+collection: threads
 date: 2019-08-28
 header:
   teaser: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-300w.jpg

@@ -1,7 +1,7 @@
 ---
 title: lost in barcelona
 excerpt: my daughter emily and i traveled to barcelona
-collection: stories
+collection: threads
 date: 2019-08-20 01:00:00 +0800
 header:
   teaser: /assets/images/barcelona/barcelona-ally-emily-film-ed-300w.jpg

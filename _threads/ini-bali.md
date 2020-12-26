@@ -1,14 +1,14 @@
 ---
 title: "ini bali"
 excerpt: "this is bali"
-collection: stories
+collection: threads
 date: 2019-07-06
 header:
   teaser: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-300w.jpg
   image: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.jpg
 related_posts:
-  - /stories/looking-for-saul
-  - /stories/gardening-at-night
+  - /threads/looking-for-saul
+  - /threads/gardening-at-night
 ---
 
 ## smoke, steps, &amp; and a balinese man

@@ -1,13 +1,13 @@
 ---
 title: "youngstown"
 excerpt: "y-town is my town. now people just call it yo."
-collection: stories
+collection: threads
 date: 2019-08-31
 header:
   teaser: /assets/images/youngstown/ohio-youngstown-syro-steel-ed-300w.jpg
   image: /assets/images/youngstown/ohio-youngstown-syro-steel-ed-1280w.jpg
 related_posts:
-  - /stories/mill-creek-park
+  - /threads/mill-creek-park
 ---
 ## yo
 

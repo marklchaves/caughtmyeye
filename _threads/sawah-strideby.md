@@ -1,7 +1,7 @@
 ---
 title: "strideby"
 excerpt: "only a photographer knows the feeling"
-collection: stories
+collection: threads
 date: 2019-08-17
 header:
   teaser: /assets/images/bali/silhouette-rice-farmer-bapak-jalan2-sawah-300w.jpg

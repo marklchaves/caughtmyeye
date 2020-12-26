@@ -1,7 +1,7 @@
 ---
 title: "ian"
 excerpt: "ian in ibzia"
-collection: stories
+collection: threads
 date: 2020-01-01
 header:
   teaser: /assets/images/ian/spain-ibiza-ian-slide-sunset-bw-ed-300w.jpg

@@ -31,7 +31,7 @@ I submitted a pull request for my _art direction_ hero code. No movement yet. Ju
 
 ## about the homepage
 
-### stories
+### threads
 
 The homepage is kinda sorta like a _family album_. It's mainly by me for me. writing for oneself is actually more liberating than I thought. I probably knew that at one point. But, after years of writing for other people, I guess one forgets. Anyway, since i'm writing for me, I think readers will get a more genuine sense of who I am. Because all my little quirks, limitations, and faves will be infused through the images I painfully decide to post. I include the back stories for the images. I seldom/rarely share the back story behind my photos. Because I always think that people really don't care these days--i.e. swipe, swipe, swipe.
 

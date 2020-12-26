@@ -1,7 +1,7 @@
 ---
 title: "looking for saul"
 excerpt: "looking for saul in ubud, bali"
-collection: stories
+collection: threads
 date: 2019-07-06
 header:
   teaser: /assets/images/bali/bali-ubud-palace-ibu-bus-jendela-300w.jpg

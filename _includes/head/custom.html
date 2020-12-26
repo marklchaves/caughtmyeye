@@ -46,21 +46,21 @@
 </style>
 {% endif %}
 
-{% if page.title == "stories" %}
+{% if page.title == "threads" %}
 <style>
   .grid__item .archive__item-title {
     font-size: 0 !important;
-    /* Don't display title but keep link on teaser image for the stories page. ~mlc */
+    /* Don't display title but keep link on teaser image for the threads page. ~mlc */
   }
   .grid__item .archive__item-excerpt {
     display: none !important;
-    /* Let's not display grid titles for the stories page. ~mlc */
+    /* Let's not display grid titles for the threads page. ~mlc */
   }
 </style>
 <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 {% endif %}
 
-{% if page.collection == "stories" or page.blog %}
+{% if page.collection == "threads" or page.blog %}
 <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 {% endif %}
 
