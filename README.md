@@ -11,11 +11,11 @@ I'm from ohio. I live in Bali. These are some pictures with their short stories.
 
 ## work in progress
 
-I've migrating my portfolios from [marklchaves.com](https://marklchaves.com) over to this site.
+I'm migrating my portfolios from marklchaves.com over to this site.
 
 marklchaves.com was a WordPress site running on SiteGround. I hope to have that shut down by the end of 2019. **Update**: shutdown mid-March 2020.
 
-CaughtMyEye.dev's first gallery showcases my photos of **surabaya**--Indonesia's second largest city. For this collection, I added some custom code to support _art direction_ responsive web design. This means now I can supply a mobile friendly (portrait) hero that will display by default (mobile first), but will be overridden by it's _landscape_ version on screens `768px` and larger. Get on the [live demo on my surabaya gallery](https://caughtmyeye.dev/photography/surabaya/). Switch from desktop to mobile. Notice how the _becak_ driver stays (partially) in the frame on small devices. Without this code, he would be completely "hacked" out of the screen.
+CaughtMyEye.dev's first gallery showcases my photos of **surabaya**&mdash;Indonesia's second largest city. For this collection, I added some custom code to support _art direction_ responsive web design. This means now I can supply a mobile friendly (portrait) hero that will display by default (mobile first), but will be overridden by it's _landscape_ version on screens `768px` and larger. Get on the [live demo on my surabaya gallery](https://caughtmyeye.dev/photography/surabaya/). Switch from desktop to mobile. Notice how the _becak_ driver stays (partially) in the frame on small devices. Without this code, he would be completely "hacked" out of the screen.
 
 [see the gist, if you are interested.](https://gist.github.com/marklchaves/589cf392b5076d46b5fc0037bff7e74e)
 
@@ -33,7 +33,7 @@ I submitted a pull request for my _art direction_ hero code. No movement yet. Ju
 
 ### threads
 
-The homepage is kinda sorta like a _family album_. It's mainly by me for me. writing for oneself is actually more liberating than I thought. I probably knew that at one point. But, after years of writing for other people, I guess one forgets. Anyway, since i'm writing for me, I think readers will get a more genuine sense of who I am. Because all my little quirks, limitations, and faves will be infused through the images I painfully decide to post. I include the back stories for the images. I seldom/rarely share the back story behind my photos. Because I always think that people really don't care these days--i.e. swipe, swipe, swipe.
+The homepage is kinda sorta like a _family album_. It's mainly by me for me. writing for oneself is actually more liberating than I thought. I probably knew that at one point. But, after years of writing for other people, I guess one forgets. Anyway, since i'm writing for me, I think readers will get a more genuine sense of who I am. Because all my little quirks, limitations, and faves will be infused through the images I painfully decide to post. I include the back stories for the images. I seldom/rarely share the back story behind my photos. Because I always think that people really don't care these days&mdash;i.e. swipe, swipe, swipe.
 
 ### masonry grid
 

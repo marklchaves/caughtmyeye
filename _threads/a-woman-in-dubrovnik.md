@@ -5,6 +5,8 @@ collection: threads
 date: 2020-12-26 15:00:00 +0800
 header:
   teaser: /assets/images/croatia/dubrovnik-street-woman-steps-300w.jpg
+related_posts:
+  - /threads/lost-in-barcelona
 ---
 
 {% include figure image_path="/assets/images/croatia/dubrovnik-street-woman-steps-720w.jpg" alt="a woman in dubrovnik" title="a woman in dubrovnik c. 2006." %}
