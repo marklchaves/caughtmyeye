@@ -1,21 +1,41 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
 
     {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
+    {% for link in site.footer.links %}
+    {% if link.label and link.url %}
+    <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}"
+          aria-hidden="true"></i> {{ link.label }}</a></li>
+    {% endif %}
+    {% endfor %}
     {% endif %}
 
-    <li><a style="display: inline-block; border: 0; text-decoration: none;" href="https://vsco.co/marklchaves/journal/p/1"><img style="width: 16px; height: 16px; margin: 0px;" src="https://assets.vsco.co/assets/images/assets/Logo_white_16.png" alt="VSCO Logo" /> VSCO</a></li>
+    <li><a style="display: inline-block; border: 0; text-decoration: none;"
+        href="https://vsco.co/marklchaves/journal/p/1"><img style="width: 16px; height: 16px; margin: 0px;"
+          src="https://assets.vsco.co/assets/images/assets/Logo_white_16.png" alt="VSCO Logo" /> VSCO</a></li>
 
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a
+        href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i
+          class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label |
+        default: "Feed" }}</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; <script>document.write(new Date().getFullYear())</script>  <a href="https://www.caughtmyeye.cc/">{{ site.name | default: site.title }}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow" target="_blank">Jekyll</a> &bull; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" target="_blank">Minimal Mistakes</a> &bull; <a href="https://www.netlify.com/" rel="nofollow" target="_blank">Netlify</a> &bull; <a href="https://lunrjs.com/" rel="nofollow" target="_blank">Lunr</a></div>
+<div class="page__footer-copyright">&copy;&nbsp;
+  <span id="copyright">
+    <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
+    </script>
+  </span>
+  <a href="https://www.caughtmyeye.cc/">{{ site.name | default: site.title }}</a>. {{
+  site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
+  <a href="https://jekyllrb.com" rel="nofollow"
+    target="_blank">Jekyll</a>&nbsp;&bull;&nbsp;
+  <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/"
+    rel="nofollow" target="_blank">Minimal Mistakes</a>&nbsp;&bull;&nbsp;
+  <a href="https://www.netlify.com/" rel="nofollow"
+    target="_blank">Netlify</a>&nbsp;&bull;&nbsp;
+  <a href="https://lunrjs.com/" rel="nofollow" target="_blank">Lunr</a>
+</div>

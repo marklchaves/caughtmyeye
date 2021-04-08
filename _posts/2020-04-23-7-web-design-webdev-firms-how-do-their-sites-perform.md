@@ -9,8 +9,8 @@ tags:
   - webdesign
   - webdev
 header:
-  teaser: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-300w.jpg
-  overlay_image: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-1280w.jpg
+  teaser: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-300w.webp
+  overlay_image: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-1280w.webp
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "bali's early morning light by mark l chaves"
 swiper: true;
@@ -22,50 +22,50 @@ ratings:
     platform: SiteInfinity
     mobscore: 5
     dtscore: 35
-    mobscreengrab: 0americaneagle-web-design-PageSpeed-mob-23apr2020.jpg
-    dtscreengrab: 0americaneagle-web-design-PageSpeed-dt-23apr2020.jpg
+    mobscreengrab: 0americaneagle-web-design-PageSpeed-mob-23apr2020.webp
+    dtscreengrab: 0americaneagle-web-design-PageSpeed-dt-23apr2020.webp
   - title: "Wolf &amp; Key"
     tagline: "Strategy. Engagement. Storytelling."
     platform: "WordPress Salient (yet Salient's own site is on GeneratePress)"
     mobscore: 15
     dtscore: 61
-    mobscreengrab: 1wolfandkey-marketing-PageSpeed-mob-27mar2020.jpg
-    dtscreengrab: 1wolfandkey-marketing-PageSpeed-dt-27mar2020.jpg
+    mobscreengrab: 1wolfandkey-marketing-PageSpeed-mob-27mar2020.webp
+    dtscreengrab: 1wolfandkey-marketing-PageSpeed-dt-27mar2020.webp
   - title: "RedesignPage"
     tagline: "Simple &amp; Conscious Design"
     platform: Wix
     mobscore: 24
     dtscore: 61
-    mobscreengrab: 2redesignpage-PageSpeed-mob-14mar2020.jpg
-    dtscreengrab: 2redesignpage-PageSpeed-dt-14mar2020.jpg
+    mobscreengrab: 2redesignpage-PageSpeed-mob-14mar2020.webp
+    dtscreengrab: 2redesignpage-PageSpeed-dt-14mar2020.webp
   - title: "Naik Kreatif"
     tagline: "Increase Your Digital Branding Asset"
     platform: Unknown
     mobscore: 27
     dtscore: 55
-    mobscreengrab: 3naikkreatif-PageSpeed-mob-14apr2020.jpg
-    dtscreengrab: 3naikkreatif-PageSpeed-dt-14apr2020.jpg
+    mobscreengrab: 3naikkreatif-PageSpeed-mob-14apr2020.webp
+    dtscreengrab: 3naikkreatif-PageSpeed-dt-14apr2020.webp
   - title: "Chris Lema"
     tagline: "How Can I Help You Do WordPress Better?"
     platform: WordPress Astra
     mobscore: 44
     dtscore: 91
-    mobscreengrab: 4astra-chrislema-PageSpeed-mob-2mar2020.jpg
-    dtscreengrab: 4astra-chrislema-PageSpeed-dt-2mar2020.jpg
+    mobscreengrab: 4astra-chrislema-PageSpeed-mob-2mar2020.webp
+    dtscreengrab: 4astra-chrislema-PageSpeed-dt-2mar2020.webp
   - title: "Antikode"
     tagline: "Make your Mobile App & Website cut above the rest."
     platform: unknown
     mobscore: 57
     dtscore: 89
-    mobscreengrab: 5antikode-PageSpeed-mob-14apr2020.jpg
-    dtscreengrab: 5antikode-PageSpeed-dt-14apr2020.jpg
+    mobscreengrab: 5antikode-PageSpeed-mob-14apr2020.webp
+    dtscreengrab: 5antikode-PageSpeed-dt-14apr2020.webp
   - title: "Sara Soueidan"
     tagline: "Remote independent UI engineer helping brands build modern, resilient, and inclusive user interfaces"
     platform: Hugo
     mobscore: 96
     dtscore: 98
-    mobscreengrab: 6sarasoueidan-PageSpeed-mob-23apr2020.jpg
-    dtscreengrab: 6sarasoueidan-PageSpeed-dt-23apr2020.jpg
+    mobscreengrab: 6sarasoueidan-PageSpeed-mob-23apr2020.webp
+    dtscreengrab: 6sarasoueidan-PageSpeed-dt-23apr2020.webp
 ---
 ## Mobile-First
 

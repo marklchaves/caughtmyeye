@@ -97,6 +97,8 @@ I can work with popular all-purpose WordPress themes such as Divi, Avada, and Th
 
 {% include feature_row id="feature_row3-1" type="center" %}
 
+<a id="celtic"></a>
+
 {% include feature_row id="feature_row3-1-1" type="center" %}
 
 {% include feature_row id="feature_row3-2" type="center" %}

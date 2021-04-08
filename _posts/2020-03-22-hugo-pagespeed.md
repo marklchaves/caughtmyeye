@@ -8,8 +8,8 @@ tags:
   - pagespeed
   - hugo
 header:
-  teaser: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-300w.jpg
-  overlay_image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.jpg
+  teaser: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-300w.webp
+  overlay_image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.webp
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "everyday bali by mark l chaves"
 swiper: true;
@@ -50,8 +50,8 @@ OK. It might be the fastest framework for building sites. Let's check what Googl
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/hugo-demo-PageSpeed-mob-22mar2020.jpg"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/hugo-demo-PageSpeed-dt-22mar2020.jpg"></div>
+        <div class="swiper-slide">Mobile<img src="/assets/images/performance/hugo-demo-PageSpeed-mob-22mar2020.webp"></div>
+        <div class="swiper-slide">Desktop<img src="/assets/images/performance/hugo-demo-PageSpeed-dt-22mar2020.webp"></div>
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
@@ -75,8 +75,8 @@ Now, let's look at [gohugo.io]() itself. It's the official Hugo website. Yes. It
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/gohugio-io-PageSpeed-mob-24apr2020.jpg"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/gohugio-io-PageSpeed-dt-24apr2020.jpg"></div>
+        <div class="swiper-slide">Mobile<img src="/assets/images/performance/gohugio-io-PageSpeed-mob-24apr2020.webp"></div>
+        <div class="swiper-slide">Desktop<img src="/assets/images/performance/gohugio-io-PageSpeed-dt-24apr2020.webp"></div>
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
@@ -102,8 +102,8 @@ Let's hold my _official_ site as the benchmark. My site is powered by [GatsbyJS]
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-        <div class="swiper-slide">Mobile<img src="/assets/images/performance/cme-cc-PageSpeed-mob-23mar2020.jpg"></div>
-        <div class="swiper-slide">Desktop<img src="/assets/images/performance/cme-cc-PageSpeed-dt-23mar2020.jpg"></div>
+        <div class="swiper-slide">Mobile<img src="/assets/images/performance/cme-cc-PageSpeed-mob-23mar2020.webp"></div>
+        <div class="swiper-slide">Desktop<img src="/assets/images/performance/cme-cc-PageSpeed-dt-23mar2020.webp"></div>
     </div>
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
