@@ -5,9 +5,9 @@ date: 2020-01-11 11:00:00 +0800
 layout: splash
 permalink: /about/
 header:
-  teaser: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-300w.jpg
-  overlay_image: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-1280w.jpg
-  overlay_image_mob: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-720w.jpg
+  teaser: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-300w.webp
+  overlay_image: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-1280w.webp
+  overlay_image_mob: /assets/images/about/mark-sitting-bench-phoenix-ed-cr-720w.webp
   top_grad: 0.7
   overlay_filter: 0.3
   caption: "a long time ago in phoenix az"
@@ -34,15 +34,15 @@ header:
 </div>
 
 <div class="animation-element slide-left clearfix">
-  <a href="https://evepersak.com/bio/"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/eve-sitting-black-clothes-knees-336.jpg" alt="Eve Persak - Testimonial for mark l chaves" width="136"></a><blockquote>Mark has been an invaluable resource for me and many of my friends and colleagues for the past four years. I can't give a higher recommendation for his level of professional expertise and his commitment to working ethically and excellently.  Thanks, Mark! ~Eve Persak, ms . rdn . cnsc . cssd &bull; Singapore</blockquote>
+  <a href="https://evepersak.com/bio/"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/eve-sitting-black-clothes-knees-336.webp" alt="Eve Persak - Testimonial for mark l chaves" width="136"></a><blockquote>Mark has been an invaluable resource for me and many of my friends and colleagues for the past four years. I can't give a higher recommendation for his level of professional expertise and his commitment to working ethically and excellently.  Thanks, Mark! ~Eve Persak, ms . rdn . cnsc . cssd &bull; Singapore</blockquote>
 </div>
 
 <div class="animation-element slide-left clearfix">
-  <a href="https://scalingstudentsuccess.org/who-we-are/#staff"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/roman-portrait-136w.jpg" alt="Roman Stearns - Testimonial for mark l chaves" width="136"></a><blockquote>Mark is the consummate professional. He let’s the quality of his work speak for itself, thus no need to “sell himself.” He does high quality work, meets or exceeds expectations, and always according to time schedule. ~Roman Stearns, President RJStearns Consulting LLC &bull; US</blockquote>
+  <a href="https://scalingstudentsuccess.org/who-we-are/#staff"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/roman-portrait-136w.webp" alt="Roman Stearns - Testimonial for mark l chaves" width="136"></a><blockquote>Mark is the consummate professional. He let’s the quality of his work speak for itself, thus no need to “sell himself.” He does high quality work, meets or exceeds expectations, and always according to time schedule. ~Roman Stearns, President RJStearns Consulting LLC &bull; US</blockquote>
 </div>
 
 <div class="animation-element slide-left clearfix">
-  <a href="http://www.alternativedarkroom.com/contact-.html"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/craig-portrait-234.jpg" alt="Craig Austin - Testimonial for mark l chaves" width="136"></a><blockquote>Mark delivers creative ideas, communicated simply with continuous support, producing excellent results with both website build and design. With my projects with global reach that likes to push boundaries, it is always exciting to work with him. ~Craig Austin, FRSA founder of Alternative Darkroom, Vimpt, and ProjectX &bull; UK</blockquote>
+  <a href="http://www.alternativedarkroom.com/contact-.html"><img style="display:inline;float:right;filter:grayscale(1);" src="/assets/images/about/craig-portrait-234.webp" alt="Craig Austin - Testimonial for mark l chaves" width="136"></a><blockquote>Mark delivers creative ideas, communicated simply with continuous support, producing excellent results with both website build and design. With my projects with global reach that likes to push boundaries, it is always exciting to work with him. ~Craig Austin, FRSA founder of Alternative Darkroom, Vimpt, and ProjectX &bull; UK</blockquote>
 </div>
 
 ---
