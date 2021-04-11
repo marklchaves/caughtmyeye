@@ -5,12 +5,17 @@ collection: webdev
 date: 2020-07-12 11:45:00 +0800
 layout: splash
 header:
-  teaser: https://ps.w.org/will-work-for-ko-fi/assets/banner-772x250.png
-  overlay_image: https://ps.w.org/will-work-for-ko-fi/assets/banner-1544x500.png
+  teaser: /assets/images/webdev/banner-772x250.webp
+  overlay_image: /assets/images/webdev/banner-1544x500.webp
   overlay_filter: 0.7
 gallery2:
-  - url: /assets/images/webdev/ww4kofi2-screenshot-1.png
-    image_path: /assets/images/webdev/ww4kofi2-screenshot-1.png
+  - url: /assets/images/webdev/ww4kofi2-screenshot-1.webp
+    image_path: /assets/images/webdev/ww4kofi2-screenshot-1.webp
+    alt: will work for ko-fi plugin
+    title: will work for ko-fi custom gutenberg block
+gallery2-1:
+  - url: /assets/images/webdev/ww4kofi-gutenberg-block-settings-720w.webp
+    image_path: /assets/images/webdev/ww4kofi-gutenberg-block-settings-720w.webp
     alt: will work for ko-fi plugin
     title: will work for ko-fi custom gutenberg block
 gallery3:
@@ -41,11 +46,17 @@ a custom gutenberg block (cgb) for the official [ko-fi](https://ko-fi.com/) dona
 
 ww4kofi2 is written in react, and it features a live preview of the ko-fi button in the editor. it's a lightweight plugin at only 47 KB zipped with no 3rd-party dependencies. 
 
-<div style="display: grid; place-items: center;">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/kehtpq5"><a href="//imgur.com/a/kehtpq5">Will Work for Ko-fi Guttenberg Block v2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div id="ww4kofi-video">
+  <video autoplay loop width="640">
+    <source src="/assets/videos/ww4kofi-demo.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+  </video>
 </div>
 
 {% include gallery id="gallery2" %}
+
+{% include gallery id="gallery2-1" %}
 
 [see ww4kofi v2 in the wild.](https://streetphotography.blog/hello-world/)
 

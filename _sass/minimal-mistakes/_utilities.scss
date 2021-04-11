@@ -556,3 +556,17 @@ a.reversefootnote {
     position: static;
   }
 }
+
+/** Custom CSS */
+
+#ww4kofi-video {
+  display: none;
+}
+
+/** Media Queries */
+@media (min-width: 768px) {
+  #ww4kofi-video { 
+    display: grid; 
+    place-items: center; 
+  }
+}
