@@ -5,43 +5,43 @@ date: 2019-11-23 12:30:00 +0800
 layout: splash
 permalink: /writing/
 header:
-  teaser: /assets/images/webdev/evepersak-homepage-macbook-pro-graphic-300w.jpg
+  teaser: /assets/images/webdev/evepersak-homepage-macbook-pro-graphic-300w.webp
 feature_row1-1:
   - url: https://medium.com/@marklchaves/adding-custom-css-to-your-wordpress-website-how-to-guide-a50b474af36d
-    image_path: /assets/images/writing/wordpress-custom-css-hero-1280w.jpg
+    image_path: /assets/images/writing/wordpress-custom-css-hero-1280w.webp
     alt: "Adding Custom CSS to your WordPress Website by freelance writer mark l chaves"
     title: "Adding Custom CSS to your WordPress Website"
 feature_row1:
   - url: https://vimpt.com/2017/10/07/a-carpet-bag-of-real-estate-an-american-confessional/
-    image_path: /assets/images/writing/vimpt-carpet-bag-rel-estate-510w.jpg
+    image_path: /assets/images/writing/vimpt-carpet-bag-rel-estate-510w.webp
     alt: "an American photo Eessay published on Vimpt.com by freelance writer mark l chaves"
     title: "an American photo essay published on Vimpt.com"
   - url: http://grryo.com/2017/05/r-u-capable-self-inquiry-by-mark-l-chaves/
-    image_path: /assets/images/writing/grryo-r-u-capable-510w.jpg
+    image_path: /assets/images/writing/grryo-r-u-capable-510w.webp
     alt: "mark’s interview with photographer Idan Golko published on Grryo.com by freelance writer mark l chaves"
     title: "interview with Idan Golko published on Grryo.com"
 feature_row2:
   - url: https://blog.editorr.com/writing/what-makes-a-sentence-complete
-    image_path: /assets/images/writing/editorr-blog-complete-sentence-1280w.jpg
+    image_path: /assets/images/writing/editorr-blog-complete-sentence-1280w.webp
     alt: "what makes a sentence complete on editorr.com by freelance writer mark l chaves"
     title: "what makes a sentence complete on editorr.com"
 feature_row3:
   - url: https://medium.com/@marklchaves/what-do-pictures-of-visual-literacy-digital-fluency-look-like-fbec00b2c591
-    image_path: /assets/images/writing/vimpt-hero-image-medium-1280w.jpg
+    image_path: /assets/images/writing/vimpt-hero-image-medium-1280w.webp
     alt: "What do Pictures of Visual Literacy & Digital Fluency Look Like? by freelance writer mark l chaves"
     title: "What do Pictures of Visual Literacy & Digital Fluency Look Like?"
 feature_row4:
   - url: https://dev.to/marklchaves/shared-hosting-vs-vps-hosting-what-s-the-difference-oj5
-    image_path: /assets/images/writing/bali-cocomoku-ipad-rina-1-1280w.jpg
+    image_path: /assets/images/writing/bali-cocomoku-ipad-rina-1-1280w.webp
     alt: "Shared Hosting vs VPS Hosting WHAT’S THE DIFFERENCE? by freelance writer mark l chaves"
     title: "Shared Hosting vs VPS Hosting WHAT’S THE DIFFERENCE?"
 feature_row5:
   - url: /assets/docs/AsianGeographic-Icon-Shinta-Flames.pdf
-    image_path: /assets/images/writing/asian-geographic-icon-shinta-570w.jpg
+    image_path: /assets/images/writing/asian-geographic-icon-shinta-570w.webp
     alt: "Asian Geographic Icon - Emmanuela Dewi Shinta Rising Above The Flames by freelance writer mark l chaves"
     title: "Asian Geographic // Emmanuela Dewi Shinta // Rising Bbove the Flames"
   - url: https://s3-ap-southeast-1.amazonaws.com/travel3sixty-media/download/magazines/2016/May/files/assets/basic-html/index.html#68
-    image_path: /assets/images/writing/airasia-travel3sixty-canyoning-570w.jpg
+    image_path: /assets/images/writing/airasia-travel3sixty-canyoning-570w.webp
     alt: "The Inner Journey - Canyoning in Bali published on AirAsia Travel 3Sixty Magazine by freelance writer mark l chaves"
     title: "AirAsia Travel 3Sixty Magazine // The Inner Journey // Canyoning in Bali"
 ---
