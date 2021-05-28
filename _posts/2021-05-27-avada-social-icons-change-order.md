@@ -28,17 +28,20 @@ What is **flex**?
 Flex is short for flexbox. Flexbox is short for the **Flexible Box Module** in CSS.
 <!--more-->
 
-So, the secret to (visually) changing the order of HTML elements is to use `display: flex` on the parent container, then add the `order` attribute to order the sibling elements for the children elements in the container.
+So, the secret to (visually) changing the order of HTML elements is to use `display: flex` on the parent container first. Then, add the `order` attribute to order each child elements in that container.
 
-Let's scope out the code to get a better idea of how easy it is to reorder elements using only CSS.
+It's probably easier to understand by looking at the code. You'll also realise how easy it is to reorder elements using only CSS.
 
 ## The Code
 
 ```css
+/* Parent Container */
 .fusion-social-networks-wrapper {
   display: flex;
   justify-content: center;
 }
+
+/* Children  of Parent Container */
 
 .fusion-icon-facebook {
   order: 4;
@@ -55,7 +58,7 @@ Let's scope out the code to get a better idea of how easy it is to reorder eleme
 
 ## The Before and After
 
-Using the T[hemeFusion Community Forum](https://theme-fusion.com/community-forum/) page as an example, we'll change the order of social icons in the footer area.
+Using the [ThemeFusion Community Forum](https://theme-fusion.com/community-forum/) page as an example, we'll change the order of social icons in the footer area.
 
 The original order is:
 
