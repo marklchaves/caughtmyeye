@@ -113,7 +113,7 @@ Thanks for reading!
 
 Sliders courtesy of [Swiper](https://swiperjs.com/).
 
-Avada by ThemeFusion is used as an example because the question on how to change the social icons order started in the Avada community support forum.
+I used Avada by ThemeFusion as an example. That's because the question on _how to change the social icons order_ started in the Avada community support forum.
 
 I have no affiliation with Swiper or ThemeFusion.
 
