@@ -28,7 +28,7 @@ What is **flex**?
 Flex is short for flexbox. Flexbox is short for the **Flexible Box Module** in CSS.
 <!--more-->
 
-So, the secret to (visually) changing the order of HTML elements is to use `display: flex` on the parent container first. Then, add the `order` attribute to order each child elements in that container.
+So, the secret to (visually) changing the order of HTML elements is to use `display: flex` on the parent container first. Then, add the `order` attribute to order each child element in that container.
 
 It's probably easier to understand by looking at the code. You'll also realise how easy it is to reorder elements using only CSS.
 
@@ -54,6 +54,12 @@ It's probably easier to understand by looking at the code. You'll also realise h
 .fusion-icon-instagram {
   order: 2;
 }
+
+/* 
+   No need to set YouTube to #1. 
+   It will display first by itself. 
+ */
+
 ```
 
 ## The Before and After
@@ -107,7 +113,7 @@ Thanks for reading!
 
 Sliders courtesy of [Swiper](https://swiperjs.com/).
 
-Avada by ThemeFusion is used as an example because the question on how to change the social icons order started in their community forum.
+Avada by ThemeFusion is used as an example because the question on how to change the social icons order started in the Avada community support forum.
 
 I have no affiliation with Swiper or ThemeFusion.
 
