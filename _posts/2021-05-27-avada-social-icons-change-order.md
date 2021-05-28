@@ -105,7 +105,7 @@ You got it! When you apply the CSS code above, you'll get the reverse order:
 3. Twitter
 4. Facebook
 
-Learn how to [add custom CSS to WordPress](https://theme-fusion.com/community-forum/) if you don't know how to yet. Don't worry, Avada is covered.
+Learn how to [add custom CSS to WordPress](https://theme-fusion.com/community-forum/) if you don't know how to yet. Don't worry, adding CSS to Avada is covered.
 
 Thanks for reading!
 
@@ -113,7 +113,7 @@ Thanks for reading!
 
 Sliders courtesy of [Swiper](https://swiperjs.com/).
 
-I used Avada by ThemeFusion as an example. That's because the question on _how to change the social icons order_ started in the Avada community support forum.
+I used Avada by ThemeFusion as an example because the topic of this post began in the Avada community forum.
 
 I have no affiliation with Swiper or ThemeFusion.
 
