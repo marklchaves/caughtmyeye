@@ -28,7 +28,20 @@ header:
   <div class="subject bio-photo"></div>
 </div>
 
-<div style="text-align:center">
+<style>
+  .box-shadow {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+transition: 200ms linear;
+    margin: 0 auto;
+    padding: 5% 0;
+    width: 90%;
+  }
+  .box-shadow:hover {
+    transform: perspective(25rem) scale(1.1);
+  }
+</style>
+
+<div class="box-shadow" style="text-align:center">
   <span style="padding:5%">need help with a project?</span>
   <span style="padding:5%"><a href="/offerings" class="btn btn--primary btn--large">see offerings</a></span>
 </div>
