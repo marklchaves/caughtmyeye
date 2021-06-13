@@ -128,8 +128,13 @@ fork a copy on [github](https://github.com/marklchaves/gallery-image-captions).
 
 ---
 
-## more to come
+## more goodies
 
 [search placeholder avada](https://wordpress.org/plugins/search-placeholder-avada/) customises the placeholder text in the search input field for the avada theme
 
-[auto hero avada](https://github.com/marklchaves/auto-hero-avada) automates the setting of a post's hero image directly from the featured image for the avada theme
+[link helper divi](https://github.com/chavesm/link-helper-divi) automatically generates unique HTML link IDs for link images made with divi. having a link ID attribute helps avoid the _(not set)_ issue in Google Analytics. check out the [live demo](https://streetphotography.blog/divi-image-test/).
+
+[quotable block](https://github.com/marklchaves/quotable-block) is a gutenberg custom block that allows your visitors to conveniently copy the quote and attribution in one click. check out the [live demo](https://streetphotography.blog/hello-world/#quotable).
+
+[ga4yt](https://github.com/marklchaves/cme-ga4yt) tracks youtube video events by wordpress user ID in google analytics. that's right! if you're running an lms, you can see which subscribers are watching your videos and if they're watching the videos all the way until the end. check out the [live demo](https://streetphotography.blog/youtube-video-tracking/).
+
