@@ -19,23 +19,23 @@ gallery2-1:
     alt: will work for ko-fi plugin
     title: will work for ko-fi custom gutenberg block
 gallery3:
-  - url: https://ps.w.org/hide-and-seek-header/assets/screenshot-1.gif
-    image_path: https://ps.w.org/hide-and-seek-header/assets/screenshot-1.gif
+  - url: /assets/images/webdev/hide-and-seek-header-demo.gif
+    image_path: /assets/images/webdev/hide-and-seek-header-demo.gif
     alt: hide and seek header plugin for avada
     title: hide and seek header plugin for avada
 gallery4:
-  - url: https://ps.w.org/hide-and-seek-header/assets/screenshot-4.png
-    image_path: https://ps.w.org/hide-and-seek-header/assets/screenshot-4.png
+  - url: /assets/images/webdev/hide-and-seek-header-sensi-setting-800w.png
+    image_path: /assets/images/webdev/hide-and-seek-header-sensi-setting-800w.webp
     alt: hide and seek header plugin settings
     title: hide and seek header plugin settings
 gallery5:
-  - url: https://ps.w.org/ashtabula/assets/screenshot-1.png
-    image_path: https://ps.w.org/ashtabula/assets/screenshot-1.png
+  - url: /assets/images/webdev/ashtabula-dt-1280w.webp
+    image_path: /assets/images/webdev/ashtabula-dt-1280w.webp
     alt: ashtabula swiper slider plugin on a desktop screen
     title: ashtabula swiper slider plugin on a desktop screen
 gallery6:
-  - url: https://ps.w.org/ashtabula/assets/screenshot-2.png
-    image_path: https://ps.w.org/ashtabula/assets/screenshot-2.png
+  - url: /assets/images/webdev/ashtabula-mob-763w.webp
+    image_path: /assets/images/webdev/ashtabula-mob-763w.webp
     alt: ashtabula swiper slider plugin on a mobile screen
     title: ashtabula swiper slider plugin on a mobile screen
 ---

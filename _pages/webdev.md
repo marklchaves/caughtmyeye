@@ -11,9 +11,9 @@ sidebar:
     text: "i slung code and led web dev teams for fortune 500 companies in a previous life"
   - title: "<hr>"
   - title: "technologies"
-    text: "html5, css3, javascript (es6), jekyll, react, amp, pwa, php, responsive web design"
+    text: "html5, css3, javascript (es6), jquery, jekyll, react, amp, pwa, php, responsive web design, bootstrap, google analytics"
   - title: wordpress
-    text: plugin developer, avada, divi, the7, genesis, astra, generatepress, local by flywheel, siteorigin, wpbakery, wordpress.com
+    text: plugin developer, avada, divi, the7, genesis, astra, generatepress, local by flywheel, siteorigin, wpbakery, wordpress.com, uncanny automator, monsterinsights, popup maker
   - title: experience
     text: former app dev and hosting manager for sony playstation online. previous product manager for lafitness.com. original webdb team at oracle corp.
 sort_by: date
