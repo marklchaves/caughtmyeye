@@ -39,9 +39,15 @@ feature_row3-1:
     alt: "website design by freelance web developer mark l chaves bali indonesia"
     title: "fast loading full screen hero using gutenberg on generatepress&mdash;no plugins"
 feature_row3-1-1:
-  - image_path: /assets/images/webdev/cmedev-celtic-room-1-1280w.webp
+  - url: https://github.com/marklchaves/celtic-room
+    image_path: /assets/images/webdev/cmedev-celtic-room-1-1280w.webp
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "full on hero-centric template powered by Jekyll and Liquid"
+    title: "the celtic room - a full on hero-centric template powered by Jekyll and Liquid"
+feature_row3-1-2:
+  - url: https://github.com/marklchaves/aurora
+    image_path: /assets/images/webdev/aurora-hero-mob-430w.webp
+    alt: "website design by freelance web developer mark l chaves bali indonesia"
+    title: "aurora - a minimalist single page website built on Bootstrap 4. it's simple, responsive, and fast."
 feature_row3-2:
   - image_path: /assets/images/webdev/cme-dev-api-docs-example-1280w.png
     alt: "knowledge base design by freelance web developer mark l chaves bali indonesia"
@@ -100,6 +106,10 @@ I can work with popular all-purpose WordPress themes such as Divi, Avada, and Th
 <a id="celtic"></a>
 
 {% include feature_row id="feature_row3-1-1" type="center" %}
+
+<a id="aurora"></a>
+
+{% include feature_row id="feature_row3-1-2" type="center" %}
 
 {% include feature_row id="feature_row3-2" type="center" %}
 
