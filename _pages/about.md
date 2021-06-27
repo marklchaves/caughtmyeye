@@ -64,6 +64,10 @@ transition: 200ms linear;
 
 Top photo on 35mm film late 80's. Middle image(s) 1: self-portrait Paro, Bhutan 2014. Middle image 2 (touch/hover): by [Syahravi Dewanda](https://www.instagram.com/ravi_from_accounting/) Pasar Ubud, Bali 2019. Bottom images supplied by Eve Persak, Roman Stearns, and Craig Austin.
 
+### Connect
+
+[www.caughtmyeye.cc](https://www.caughtmyeye.cc/)
+
 <!-- Animations didn't work when added in head/custom.html. Adding here for now. -->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/mlc-anim.js"></script>
