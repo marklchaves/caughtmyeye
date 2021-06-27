@@ -4,8 +4,8 @@ excerpt: "a becak driver's life is the street"
 collection: threads
 date: 2019-08-28
 header:
-  teaser: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-300w.jpg
-  image: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-2-1280w.jpg
+  teaser: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-300w.webp
+  image: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-2-1280w.webp
 ---
 when i'm in surabaya (indonesia's *second* city), i'm always drawn to photographing <abbr title="a three-wheeled pedicab where the passengers sit in the front.">becak</abbr> drivers. i'm sure i'm not the only street photographer to feel this way. 
 

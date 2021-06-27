@@ -4,8 +4,8 @@ excerpt: "this is bali"
 collection: threads
 date: 2019-07-06
 header:
-  teaser: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-300w.jpg
-  image: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.jpg
+  teaser: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-300w.webp
+  image: /assets/images/bali/bali-payogan-pura-bapak-pager-ed-1280w.webp
 related_posts:
   - /threads/looking-for-saul
   - /threads/gardening-at-night

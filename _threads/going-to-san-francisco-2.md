@@ -4,12 +4,12 @@ excerpt: the featured image for this story is coit tower as seen
 collection: threads
 date: 2020-07-04 08:00:00 +0800
 header:
-  teaser: /assets/images/san-francisco/san-francisco-SFAI-Old-New-Coit-bw-300w.jpg
+  teaser: /assets/images/san-francisco/san-francisco-SFAI-Old-New-Coit-bw-300w.webp
 related_posts:
   - /threads/going-to-san-francisco-1
 ---
 
-{% include figure image_path="assets/images/san-francisco/san-francisco-SFAI-Old-New-Coit-bw-720w.jpg" alt="coit tower from sfai on russian hill." %}
+{% include figure image_path="assets/images/san-francisco/san-francisco-SFAI-Old-New-Coit-bw-720w.webp" alt="coit tower from sfai on russian hill." %}
 
 ## more threaded memories of sf
 
@@ -19,16 +19,16 @@ i clicked this photo of coit tower probably with an iphone during a school hunti
 
 during my gig with oracle, corp. a long time ago, i used jog from hotel nikko to coit tower when i was bored. it was a _hilly_ 4-5 mile run round trip.
 
-{% include figure image_path="/assets/images/san-francisco/san-francisco-jazz-band-800w.jpg" alt="sf jazz band by emily on 35mm film" caption="somewhere on sutter near union square" %}
+{% include figure image_path="/assets/images/san-francisco/san-francisco-jazz-band-800w.webp" alt="sf jazz band by emily on 35mm film" caption="somewhere on sutter near union square" %}
 
 one night, emily and i strolled down sutter towards union square. we walked by this open back stage door. there was a jazz band performing inside. we stopped to listen. one of the band members motioned to us to come in. we smiled. emily made this photo while we listened from the sidewalk outside. she used her minolta srt 101. 
 
-{% include figure image_path="/assets/images/san-francisco/san-francisco-hayes-valley-marlenas-sign-800w.jpg" alt="marlena's in the hayes valley area at dusk." caption="marlena's when it was still in operation" %}
+{% include figure image_path="/assets/images/san-francisco/san-francisco-hayes-valley-marlenas-sign-800w.webp" alt="marlena's in the hayes valley area at dusk." caption="marlena's when it was still in operation" %}
 
 on another night, i took emily to one of my all time fave restaurants&mdash;[suppenkuche](https://www.suppenkuche.com/) in the hayes valley. while walking to the suppenkuche, [marlena's](https://www.kalw.org/post/marlenas-curtain-call-documentary-remembering-hayes-valley-gay-bar-and-community-hub#stream/0) caught our eyes. emily snapped a photo of a bicycle locked up to a post. i clicked the sign.
 
-{% include figure image_path="/assets/images/san-francisco/san-francisco-harry-800w.jpg" alt="'harry' by emily on 35mm film" caption="harry by emily" %}
+{% include figure image_path="/assets/images/san-francisco/san-francisco-harry-800w.webp" alt="'harry' by emily on 35mm film" caption="harry by emily" %}
 
 another one by emily from her minolta srt 101. she made this portrait nearby city hall.
 
-{% include figure image_path="/assets/images/san-francisco/san-francisco-golden-gate-mark-emily-ed-562w.jpg" alt="emily and me c. 1999." caption="me and emily c. 1999 during the oracle days" %}
+{% include figure image_path="/assets/images/san-francisco/san-francisco-golden-gate-mark-emily-ed-562w.webp" alt="emily and me c. 1999." caption="me and emily c. 1999 during the oracle days" %}

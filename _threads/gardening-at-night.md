@@ -4,8 +4,8 @@ excerpt: "i was cruising the streets of kuta, bali"
 collection: threads
 date: 2019-07-10
 header:
-  teaser: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-300w.jpg
-  image: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-1280w.jpg
+  teaser: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-300w.webp
+  image: /assets/images/bali/bali-kuta-ibu2-lihat-satay-malam-1280w.webp
 related_posts:
   - /threads/tara-at-the-warung
   - /threads/looking-for-saul

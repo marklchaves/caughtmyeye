@@ -4,10 +4,10 @@ excerpt: "looking for saul in ubud, bali"
 collection: threads
 date: 2019-07-06
 header:
-  teaser: /assets/images/bali/bali-ubud-palace-ibu-bus-jendela-300w.jpg
+  teaser: /assets/images/bali/bali-ubud-palace-ibu-bus-jendela-300w.webp
 ---
 
-{% include figure image_path="/assets/images/bali/bali-ubud-palace-ibu-bus-jendela-720w.jpg" alt="looking for saul on 35mm film" %}
+{% include figure image_path="/assets/images/bali/bali-ubud-palace-ibu-bus-jendela-720w.webp" alt="looking for saul on 35mm film" %}
 
 ## saul leiter
 

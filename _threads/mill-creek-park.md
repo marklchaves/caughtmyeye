@@ -4,8 +4,8 @@ excerpt: "a special place"
 collection: threads
 date: 2020-04-11
 header:
-  teaser: /assets/images/youngstown/29-ohio-youngstown-tree-park-300w.jpg
-  image: /assets/images/youngstown/29-ohio-youngstown-tree-park-1280w.jpg
+  teaser: /assets/images/youngstown/29-ohio-youngstown-tree-park-300w.webp
+  image: /assets/images/youngstown/29-ohio-youngstown-tree-park-1280w.webp
 related_posts:
   - /threads/youngstown-syro-steel
 ---
@@ -19,6 +19,6 @@ mill creek is where i learned how to ice skate. it's the place where i made my f
 
 i always had a strong affinity for this bridge. it felt so <em>out of place</em> with its surroundings. 
 
-{% include figure image_path="/assets/images/youngstown/ohio-youngstown-mill-creek-bridge-cr-ed-1280w.jpg" alt="cinderella bridge mill creek park a long time ago" caption="cinderella bridge mill creek park a long time ago c. 1982" %}
+{% include figure image_path="/assets/images/youngstown/ohio-youngstown-mill-creek-bridge-cr-ed-1280w.webp" alt="cinderella bridge mill creek park a long time ago" caption="cinderella bridge mill creek park a long time ago c. 1982" %}
 
 {% include film-link.html %}
