@@ -47,7 +47,7 @@ feature_row3-1-2:
   - url: https://github.com/marklchaves/aurora
     image_path: /assets/images/webdev/aurora-hero-mob-430w.webp
     alt: "website design by freelance web developer mark l chaves bali indonesia"
-    title: "aurora - a minimalist single page website built on Bootstrap 4. it's simple, responsive, and fast."
+    title: "template aurora - a minimalist single page website built on Bootstrap 4. it's simple, responsive, and fast."
 feature_row3-2:
   - image_path: /assets/images/webdev/cme-dev-api-docs-example-1280w.png
     alt: "knowledge base design by freelance web developer mark l chaves bali indonesia"
