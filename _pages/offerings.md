@@ -27,7 +27,7 @@ date: 2021-08-29 05:56:00 +0800
   <tr>
     <td>Photo Essay Assignments</td>
     <td>
-        <p>Let me tell your story through photographs and words. As seen on Inkifi, Vimpt, Seniman Singalong, and Live Encounters Mag.</p>
+        <p>Let me tell your story through photographs and words (as seen on Inkifi, Vimpt, Seniman Singalong, and Live Encounters Mag).</p>
     </td>
     <td>
         <p>Hourly or Daily</p>
@@ -36,7 +36,7 @@ date: 2021-08-29 05:56:00 +0800
   <tr>
     <td>Interior Photography</td>
     <td>
-        <p>Airbnb Plus style. Overview and detail images. 3-5 photos per room. Full resolution and web friendly downloads.</p>
+        <p>Airbnb Plus style. Overview and detail images. 3-5 photos per room. Full resolution and web-friendly downloads.</p>
     </td>
     <td>
         <p>Hourly or Daily</p>
@@ -45,7 +45,7 @@ date: 2021-08-29 05:56:00 +0800
   <tr>
     <td>Food Photography</td>
     <td>
-        <p>Artistic style. As seen on Griya Amed, Firefly Eco Lodge, and BeingSattvaa.</p>
+        <p>Artistic style as seen on Griya Amed, Firefly Eco Lodge, and BeingSattvaa.</p>
     </td>
     <td>
         <p>Hourly</p>
@@ -112,7 +112,7 @@ date: 2021-08-29 05:56:00 +0800
     <td>
         <p>I work with you to bring your concept to life.</p>
         <p>We can start from scratch or take what you have and give it a <em>facelift</em>.</p>
-        <p>Schedule a complimentary <a href="https://calendly.com/mark-l-chaves/30min/" rel="noopener noreferrer">30 minute consult</a>. I'll follow-up with a free quote.</p>
+        <p>Schedule a complimentary <a href="https://calendly.com/mark-l-chaves/30min/" rel="noopener noreferrer">30-minute consult</a>. I'll follow up with a free quote.</p>
     </td>
     <td>
         <p>Hourly, fixed, or expedited</p>
