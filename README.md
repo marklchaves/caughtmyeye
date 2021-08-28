@@ -43,7 +43,7 @@ One weekend back in late June 2019, I stumbled upon an article called [Building 
 
 [Gist of modified portfolio-masonry.js to fix window resize issues.](https://gist.github.com/marklchaves/bbd7f88032c67582774fe4f6343f6ff4)
 
-I was pleased with the result. So much so, I recently decided to ditch my WordPress site of less than a year old. I was on format.com for many years before WordPress. I switched to WordPress because I wanted to (re) start web development on my own projects instead of others all the time (I've been a freelance web dev since 2015 and originally a software engineer/manager). You can read more about my motivations to switch in [my write-up comparing CloudCannon with WordPress](https://medium.com/@marklchaves/cloudcannon-versus-wordpress-e0ff63fdb4c0).
+I was pleased with the result. So much so, I decided to ditch my WordPress site of less than a year old. I was on format.com for many years before WordPress. I switched to Jekyll because I wanted to (re) start web development on my own projects instead of others all the time (I've been a freelance web dev since 2015 and originally a software engineer/manager). You can read more about my motivations to switch in [my write-up comparing CloudCannon with WordPress](https://medium.com/@marklchaves/cloudcannon-versus-wordpress-e0ff63fdb4c0).
 
 ---
 
