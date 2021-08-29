@@ -106,7 +106,7 @@ gallery6:
     title: "portrait of wiwit - once upon a time in lungsiakan bali"
 ---
 <p class="p-wrapper">
-    <span class="dropcap clearfix">w</span>hen i see a film photo, i just want to <em>feel</em> it. film photography brings me back to times we'll never have again. digital technology can come pretty close to faking it. but, i can still tell the difference.
+    <span class="dropcap clearfix">w</span>hen i see a film photo, i just want to <em>feel</em> it. film photography totally sends me back in time. i'm a sucker for nostalgia.
 </p>
 
 {% include gallery id="gallery1" %}
