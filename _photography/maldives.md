@@ -5,63 +5,63 @@ collection: photography
 date: 2020-03-01 15:46:00 +0800
 layout: splash
 header:
-  teaser: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-300w.jpg
-  overlay_image: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-1200w.jpg
-  overlay_image_mob: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-720w.jpg
+  teaser: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-300w.webp
+  overlay_image: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-1200w.webp
+  overlay_image_mob: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-720w.webp
   overlay_filter: 0.3
   caption: "maldivian topographics"
 gallery1:
   - url: /assets/images/maldives/4-mark-chaves-morning-commute-1200.jpg
-    image_path: /assets/images/maldives/4-mark-chaves-morning-commute-1200.jpg
+    image_path: /assets/images/maldives/4-mark-chaves-morning-commute-1200.webp
     alt: "maldives by freelance photographer mark l chaves"
     title: "the morning commute"
   - url: /assets/images/maldives/maldives-maafushi-palm-tree-ocean-1280w.jpg
-    image_path: /assets/images/maldives/maldives-maafushi-palm-tree-ocean-1280w.jpg
+    image_path: /assets/images/maldives/maldives-maafushi-palm-tree-ocean-1280w.webp
     alt: "maldives by freelance photographer mark l chaves"
     title: "maldives 2014"
   - url: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.jpg
-    image_path: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.jpg
+    image_path: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.webp
     alt: "portrait of a dhoni sailor by freelance photographer mark l chaves"
     title: "portrait of a dhoni sailor"
   - url: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-1200w.jpg
-    image_path: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-1200w.jpg
+    image_path: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-1200w.webp
     alt: "maldives by freelance photographer mark l chaves"
     title: "maldivian topographics"
 gallery2:
   - url: /assets/images/maldives/maafushi-latihan-football-1280w.jpg
-    image_path: /assets/images/maldives/maafushi-latihan-football-1280w.jpg
+    image_path: /assets/images/maldives/maafushi-latihan-football-1280w.webp
     alt: "football practise - maldives 2014 by freelance photographer mark l chaves"
     title: "football practise - maldives 2014 by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maldives-maafushi-house-front-entrance-1280w.jpg
-    image_path: /assets/images/maldives/maldives-maafushi-house-front-entrance-1280w.jpg
+    image_path: /assets/images/maldives/maldives-maafushi-house-front-entrance-1280w.webp
     alt: "maldivian topographics by freelance photographer mark l chaves"
     title: "maldivian topographics by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maldives-dhoni-captain-1-562w.jpg
-    image_path: /assets/images/maldives/maldives-dhoni-captain-1-562w.jpg
+    image_path: /assets/images/maldives/maldives-dhoni-captain-1-562w.webp
     alt: "dhoni captain - maldives 2014 by freelance photographer mark l chaves"
     title: "dhoni captain - maldives 2014 by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maldives-maafushi-prison-night-man-gate-1280w.jpg
-    image_path: /assets/images/maldives/maldives-maafushi-prison-night-man-gate-1280w.jpg
+    image_path: /assets/images/maldives/maldives-maafushi-prison-night-man-gate-1280w.webp
     alt: "prison gates - maldives 2014 by freelance photographer mark l chaves"
     title: "prison gates - maldives 2014 by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maldives-male-harbour-man-standing-sea-wall-1280w.jpg
-    image_path: /assets/images/maldives/maldives-male-harbour-man-standing-sea-wall-1280w.jpg
+    image_path: /assets/images/maldives/maldives-male-harbour-man-standing-sea-wall-1280w.webp
     alt: "male maldives 2014 by freelance photographer mark l chaves"
     title: "male maldives 2014 by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maldives-male-window-man-smoking-1280w.jpg
-    image_path: /assets/images/maldives/maldives-male-window-man-smoking-1280w.jpg
+    image_path: /assets/images/maldives/maldives-male-window-man-smoking-1280w.webp
     alt: "male maldives 2014 by freelance photographer mark l chaves"
     title: "male maldives 2014 by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maafushi-my-room-looking-out-at-dawn-1280w.jpg
-    image_path: /assets/images/maldives/maafushi-my-room-looking-out-at-dawn-1280w.jpg
+    image_path: /assets/images/maldives/maafushi-my-room-looking-out-at-dawn-1280w.webp
     alt: "that lonely feeling - maldives 2014 by freelance photographer mark l chaves"
     title: "that lonely feeling - maldives 2014 by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maldives-beach-strideby-1280w.jpg
-    image_path: /assets/images/maldives/maldives-beach-strideby-1280w.jpg
+    image_path: /assets/images/maldives/maldives-beach-strideby-1280w.webp
     alt: "maldives 2014 by freelance photographer mark l chaves"
     title: "maldives 2014 by freelance photographer mark l chaves"
   - url: /assets/images/maldives/maldives-maafushi-two-men-walking-1280w.jpg
-    image_path: /assets/images/maldives/maldives-maafushi-two-men-walking-1280w.jpg
+    image_path: /assets/images/maldives/maldives-maafushi-two-men-walking-1280w.webp
     alt: "everyday maldives 2014 by freelance photographer mark l chaves"
     title: "everyday maldives 2014 by freelance photographer mark l chaves"
 ---
