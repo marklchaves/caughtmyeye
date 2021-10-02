@@ -41,6 +41,8 @@ According to [gohugo.io](https://gohugo.io/), Hugo is
 
 OK. It might be the fastest framework for building sites. Let's check what Google PageSpeed thinks about Hugo's site speed.
 
+Swipe the sliders below to the left or right to see the mobile and desktop reports.
+
 ---
 
 ### Hugo Demo Test
@@ -56,9 +58,10 @@ OK. It might be the fastest framework for building sites. Let's check what Googl
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
 
-    <!-- If we need navigation buttons -->
+    <!-- If we need navigation buttons
     <div class="swiper-button-prev"></div>
     <div class="swiper-button-next"></div>
+    -->
 
     <!-- If we need scrollbar -->
     <div class="swiper-scrollbar"></div>
@@ -81,9 +84,10 @@ Now, let's look at [gohugo.io]() itself. It's the official Hugo website. Yes. It
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
 
-    <!-- If we need navigation buttons -->
+    <!-- If we need navigation buttons
     <div class="swiper-button-prev"></div>
     <div class="swiper-button-next"></div>
+    -->
 
     <!-- If we need scrollbar -->
     <div class="swiper-scrollbar"></div>
@@ -108,9 +112,10 @@ Let's hold my _official_ site as the benchmark. My site is powered by [GatsbyJS]
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
 
-    <!-- If we need navigation buttons -->
+    <!-- If we need navigation buttons
     <div class="swiper-button-prev"></div>
     <div class="swiper-button-next"></div>
+    -->
 
     <!-- If we need scrollbar -->
     <div class="swiper-scrollbar"></div>

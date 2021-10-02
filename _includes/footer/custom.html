@@ -43,17 +43,17 @@ function scrollUp() {
 {% if page.swiper %}
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 <script>
-        var mySwiper = new Swiper ('.swiper-container', {
-            // Optional parameters
-            direction: 'horizontal',
-            loop: true,
+    const mySwiper = new Swiper ('.swiper-container', {
+      // Optional parameters
+      direction: 'horizontal',
+      loop: true,
 
-    // Navigation arrows
-    navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
-  },
-        });
+      // Navigation arrows
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
     </script>
 {%endif %}
 

@@ -88,6 +88,8 @@ For each site, I list the
 
 Here are the PageSpeed scores ordered by the slowest rating (1) to the fastest (7). 
 
+Swipe the sliders below to the left or right to see the mobile and desktop reports.
+
 ---
 
 {% for rating in page.ratings %}
@@ -115,9 +117,10 @@ Mobile | Desktop
     <!-- If we need pagination -->
     <div class="swiper-pagination"></div>
 
-    <!-- If we need navigation buttons -->
+    <!-- If we need navigation buttons
     <div class="swiper-button-prev"></div>
     <div class="swiper-button-next"></div>
+    -->
 
     <!-- If we need scrollbar -->
     <div class="swiper-scrollbar"></div>
