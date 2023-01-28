@@ -1,3 +1,4 @@
+*.bak
 *.gem
 *.code-workspace
 *.sublime-project
