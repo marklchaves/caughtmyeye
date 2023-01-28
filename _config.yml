@@ -82,13 +82,13 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : marklchaves
+#twitter:
+#  username               : marklchaves
 #facebook:
 #  username               :
 #  app_id                 :
 #  publisher              :
-og_image                 : /assets/images/bali/rina-jendela-warung-sepeda-motor-1-ed-1280w.webp # Open Graph/Twitter default site image
+og_image                 : /assets/images/bali/rina-jendela-warung-sepeda-motor-1-ed-1280w.webp # Open Graph/default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -117,8 +117,8 @@ author:
     - label: "website"
       icon: "fas fa-fw fa-link"
       # url: "https://www.caughtmyeye.cc"
-    - label: "twitter"
-      icon: "fab fa-fw fa-twitter-square"
+#    - label: "twitter"
+#      icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/marklchaves"
     - label: "github"
       icon: "fab fa-fw fa-github"
@@ -127,9 +127,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marklchaves"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/marklchaves"
     - label: "DEV"
       icon: "fab fa-fw fa-dev"
       url: "https://dev.to/marklchaves"
