@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/youngstown/29-ohio-youngstown-tree-park-300w.webp
   image: /assets/images/youngstown/29-ohio-youngstown-tree-park-1280w.webp
 related_posts:
-  - /threads/youngstown-syro-steel
+  - /threads/youngstown-sheet-and-tube
 ---
 ## a special place
 
