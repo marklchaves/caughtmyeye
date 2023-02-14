@@ -18,6 +18,10 @@ blog: true;
 excerpt_separator: <!--more-->
 ---
 
+Here's a rough draft of steps to troubleshoot a website problem.
+
+<!--more-->
+
 You might need to go back and repeat a step more than once. For example, you can be on step 3 and need to go back to step 1 to ask more questions and update the problem description.
 
 ## The Steps
@@ -29,8 +33,6 @@ You might need to go back and repeat a step more than once. For example, you can
 5. Rule out your guesses until you find out which one is causing the problem.
 6. Test your fix or workaround.
 7. Write down what you've done so far.
-
-<!--more-->
 
 <a id="step-1"></a>
 ## Step 1) Understand what the customer is asking.
@@ -78,13 +80,13 @@ You should be able to write down the best description of the problem. What the c
 
 ---
 
-## Step 5) Rule out each hypothesis until you find out which one is causing the problem.
+## Step 5) Rule out your guesses until you find out which one is causing the problem.
 
 By the end of this step, you might not know the exact root cause, but you are in an excellent place to test a fix or workaround.
 
 Take this example: On all of the admin pages, we see a notification message that tells us to click a button, but we don't see any.
 
-- **Hypothesis 1**: Maybe there's a CSS conflict. The button element is there, but some CSS rule is blocking it.
+- **Hypothesis 1**: There's a CSS conflict. The button element is there, but some CSS rule is blocking it.
 - **Hypothesis 2**: There's a code conflict. Some 3rd-party code is clashing with the code that's supposed to generate the HTML for the button element.
 - **Hypothesis 3**: There could be a bug in the code that's supposed to display the button.
 
