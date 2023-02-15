@@ -37,7 +37,9 @@ You might need to go back and repeat a step more than once. For example, you can
 <a id="step-1"></a>
 ## Step 1) Understand what the customer is asking.
 
-You should be able to write down the best description of the problem. What the customer is asking isn't always what the customer emails to you. You need a sixth sense to read between the lines and ask precise questions.
+You should be able to describe the problem. Your problem description must include steps for reproducing the issue.
+
+What the customer needs isn't always what they say. You need a sixth sense to read between the lines and ask precise questions.
 
 **Skills you need**:
 
@@ -102,7 +104,7 @@ TO DO: narrowing down, pruning, and getting rid of things that don't contribute
 
 ## References
 
-
+- [WordPress Style GUide](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/#try-to-avoid-these-things)
 
 ---
 
