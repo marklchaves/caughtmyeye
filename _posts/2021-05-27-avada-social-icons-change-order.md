@@ -6,11 +6,11 @@ categories:
   - css
 tags:
   - avada
-  - theme
-  - socialmedia
   - css
   - flex
   - flexbox
+  - socialmedia
+  - theme
   - wordpress
 header:
   teaser: /assets/images/writing/bali-cocomoku-ipad-rina-1-1280w.webp

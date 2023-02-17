@@ -5,8 +5,9 @@ description: "General steps for troubleshooting a website."
 categories:
   - webdev
 tags:
-  - troubleshooting
+  - learning
   - problemsolving
+  - troubleshooting
   - wordpress
 header:
   teaser: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-300w.webp
@@ -17,6 +18,8 @@ swiper: false;
 blog: true;
 excerpt_separator: <!--more-->
 ---
+
+_WIP as of 17 February 2023._
 
 Here's a rough draft of steps to troubleshoot a website problem.
 
@@ -96,20 +99,25 @@ TO DO: narrowing down, pruning, and getting rid of things that don't contribute
 
 ## Step 6) Test your fix or workaround.
 
+TO DO
+
 ---
 
 ## Step 7) Write down what you've done so far.
+
+TO DO
 
 ---
 
 ## References
 
 - [WordPress Style GUide](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/#try-to-avoid-these-things)
+- TO DO: Add more.
 
 ---
 
 ## Credits
 
-TBD
+TO DO
 
 ---
