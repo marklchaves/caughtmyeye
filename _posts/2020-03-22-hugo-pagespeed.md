@@ -5,8 +5,8 @@ description: "Hugo Framework's Google PageSpeed Results"
 categories:
   - performance
 tags:
-  - pagespeed
   - hugo
+  - pagespeed
 header:
   teaser: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-300w.webp
   overlay_image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.webp
