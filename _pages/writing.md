@@ -39,7 +39,7 @@ feature_row5:
   - url: /assets/docs/AsianGeographic-Icon-Shinta-Flames.pdf
     image_path: /assets/images/writing/asian-geographic-icon-shinta-570w.webp
     alt: "Asian Geographic Icon - Emmanuela Dewi Shinta Rising Above The Flames by freelance writer mark l chaves"
-    title: "Asian Geographic // Emmanuela Dewi Shinta // Rising Bbove the Flames"
+    title: "Asian Geographic // Emmanuela Dewi Shinta // Rising Above the Flames"
   - url: https://s3-ap-southeast-1.amazonaws.com/travel3sixty-media/download/magazines/2016/May/files/assets/basic-html/index.html#68
     image_path: /assets/images/writing/airasia-travel3sixty-canyoning-570w.webp
     alt: "The Inner Journey - Canyoning in Bali published on AirAsia Travel 3Sixty Magazine by freelance writer mark l chaves"
