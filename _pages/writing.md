@@ -12,7 +12,7 @@ feature_row1-1:
     alt: "Adding Custom CSS to your WordPress Website by freelance writer mark l chaves"
     title: "Adding Custom CSS to your WordPress Website"
 feature_row1:
-  - url: https://vimpt.com/2017/10/07/a-carpet-bag-of-real-estate-an-american-confessional/
+  - url:
     image_path: /assets/images/writing/vimpt-carpet-bag-rel-estate-510w.webp
     alt: "an American photo Eessay published on Vimpt.com by freelance writer mark l chaves"
     title: "an American photo essay published on Vimpt.com"
@@ -21,7 +21,7 @@ feature_row1:
     alt: "mark’s interview with photographer Idan Golko published on Grryo.com by freelance writer mark l chaves"
     title: "interview with Idan Golko published on Grryo.com"
 feature_row2:
-  - url: https://blog.editorr.com/writing/what-makes-a-sentence-complete
+  - url: 
     image_path: /assets/images/writing/editorr-blog-complete-sentence-1280w.webp
     alt: "what makes a sentence complete on editorr.com by freelance writer mark l chaves"
     title: "what makes a sentence complete on editorr.com"
@@ -40,7 +40,7 @@ feature_row5:
     image_path: /assets/images/writing/asian-geographic-icon-shinta-570w.webp
     alt: "Asian Geographic Icon - Emmanuela Dewi Shinta Rising Above The Flames by freelance writer mark l chaves"
     title: "Asian Geographic // Emmanuela Dewi Shinta // Rising Above the Flames"
-  - url: https://s3-ap-southeast-1.amazonaws.com/travel3sixty-media/download/magazines/2016/May/files/assets/basic-html/index.html#68
+  - url:
     image_path: /assets/images/writing/airasia-travel3sixty-canyoning-570w.webp
     alt: "The Inner Journey - Canyoning in Bali published on AirAsia Travel 3Sixty Magazine by freelance writer mark l chaves"
     title: "AirAsia Travel 3Sixty Magazine // The Inner Journey // Canyoning in Bali"
