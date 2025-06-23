@@ -13,71 +13,71 @@ header:
 gallery1:
   - url: /assets/images/surabaya/surabaya-becak-driver-apollo-bw-1280w.jpg
     image_path: /assets/images/surabaya/surabaya-becak-driver-apollo-bw-1280w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "old town becak driver on 35mm film"
 gallery2:
   - url: /assets/images/surabaya/surabaya-rumah-model-star-517w.jpg
     image_path: /assets/images/surabaya/surabaya-rumah-model-star-517w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "model star"
   - url: /assets/images/surabaya/cowok-duduk-pintu-surabaya-531w.jpg
     image_path: /assets/images/surabaya/cowok-duduk-pintu-surabaya-531w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "old town surabaya"
 gallery3:
   - url: /assets/images/surabaya/surabaya-kota-stasium-kereta-api-film-ed-1280w.jpg
     image_path: /assets/images/surabaya/surabaya-kota-stasium-kereta-api-film-ed-1280w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "surabaya kota (surabaya city) on 35mm film"
 gallery4:
   - url: /assets/images/surabaya/surabaya-car-free-day-bapak-penjual-topi-800w.jpg
     image_path: /assets/images/surabaya/surabaya-car-free-day-bapak-penjual-topi-517w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "styln' market vendor on car-free day"
   - url: /assets/images/surabaya/surabaya-pasar-atom-800w.jpg
     image_path: /assets/images/surabaya/surabaya-pasar-atom-517w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "an old school warung in pasar atom"
 gallery5:
   - url: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-2-1280w.jpg
     image_path: /assets/images/surabaya/surabaya-ampel-becak-driver-3-ed-2-1280w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "ampel becak driver on 35mm film"
 gallery6:
   - url: /assets/images/surabaya/surabaya-bapak-tukang-parkir-duduk-tidur-800w.jpg
     image_path: /assets/images/surabaya/surabaya-bapak-tukang-parkir-duduk-tidur-517w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "everyday Surabaya"
   - url: /assets/images/surabaya/surabaya-flags-majapahit-hotel-film-800w.jpg
     image_path: /assets/images/surabaya/surabaya-flags-majapahit-hotel-film-517w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "the historic hotel majapahit"
 gallery7:
   - url: /assets/images/surabaya/surabaya-ruang-tunggu-rumah-sakit-1280w.jpg
     image_path: /assets/images/surabaya/surabaya-ruang-tunggu-rumah-sakit-1280w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "ruang tunggu di rumah sakit 35mm film"
   - url: /assets/images/surabaya/surabaya-film-dua-kaki-lima-di-jalan-bw-1280w.jpg
     image_path: /assets/images/surabaya/surabaya-film-dua-kaki-lima-di-jalan-bw-1280w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "kaki limas - five legs"
 gallery8:
   - url: /assets/images/surabaya/surabaya-kota-jalan-besar-800w.jpg
     image_path: /assets/images/surabaya/surabaya-kota-jalan-besar-517w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "downtown surabaya"
   - url: /assets/images/surabaya/bapak-sama-thermos-surabaya-ed-800w.jpg
     image_path: /assets/images/surabaya/bapak-sama-thermos-surabaya-ed-517w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "traditional ice cream vendor on 35mm film old town surabaya"
 gallery9:
   - url: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-2-800w.jpg
     image_path: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-2-800w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "portrait of robert downtown surabaya"
   - url: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-534w.jpg
     image_path: /assets/images/surabaya/surabaya-pasar-atum-becak-sopir-375w.webp
-    alt: "surabaya photography portfolio for freelance photographer mark l chaves"
+    alt: "surabaya photography portfolio"
     title: "portrait of robert downtown surabaya"
 ---
 <p class="p-wrapper">

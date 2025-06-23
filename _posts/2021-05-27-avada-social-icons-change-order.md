@@ -16,7 +16,7 @@ header:
   teaser: /assets/images/writing/bali-cocomoku-ipad-rina-1-1280w.webp
   overlay_image: /assets/images/writing/bali-cocomoku-ipad-rina-1-1280w.webp
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "tara on her ipad somewhere in bali by mark l chaves"
+  caption: "tara on her ipad somewhere in bali"
 swiper: true;
 blog: true;
 excerpt_separator: <!--more-->

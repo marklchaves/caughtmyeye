@@ -13,69 +13,69 @@ header:
 gallery1:
   - url: /assets/images/bhutan/bhutan-thimphu-monastery-window-silhouette-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-thimphu-monastery-window-silhouette-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "this is bhutan"
   - url: /assets/images/bhutan/bhutan-paro-anak-fotografer-kamera-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-paro-anak-fotografer-kamera-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "the photographer"
   - url: /assets/images/bhutan/bhutan-bumdra-porter-cowboy-hat-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-bumdra-porter-cowboy-hat-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "highlander"
   - url: /assets/images/bhutan/bhutan-thimphu-main-street-market-men-walking-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-thimphu-main-street-market-men-walking-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "thimphu - the capital city"
   - url: /assets/images/bhutan/bhutan-paro-uma-housekeeper-portrait-steps-562w.jpg
     image_path: /assets/images/bhutan/bhutan-paro-uma-housekeeper-portrait-steps-562w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "this is bhutan"
   - url: /assets/images/bhutan/bhutan-paro-zhong-elderly-woman-562w.jpg
     image_path: /assets/images/bhutan/bhutan-paro-zhong-elderly-woman-562w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "this is bhutan"
   - url: /assets/images/bhutan/bhutan-paro-street-dog-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-paro-street-dog-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "paro street dog"
   - url: /assets/images/bhutan/paro-stupa-woman-prayer-wheels-1280w.jpg
     image_path: /assets/images/bhutan/paro-stupa-woman-prayer-wheels-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "this is bhutan"
   - url: /assets/images/bhutan/bhutan-thimphu-man-strideby-wall-mother-child-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-thimphu-man-strideby-wall-mother-child-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "thimphu"
   - url: /assets/images/bhutan/bhutan-artist-coki-traditional-art-school-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-artist-coki-traditional-art-school-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "coki traditional art school outside thimphu"
 gallery2:
   - url: /assets/images/bhutan/bhutan-thimphu-ibu2-jalan2-architecture-800w.jpg
     image_path: /assets/images/bhutan/bhutan-thimphu-ibu2-jalan2-architecture-562w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "thimphu bhutan"
   - url: /assets/images/bhutan/bhutan-thimphu-man-flute-sitting-800w.jpg
     image_path: /assets/images/bhutan/bhutan-thimphu-man-flute-sitting-562w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "thimphu bhutan"
 gallery3:
   - url: /assets/images/bhutan/bhutan-thimphu-dog-main-street-traffic-circle-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-thimphu-dog-main-street-traffic-circle-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "thimphu - the capital city"
   - url: /assets/images/bhutan/bhutan-paro-pasar-cewek-bayar-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-paro-pasar-cewek-bayar-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "paro"
   - url: /assets/images/bhutan/bhutan-paro-woman-baby-strideby-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-paro-woman-baby-strideby-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "the back streets of paro"
   - url: /assets/images/bhutan/bhutan-paro-uma-spa-attendant-portrait-1280w.jpg
     image_path: /assets/images/bhutan/bhutan-paro-uma-spa-attendant-portrait-1280w.webp
-    alt: "bhutan photography portfolio for freelance photographer mark l chaves"
+    alt: "bhutan photography portfolio"
     title: "the black & white of bhutan"
 ---
 

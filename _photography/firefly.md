@@ -41,7 +41,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-diptych-bebek-potted-plant-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-diptych-bebek-potted-plant-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-diptych-bebek-potted-plant-510w.jpg" rel="permalink" title="diptych 1">
@@ -56,7 +56,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-diptych-cream-puffs-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-diptych-cream-puffs-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-diptych-cream-puffs-510w.jpg" rel="permalink" title="diptych 2">
@@ -71,7 +71,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-diptych-villa-sawah-bottle-pouring-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-diptych-villa-sawah-bottle-pouring-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-diptych-villa-sawah-bottle-pouring-510w.jpg" rel="permalink" title="diptych 3">
@@ -86,7 +86,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-firefly-nest-lobby-detail-9-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-firefly-nest-lobby-detail-9-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-firefly-nest-lobby-detail-9-562w.jpg" rel="permalink" title="staircase detail">
@@ -101,7 +101,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-firefly-nest-lobby-detail-swing-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-firefly-nest-lobby-detail-swing-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-firefly-nest-lobby-detail-swing-562w.jpg" rel="permalink" title="rainy day">
@@ -116,7 +116,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-firefly-nest-lobby-overview-4-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-firefly-nest-lobby-overview-4-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-firefly-nest-lobby-overview-4-1280w.jpg" rel="permalink" title="chandelier">
@@ -131,7 +131,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-lampu-tokei-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-lampu-tokei-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-lampu-tokei-533w.jpg" rel="permalink" title="tokei">
@@ -146,7 +146,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-mao-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-mao-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-mao-562w.jpg" rel="permalink" title="mao">
@@ -161,7 +161,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-putu-swing-baca-buku-2-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-putu-swing-baca-buku-2-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-putu-swing-baca-buku-2-562w.jpg" rel="permalink" title="a day at the office">
@@ -176,7 +176,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-treehouse-detail-steps-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-treehouse-detail-steps-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-treehouse-detail-steps-562w.jpg" rel="permalink" title="bamboo staircase">
@@ -191,7 +191,7 @@ analytics: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img src="/assets/images/firefly/rainy-firefly-slinat-bw-300w.jpg" width="300" alt="concept firefly - interior photography by mark l chaves">
+                <img src="/assets/images/firefly/rainy-firefly-slinat-bw-300w.jpg" width="300" alt="concept firefly">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/firefly/rainy-firefly-slinat-bw-562w.jpg" rel="permalink" title="wall art by slinat">

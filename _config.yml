@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "c a u g ht my e y e"
 title_separator          : "&bull;"
 name                     : "to see rather than look"
-description              : "to see rather than look - threads photography writing web development bali indonesia"
+description              : ""
 url                      : "https://caughtmyeye.dev" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,45 +111,10 @@ author:
   location         : "bali"
   email            :
   links:
-    - label: "connect"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://www.caughtmyeye.cc/"
-    - label: "website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://www.caughtmyeye.cc"
-#    - label: "twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/marklchaves"
-    - label: "github"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/marklchaves"
 
 # Site Footer
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/marklchaves"
-    - label: "DEV"
-      icon: "fab fa-fw fa-dev"
-      url: "https://dev.to/marklchaves"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/marklchaves"
-    - label: "CodePen"
-      icon: "fab fa-fw fa-codepen"
-      url: "https://codepen.io/marklchaves"
-#    - label: "Bitbucket"
-#      icon: "fab fa-fw fa-bitbucket"
-      # url:
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "Ko-fi"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://ko-fi.com/marklchaves"
-
-
 
 # Reading Files
 include:
@@ -326,7 +291,7 @@ webp:
 
   # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
   # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
-  img_dir: ["/assets/images/about", "/assets/images/bali", "/assets/images/barcelona", "/assets/images/blog", "/assets/images/croatia", "/assets/images/bhutan", "/assets/images/film", "/assets/images/ian", "/assets/images/india", "/assets/images/interior", "/assets/images/maldives", "/assets/images/people", "/assets/images/performance", "/assets/images/san-francisco", "/assets/images/surabaya", "/assets/images/webdev", "/assets/images/writing", "/assets/images/youngstown"]
+  img_dir: ["/assets/images/bali", "/assets/images/barcelona", "/assets/images/blog", "/assets/images/croatia", "/assets/images/bhutan", "/assets/images/film", "/assets/images/ian", "/assets/images/india", "/assets/images/interior", "/assets/images/maldives", "/assets/images/people", "/assets/images/performance", "/assets/images/san-francisco", "/assets/images/surabaya", "/assets/images/webdev", "/assets/images/writing", "/assets/images/youngstown"]
 
   # Whether to search in nested directories or not
   nested: false

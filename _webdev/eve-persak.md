@@ -12,25 +12,25 @@ header:
 gallery1:
   - url: /assets/images/webdev/evepersak-com-homepage-1280w.jpg
     image_path: /assets/images/webdev/evepersak-com-homepage-1280w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
+    alt: "eve persak website"
     title: "eve persak homepage"
   - url: /assets/images/webdev/evepersak-homepage-about-panel-1280w.jpg
     image_path: /assets/images/webdev/evepersak-homepage-about-panel-1280w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
+    alt: "eve persak website"
     title: "eve persak about"
 gallery2:
   - url: /assets/images/webdev/evepersak-offerings-workshops-retreats-1080w.jpg
     image_path: /assets/images/webdev/evepersak-offerings-workshops-retreats-510w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
+    alt: "eve persak website"
     title: "eve persak staggered design"
   - url: /assets/images/webdev/evepersak-offerings-industries-popup-1080w.jpg
     image_path: /assets/images/webdev/evepersak-offerings-industries-popup-510w.jpg
-    alt: "eve persak website by freelance web developer mark l chaves"
+    alt: "eve persak website"
     title: "eve persak popup modal design"
 gallery3:
   - url: /assets/images/webdev/evepersak-brands-industries-modal.gif
     image_path: /assets/images/webdev/evepersak-brands-industries-modal.gif
-    alt: "eve persak website by freelance web developer mark l chaves"
+    alt: "eve persak website"
     title: "eve persak staggered design"
 ---
 

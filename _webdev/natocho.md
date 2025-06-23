@@ -12,17 +12,17 @@ header:
 gallery1:
   - url: /assets/images/webdev/natocho-jewellry-page-ed-1280w.jpg
     image_path: /assets/images/webdev/natocho-jewellry-page-ed-1280w.jpg
-    alt: "natocho art & design website by freelance web developer mark l chaves"
+    alt: "natocho art & design website"
     title: "natocho art & design product photography and site design"
 gallery2:
   - url: /assets/images/webdev/natocho-artist-screen-capture-1456w.jpg
     image_path: /assets/images/webdev/natocho-artist-screen-capture-1456w.jpg
-    alt: "natocho art & design website by freelance web developer mark l chaves"
+    alt: "natocho art & design website"
     title: "natocho art & design portrait photography and site design"
 gallery3:
   - url: /assets/images/webdev/natocho-jewelry-group-white-paper-1280w.jpg
     image_path: /assets/images/webdev/natocho-jewelry-group-white-paper-1280w.jpg
-    alt: "natocho art & design website by freelance web developer mark l chaves"
+    alt: "natocho art & design website"
     title: "natocho art & design product photography"
 ---
 

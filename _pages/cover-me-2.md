@@ -39,7 +39,7 @@ masonry: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img data-src="/assets/images/cover-me/matajiwa-anda-guitar-3-300w.jpg" width="300" height="450" alt="anda of matajiwa - kuta bali by freelance photographer mark l chaves" class="lazyload">
+                <img data-src="/assets/images/cover-me/matajiwa-anda-guitar-3-300w.jpg" width="300" height="450" alt="anda of matajiwa - kuta bali" class="lazyload">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/cover-me/matajiwa-anda-guitar-3-720w.jpg" rel="permalink" title="anda of matajiwa - kuta bali ">
@@ -54,7 +54,7 @@ masonry: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img data-src="/assets/images/cover-me/matajiwa-hard-rock-anda-guitar-9-300w.jpg" width="300" height="200" alt="anda of matajiwa - kuta bali by freelance photographer mark l chaves" class="lazyload">
+                <img data-src="/assets/images/cover-me/matajiwa-hard-rock-anda-guitar-9-300w.jpg" width="300" height="200" alt="anda of matajiwa - kuta bali" class="lazyload">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/cover-me/matajiwa-hard-rock-anda-guitar-9-1280w.jpg" rel="permalink" title="anda of matajiwa at the hard rock cafe - kuta bali ">
@@ -69,7 +69,7 @@ masonry: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img data-src="/assets/images/cover-me/matajiwa-hard-rock-tuning-guitar-stage-300w.jpg" width="300" height="200" alt="anda of matajiwa - kuta bali by freelance photographer mark l chaves" class="lazyload">
+                <img data-src="/assets/images/cover-me/matajiwa-hard-rock-tuning-guitar-stage-300w.jpg" width="300" height="200" alt="anda of matajiwa - kuta bali" class="lazyload">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/cover-me/matajiwa-hard-rock-tuning-guitar-stage-1280w.jpg" rel="permalink" title="prepping for matajiwa at the hard rock cafe - kuta bali ">
@@ -84,7 +84,7 @@ masonry: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img data-src="/assets/images/cover-me/kai-street-flag-session-3-bw-300w.jpg" width="300" height="200" alt="kai mata - ubud bali by freelance photographer mark l chaves" class="lazyload">
+                <img data-src="/assets/images/cover-me/kai-street-flag-session-3-bw-300w.jpg" width="300" height="200" alt="kai mata - ubud bali" class="lazyload">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/cover-me/kai-street-flag-session-3-bw-1280w.jpg" rel="permalink" title="kai mata - ubud bali">
@@ -99,7 +99,7 @@ masonry: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img data-src="/assets/images/cover-me/1-california-san-francisco-mission-guitar-jorge-castro-1-300w.jpg" width="300" height="201" alt="portrait of jorge - the mission san francisco by freelance photographer mark l chaves" class="lazyload">
+                <img data-src="/assets/images/cover-me/1-california-san-francisco-mission-guitar-jorge-castro-1-300w.jpg" width="300" height="201" alt="portrait of jorge - the mission san francisco" class="lazyload">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/people/1-california-san-francisco-mission-guitar-jorge-castro-1-1240w.jpg" rel="permalink" title="portrait of jorge - the mission san francisco">
@@ -114,7 +114,7 @@ masonry: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img data-src="/assets/images/cover-me/matajiwa-reza-hard-rock-street-drumsticks-1-300w.jpg" width="300" height="450" alt="reza of matajiwa on the streets of kuta bali by freelance photographer mark l chaves" class="lazyload">
+                <img data-src="/assets/images/cover-me/matajiwa-reza-hard-rock-street-drumsticks-1-300w.jpg" width="300" height="450" alt="reza of matajiwa on the streets of kuta bali" class="lazyload">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/cover-me/matajiwa-reza-hard-rock-street-drumsticks-1-720w.jpg" rel="permalink" title="reza of matajiwa on the streets of kuta bali">
@@ -129,7 +129,7 @@ masonry: true
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <figure class="full ">
             <div class="archive__item-teaser">
-                <img data-src="/assets/images/cover-me/akron-square-records-ensemble-etal-group-outside-2-300w.jpg" width="300" height="200" alt="ensemble - square records akron ohio by freelance photographer mark l chaves" class="lazyload">
+                <img data-src="/assets/images/cover-me/akron-square-records-ensemble-etal-group-outside-2-300w.jpg" width="300" height="200" alt="ensemble - square records akron ohio" class="lazyload">
             </div>
             <h2 class="archive__item-title" itemprop="headline">
                 <a href="/assets/images/cover-me/akron-square-records-ensemble-etal-group-outside-2-1280w.jpg" rel="permalink" title="ensemble - square records akron ohio">

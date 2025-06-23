@@ -12,34 +12,34 @@ header:
 gallery1:
   - url: /assets/images/webdev/ini-bali-install-screen-capture-384w.jpg
     image_path: /assets/images/webdev/ini-bali-install-screen-capture-384w.jpg
-    alt: "amp on pwa by freelance web developer mark l chaves"
+    alt: "amp on pwa"
     title: "ini bali amp story running as a pwa"
   - url: /assets/images/webdev/inibali-amp-pwa-screen-capture-800w.jpg
     image_path: /assets/images/webdev/inibali-amp-pwa-screen-capture-800w.jpg
-    alt: "amp on pwa by freelance web developer mark l chaves"
+    alt: "amp on pwa"
     title: "ini bali amp story running as a pwa"
 gallery 2:
   - url: /assets/images/webdev/amp-pwa-hope-before-562w.jpg
     image_path: /assets/images/webdev/amp-pwa-hope-before-562w.jpg
-    alt: "amp on pwa by freelance web developer mark l chaves"
+    alt: "amp on pwa"
     title: "hope's transfurmation story for missionpawsible.org"
   - url: /assets/images/webdev/amp-pwa-hope-after-562w.jpg
     image_path: /assets/images/webdev/amp-pwa-hope-after-562w.jpg
-    alt: "amp on pwa by freelance web developer mark l chaves"
+    alt: "amp on pwa"
     title: "hope's transfurmation story for missionpawsible.org"
 gallery3:
   - url: /assets/images/webdev/pwa-amp-hope-collage-1280w.jpg
     image_path: /assets/images/webdev/pwa-amp-hope-collage-1280w.jpg
-    alt: "amp on pwa by freelance web developer mark l chaves"
+    alt: "amp on pwa"
     title: "hope's transfurmation story for missionpawsible.org"
   - url: /assets/images/webdev/pwa-amp-hope-bookend-1280w.jpg
     image_path: /assets/images/webdev/pwa-amp-hope-bookend-1280w.jpg
-    alt: "amp on pwa by freelance web developer mark l chaves"
+    alt: "amp on pwa"
     title: "hope's transfurmation story for missionpawsible.org"
 gallery4:
   - url: /assets/images/webdev/sshorties-search-562w.jpg
     image_path: /assets/images/webdev/shorties-search-562w.jpg
-    alt: "pwa by freelance web developer mark l chaves"
+    alt: "pwa"
     title: "pwa for sharing links"
 ---
 

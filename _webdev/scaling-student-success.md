@@ -12,20 +12,20 @@ header:
 gallery1:
   - url: /assets/images/webdev/scaling-homepage-screen-capture-14nov2019-800w.jpg
     image_path: /assets/images/webdev/scaling-homepage-screen-capture-14nov2019-800w.jpg
-    alt: "scaling student success homepage by freelance web developer mark l chaves"
+    alt: "scaling student success homepage"
     title: "minimalist opt-in form and wide display responsive design"
   - url: /assets/images/webdev/scaling-homepage-iphonex-300w.jpg
     image_path: /assets/images/webdev/scaling-homepage-iphonex-300w.jpg
-    alt: "scaling student success homepage by freelance web developer mark l chaves"
+    alt: "scaling student success homepage"
     title: "mobile responsive design"
 gallery2:
   - url: /assets/images/webdev/scaling-homepage-grad-profile-panel-800w.jpg
     image_path: /assets/images/webdev/scaling-homepage-grad-profile-panel-512w.jpg
-    alt: "scaling student success homepage by freelance web developer mark l chaves"
+    alt: "scaling student success homepage"
     title: "hero panel with animated counter boxes using a layered composition"
   - url: /assets/images/webdev/scaling-who-we-are-roman-screen-capture-842w.jpg
     image_path: /assets/images/webdev/scaling-who-we-are-roman-screen-capture-512w.jpg
-    alt: "scaling student success website by freelance web developer mark l chaves"
+    alt: "scaling student success website"
     title: "bio and profile design"
 ---
 

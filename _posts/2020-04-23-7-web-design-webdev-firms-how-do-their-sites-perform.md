@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-300w.webp
   overlay_image: /assets/images/blog/bali-payogan-pohon-kelapa-sendiri-1280w.webp
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "bali's early morning light by mark l chaves"
+  caption: "bali's early morning light"
 swiper: true;
 blog: true;
 excerpt_separator: <!--more-->

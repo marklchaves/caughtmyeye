@@ -13,57 +13,57 @@ header:
 gallery1:
   - url: /assets/images/maldives/4-mark-chaves-morning-commute-1200.jpg
     image_path: /assets/images/maldives/4-mark-chaves-morning-commute-1200.webp
-    alt: "maldives by freelance photographer mark l chaves"
+    alt: "maldives"
     title: "the morning commute"
   - url: /assets/images/maldives/maldives-maafushi-palm-tree-ocean-1280w.jpg
     image_path: /assets/images/maldives/maldives-maafushi-palm-tree-ocean-1280w.webp
-    alt: "maldives by freelance photographer mark l chaves"
+    alt: "maldives"
     title: "maldives 2014"
   - url: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.jpg
     image_path: /assets/images/people/maldives-maafushi-dhoni-sailor-1-1280w.webp
-    alt: "portrait of a dhoni sailor by freelance photographer mark l chaves"
+    alt: "portrait of a dhoni sailor"
     title: "portrait of a dhoni sailor"
   - url: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-1200w.jpg
     image_path: /assets/images/maldives/8-mark-chaves-maldives-rubbish-trees-1200w.webp
-    alt: "maldives by freelance photographer mark l chaves"
+    alt: "maldives"
     title: "maldivian topographics"
 gallery2:
   - url: /assets/images/maldives/maafushi-latihan-football-1280w.jpg
     image_path: /assets/images/maldives/maafushi-latihan-football-1280w.webp
-    alt: "football practise - maldives 2014 by freelance photographer mark l chaves"
-    title: "football practise - maldives 2014 by freelance photographer mark l chaves"
+    alt: "football practise - maldives 2014"
+    title: "football practise - maldives 2014"
   - url: /assets/images/maldives/maldives-maafushi-house-front-entrance-1280w.jpg
     image_path: /assets/images/maldives/maldives-maafushi-house-front-entrance-1280w.webp
-    alt: "maldivian topographics by freelance photographer mark l chaves"
-    title: "maldivian topographics by freelance photographer mark l chaves"
+    alt: "maldivian topographics"
+    title: "maldivian topographics"
   - url: /assets/images/maldives/maldives-dhoni-captain-1-562w.jpg
     image_path: /assets/images/maldives/maldives-dhoni-captain-1-562w.webp
-    alt: "dhoni captain - maldives 2014 by freelance photographer mark l chaves"
-    title: "dhoni captain - maldives 2014 by freelance photographer mark l chaves"
+    alt: "dhoni captain - maldives 2014"
+    title: "dhoni captain - maldives 2014"
   - url: /assets/images/maldives/maldives-maafushi-prison-night-man-gate-1280w.jpg
     image_path: /assets/images/maldives/maldives-maafushi-prison-night-man-gate-1280w.webp
-    alt: "prison gates - maldives 2014 by freelance photographer mark l chaves"
-    title: "prison gates - maldives 2014 by freelance photographer mark l chaves"
+    alt: "prison gates - maldives 2014"
+    title: "prison gates - maldives 2014"
   - url: /assets/images/maldives/maldives-male-harbour-man-standing-sea-wall-1280w.jpg
     image_path: /assets/images/maldives/maldives-male-harbour-man-standing-sea-wall-1280w.webp
-    alt: "male maldives 2014 by freelance photographer mark l chaves"
-    title: "male maldives 2014 by freelance photographer mark l chaves"
+    alt: "male maldives 2014"
+    title: "male maldives 2014"
   - url: /assets/images/maldives/maldives-male-window-man-smoking-1280w.jpg
     image_path: /assets/images/maldives/maldives-male-window-man-smoking-1280w.webp
-    alt: "male maldives 2014 by freelance photographer mark l chaves"
-    title: "male maldives 2014 by freelance photographer mark l chaves"
+    alt: "male maldives 2014"
+    title: "male maldives 2014"
   - url: /assets/images/maldives/maafushi-my-room-looking-out-at-dawn-1280w.jpg
     image_path: /assets/images/maldives/maafushi-my-room-looking-out-at-dawn-1280w.webp
-    alt: "that lonely feeling - maldives 2014 by freelance photographer mark l chaves"
-    title: "that lonely feeling - maldives 2014 by freelance photographer mark l chaves"
+    alt: "that lonely feeling - maldives 2014"
+    title: "that lonely feeling - maldives 2014"
   - url: /assets/images/maldives/maldives-beach-strideby-1280w.jpg
     image_path: /assets/images/maldives/maldives-beach-strideby-1280w.webp
-    alt: "maldives 2014 by freelance photographer mark l chaves"
-    title: "maldives 2014 by freelance photographer mark l chaves"
+    alt: "maldives 2014"
+    title: "maldives 2014"
   - url: /assets/images/maldives/maldives-maafushi-two-men-walking-1280w.jpg
     image_path: /assets/images/maldives/maldives-maafushi-two-men-walking-1280w.webp
-    alt: "everyday maldives 2014 by freelance photographer mark l chaves"
-    title: "everyday maldives 2014 by freelance photographer mark l chaves"
+    alt: "everyday maldives 2014"
+    title: "everyday maldives 2014"
 ---
 
 <p class="p-wrapper">
@@ -74,7 +74,7 @@ gallery2:
 
 <figure class="third ">
     <a href="/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w.jpg"
-        title="god of thunder - dhoni sailor by freelance photographer mark l chaves" class="image-popup">
+        title="god of thunder - dhoni sailor" class="image-popup">
         <picture>
             <source media="(max-width: 767px)" sizes="(max-width: 767px) 100vw, 767px"
                 srcset="
@@ -94,12 +94,12 @@ gallery2:
             <img sizes="(max-width: 1280px) 100vw, 1280px" srcset="
     /assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_c_scale,w_1280.jpg 1280w"
                 src="/assets/images/maldives/nowebp/maldives-maafushi-sailor-dhoni-2-1280w_kplybp_c_scale,w_1280.jpg"
-                alt="god of thunder - dhoni sailor by freelance photographer mark l chaves"
-                title="god of thunder - dhoni sailor by freelance photographer mark l chaves">
+                alt="god of thunder - dhoni sailor"
+                title="god of thunder - dhoni sailor">
         </picture>
     </a>
     <a href="/assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w.jpg"
-        title="everyday maldives by freelance photographer mark l chaves" class="image-popup">
+        title="everyday maldives" class="image-popup">
         <picture>
             <source media="(max-width: 767px)" sizes="(max-width: 767px) 100vw, 767px"
                 srcset="
@@ -120,12 +120,12 @@ gallery2:
         /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1200.jpg 1200w,
         /assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1280.jpg 1280w"
                 src="/assets/images/maldives/nowebp/10-mark-chaves-maldives-umbrella-1280w_btwvvj_c_scale,w_1280.jpg"
-                alt="everyday maldives by freelance photographer mark l chaves"
-                title="everyday maldives by freelance photographer mark l chaves">
+                alt="everyday maldives"
+                title="everyday maldives">
         </picture>
     </a>
     <a href="/assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w.jpg"
-        title="waiting for the sun by freelance photographer mark l chaves" class="image-popup">
+        title="waiting for the sun" class="image-popup">
         <picture>
             <source media="(max-width: 767px)" sizes="(max-width: 624px) 90vw, 562px" srcset="
         /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_300.jpg 300w,
@@ -139,8 +139,8 @@ gallery2:
             <img sizes="(max-width: 1124px) 50vw, 562px" srcset="
         /assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_562.jpg 562w"
                 src="/assets/images/maldives/nowebp/maldives-maafushi-man-waiting-for-the-sun-1-562w_mne1fk_c_scale,w_562.jpg"
-                alt="waiting for the sun by freelance photographer mark l chaves"
-                title="waiting for the sun by freelance photographer mark l chaves">
+                alt="waiting for the sun"
+                title="waiting for the sun">
         </picture>
     </a>
 </figure>
@@ -153,7 +153,7 @@ gallery2:
 
 <figure class="third ">
     <a href="/assets/images/maldives/nowebp/maldives-maafushi-burning-rubbish-motorbike-1280.jpg"
-        title="burning rubbish - maldives 2014 by freelance photographer mark l chaves" class="image-popup">
+        title="burning rubbish - maldives 2014" class="image-popup">
         <picture>
             <source media="(max-width: 767px)" sizes="(max-width: 767px) 100vw, 767px" srcset="
             /assets/images/maldives/nowebp/maldives-maafushi-burning-rubbish-motorbike-1280_smxnlp_ar_4_3,c_fill,g_auto__c_scale,w_300.jpg 300w,
@@ -169,11 +169,11 @@ gallery2:
             <img sizes="(max-width: 1280px) 100vw, 1280px" srcset="
             /assets/images/maldives/nowebp/maldives-maafushi-burning-rubbish-motorbike-1280_smxnlp_c_scale,w_1200.jpg 1200w,
             /assets/images/maldives/nowebp/maldives-maafushi-burning-rubbish-motorbike-1280_smxnlp_c_scale,w_1280.jpg 1280w"
-                src="/assets/images/maldives/nowebp/maldives-maafushi-burning-rubbish-motorbike-1280_smxnlp_c_scale,w_1280.jpg" alt="burning rubbish - maldives 2014 by freelance photographer mark l chaves">
+                src="/assets/images/maldives/nowebp/maldives-maafushi-burning-rubbish-motorbike-1280_smxnlp_c_scale,w_1280.jpg" alt="burning rubbish - maldives 2014">
         </picture>
     </a>
     <a href="/assets/images/maldives/nowebp/maldives-maafushi-ferry-workers-resting-1280w.jpg"
-        title="going home - maldives 2014 by freelance photographer mark l chaves" class="image-popup">
+        title="going home - maldives 2014" class="image-popup">
         <picture>
             <source media="(max-width: 767px)" sizes="(max-width: 767px) 100vw, 767px" srcset="
             /assets/images/maldives/nowebp/maldives-maafushi-ferry-workers-resting-1280w_tm84qs_ar_4_3,c_fill,g_auto__c_scale,w_300.jpg 300w,
@@ -187,11 +187,11 @@ gallery2:
             <img sizes="(max-width: 1280px) 100vw, 1280px" srcset="
             /assets/images/maldives/nowebp/maldives-maafushi-ferry-workers-resting-1280w_tm84qs_c_scale,w_1200.jpg 1200w,
             /assets/images/maldives/nowebp/maldives-maafushi-ferry-workers-resting-1280w_tm84qs_c_scale,w_1280.jpg 1280w"
-                src="/assets/images/maldives/nowebp/maldives-maafushi-ferry-workers-resting-1280w_tm84qs_c_scale,w_1280.jpg" alt="going home - maldives 2014 by freelance photographer mark l chaves">
+                src="/assets/images/maldives/nowebp/maldives-maafushi-ferry-workers-resting-1280w_tm84qs_c_scale,w_1280.jpg" alt="going home - maldives 2014">
         </picture>
     </a>
     <a href="/assets/images/maldives/nowebp/maldives-male-harbour-lonely-man-bow-1280w.jpg"
-        title="male maldives 2014 by freelance photographer mark l chaves" class="image-popup">
+        title="male maldives 2014" class="image-popup">
         <picture>
             <source media="(max-width: 767px)" sizes="(max-width: 767px) 100vw, 767px" srcset="
             /assets/images/maldives/nowebp/maldives-male-harbour-lonely-man-bow-1280w_p3wtwn_ar_4_3,c_fill,g_auto__c_scale,w_300.jpg 300w,
@@ -207,11 +207,11 @@ gallery2:
             <img sizes="(max-width: 1280px) 100vw, 1280px" srcset="
             /assets/images/maldives/nowebp/maldives-male-harbour-lonely-man-bow-1280w_p3wtwn_c_scale,w_1200.jpg 1200w,
             /assets/images/maldives/nowebp/maldives-male-harbour-lonely-man-bow-1280w_p3wtwn_c_scale,w_1280.jpg 1280w"
-                src="/assets/images/maldives/nowebp/maldives-male-harbour-lonely-man-bow-1280w_p3wtwn_c_scale,w_1280.jpg" alt="male maldives 2014 by freelance photographer mark l chaves">
+                src="/assets/images/maldives/nowebp/maldives-male-harbour-lonely-man-bow-1280w_p3wtwn_c_scale,w_1280.jpg" alt="male maldives 2014">
         </picture>
     </a>
     <a href="/assets/images/maldives/nowebp/man-under-mantas-statue-maafushi-562w.jpg"
-        title="flying mantas maldives 2014 by freelance photographer mark l chaves" class="image-popup">
+        title="flying mantas maldives 2014" class="image-popup">
         <picture>
             <source media="(max-width: 767px)" sizes="(max-width: 562px) 100vw, 562px" srcset="
             /assets/images/maldives/nowebp/man-under-mantas-statue-maafushi-562w_aebmso_c_scale,w_300.jpg 300w,
@@ -226,7 +226,7 @@ gallery2:
             /assets/images/maldives/nowebp/man-under-mantas-statue-maafushi-562w_aebmso_c_scale,w_600.jpg 600w,
             /assets/images/maldives/nowebp/man-under-mantas-statue-maafushi-562w_aebmso_c_scale,w_562.jpg 562w"
                 src="/assets/images/maldives/nowebp/man-under-mantas-statue-maafushi-562w_aebmso_c_scale,w_562.jpg"
-                alt="flying mantas maldives 2014 by freelance photographer mark l chaves">
+                alt="flying mantas maldives 2014">
         </picture>
     </a>
 </figure>

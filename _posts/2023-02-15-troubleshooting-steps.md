@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-300w.webp
   overlay_image: /assets/images/blog/bali-ubud-pasar-jalan2-cowok2-sepeda-motor-1280w.webp
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "everyday bali by mark l chaves"
+  caption: "everyday bali"
 swiper: false;
 blog: true;
 excerpt_separator: <!--more-->

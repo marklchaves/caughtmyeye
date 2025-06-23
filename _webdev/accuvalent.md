@@ -12,12 +12,12 @@ header:
 gallery1:
   - url: /assets/images/webdev/accuvalent-homepage-1280w.jpg
     image_path: /assets/images/webdev/accuvalent-homepage-1280w.jpg
-    alt: "wordpress design/development for accuvalent, inc. by freelance web developer mark l chaves"
-    title: "wordpress design/development for accuvalent, inc. by freelance web developer mark l chaves"
+    alt: "wordpress design/development for accuvalent, inc."
+    title: "wordpress design/development for accuvalent, inc."
   - url: /assets/images/webdev/accuvalent-home-page-offerings-panel-1280w.jpg
     image_path: /assets/images/webdev/accuvalent-home-page-offerings-panel-1280w.jpg
-    alt: "wordpress design/development for accuvalent, inc. by freelance web developer mark l chaves"
-    title: "wordpress design/development for accuvalent, inc. by freelance web developer mark l chaves"
+    alt: "wordpress design/development for accuvalent, inc."
+    title: "wordpress design/development for accuvalent, inc."
 ---
 
 {% include gallery id="gallery1" %}
