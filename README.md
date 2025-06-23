@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6f40102-b26e-4d35-94a1-cce34208e0fe/deploy-status)](https://app.netlify.com/sites/epic-mclean-17759d/deploys)
