@@ -4,8 +4,6 @@ main:
     url: /photography/
   - title: "writing"
     url: /writing/
-  - title: "web dev"
-    url: /webdev/
   - title: "cover me"
     url: /cover-me/
   - title: "blog"
