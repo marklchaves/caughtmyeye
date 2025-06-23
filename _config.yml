@@ -82,18 +82,12 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-#twitter:
-#  username               : marklchaves
-#facebook:
-#  username               :
-#  app_id                 :
-#  publisher              :
 og_image                 : /assets/images/bali/rina-jendela-warung-sepeda-motor-1-ed-1280w.webp # Open Graph/default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Person # Person or Organization (defaults to Person)
-  name                   : mark l chaves # If the user or organization name differs from the site's name
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -105,10 +99,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "mark l chaves"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "i'm from ohio. i feed stray dogs & cats."
-  location         : "bali"
+  bio              : ""
+  location         : ""
   email            :
   links:
 
