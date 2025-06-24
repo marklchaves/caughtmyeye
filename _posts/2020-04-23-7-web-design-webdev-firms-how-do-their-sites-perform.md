@@ -141,14 +141,6 @@ Thanks for reading!
 
 ---
 
-### Wanna geek-out on your site speed? 
-
-[Let's talk](https://www.caughtmyeye.cc/)!
-
-Should you check my site's performance first? Absolutely! Here's my [showcase site's benchmark](/performance/hugo-pagespeed#benchmark). 
-
----
-
 ## Credits
 
 Sliders courtesy of [Swiper](https://swiperjs.com/).
