@@ -1,6 +1,6 @@
 ---
 title: writing
-excerpt: writing portfolio
+excerpt: writing stuff
 date: 2019-11-23 12:30:00 +0800
 layout: splash
 permalink: /writing/
@@ -45,7 +45,7 @@ feature_row5:
     alt: "The Inner Journey - Canyoning in Bali published on AirAsia Travel 3Sixty Magazine"
     title: "AirAsia Travel 3Sixty Magazine // The Inner Journey // Canyoning in Bali"
 ---
-# writing portfolio
+# writing
 
 {% include feature_row id="feature_row1-1" type="center" %}
 
