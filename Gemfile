@@ -1,6 +1,13 @@
 source "https://rubygems.org"
-gem 'jekyll', '4.3.2'
-gem 'jemoji', '0.13.0'
-gem "jekyll-webp"
+gem 'jekyll', '3.9.0'
+gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
+gem 'jekyll-gist'
+gem 'jekyll-feed'
+gem 'jemoji'
+gem 'jekyll-include-cache'
+gem 'jekyll-webp'
+gem 'kramdown-parser-gfm'
 gem "faraday-retry"
 gem "minimal-mistakes-jekyll"
+gem "connection_pool", "~> 2.2"
