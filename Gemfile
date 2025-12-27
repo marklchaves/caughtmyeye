@@ -11,3 +11,4 @@ gem 'kramdown-parser-gfm'
 gem "faraday-retry"
 gem "minimal-mistakes-jekyll"
 gem "connection_pool", "~> 2.2"
+gem 'minitest', '<= 5.26.0'
